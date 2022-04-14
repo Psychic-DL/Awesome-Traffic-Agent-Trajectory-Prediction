@@ -27,3 +27,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 # 2021 Conference and Journal Papers
 
 # 2022 Conference and Journal Papers
+## Conference Papers
+* Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)] [[code](https://github.com/shuaishiliu/SIT)]
+* 

@@ -21,10 +21,16 @@ Please feel free to pull request to add new resources or send emails to us for q
 # Traditional Methods
 
 # 2019 and Before Conference and Journal Papers
+## Conference Papers
+## Journal Papers
 
 # 2020 Conference and Journal Papers
+## Conference Papers
+## Journal Papers
 
 # 2021 Conference and Journal Papers
+## Conference Papers
+## Journal Papers
 
 # 2022 Conference and Journal Papers
 ## Conference Papers

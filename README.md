@@ -29,4 +29,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 # 2022 Conference and Journal Papers
 ## Conference Papers
 * Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)] [[code](https://github.com/shuaishiliu/SIT)]
+* Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]
+* Scene Transformer: A unified architecture for predicting future trajectories of multiple agents, ICLR 2022. [[paper](https://openreview.net/pdf?id=Wm3EA5OlHsG)]
+* You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction, ICLR 2022. [[paper](https://arxiv.org/pdf/2110.05304.pdf)]
 * 

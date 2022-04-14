@@ -32,4 +32,5 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]
 * Scene Transformer: A unified architecture for predicting future trajectories of multiple agents, ICLR 2022. [[paper](https://openreview.net/pdf?id=Wm3EA5OlHsG)]
 * You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction, ICLR 2022. [[paper](https://arxiv.org/pdf/2110.05304.pdf)]
-* 
+* Remember Intentions: Retrospective-Memory-based Trajectory Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.11474.pdf)] [[code](https://github.com/MediaBrain-SJTU/MemoNet)]
+* STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.01026.pdf)] [[code](https://github.com/4DVLab/STCrowd.git)]

@@ -1,2 +1,2 @@
 # Awesome-Traffic-Agent-Trajectory-Prediction
- This is a list of papers related to traffic agent trajectory prediction. 
+This is a list of the latest research materials (datasets, papers and codes) related to trajectory prediction. (Continuous update)

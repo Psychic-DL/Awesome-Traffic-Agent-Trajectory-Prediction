@@ -37,6 +37,10 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks, ICRA 2021. [[paper](https://www.researchgate.net/publication/346614349_Pedestrian_Trajectory_Prediction_using_Context-Augmented_Transformer_Networks)] [[code](https://github.com/KhaledSaleh/Context-Transformer-PedTraj)]
 * Spectral Temporal Graph Neural Network for Trajectory Prediction, ICRA 2021. [[paper](https://arxiv.org/pdf/2106.02930.pdf)]
 * AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_AgentFormer_Agent-Aware_Transformers_for_Socio-Temporal_Multi-Agent_Forecasting_ICCV_2021_paper.pdf)] [[code](https://github.com/Khrylx/AgentFormer)] [[website](https://ye-yuan.com/agentformer/)]
+* Likelihood-Based Diverse Sampling for Trajectory Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jason_Likelihood-Based_Diverse_Sampling_for_Trajectory_Forecasting_ICCV_2021_paper.pdf)] [[code](https://github.com/JasonMa2016/LDS)]
+* MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction, ICCV 2021. [[paper](https://arxiv.org/pdf/2108.09274.pdf)] [[code](https://github.com/selflein/MG-GAN)]
+* Spatial-Temporal Consistency Network for Low-Latency Trajectory Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Spatial-Temporal_Consistency_Network_for_Low-Latency_Trajectory_Forecasting_ICCV_2021_paper.pdf)]
+* Three Steps to Multimodal Trajectory Prediction: Modality Clustering, Classification and Synthesis, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Three_Steps_to_Multimodal_Trajectory_Prediction_Modality_Clustering_Classification_and_ICCV_2021_paper.pdf)]
 * 
 ## Journal Papers
 * Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]
@@ -46,6 +50,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Vehicle Trajectory Prediction Using Generative Adversarial Network With Temporal Logic Syntax Tree Features, IEEE ROBOTICS AND AUTOMATION LETTERS. [[paper](https://www.gilitschenski.org/igor/publications/202104-ral-logic_gan/ral21-logic_gan.pdf)]
 * Vehicle Trajectory Prediction Using LSTMs with Spatial-Temporal Attention Mechanisms, IEEE Intelligent Transportation Systems Magazine. [[paper](http://urdata.net/files/2020_VTP.pdf)] [[code](https://github.com/leilin-research/VTP)]
 * Long Short-Term Memory-Based Human-Driven Vehicle Longitudinal Trajectory Prediction in a Connected and Autonomous Vehicle Environment, Transportation Research Record. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0361198121993471)]
+* 
 ## Others
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]
 * Trajectory Prediction using Generative Adversarial Network in Multi-Class Scenarios, arXiv preprint arXiv:2110.11401, 2021. [[paper](https://arxiv.org/pdf/2110.11401.pdf)]

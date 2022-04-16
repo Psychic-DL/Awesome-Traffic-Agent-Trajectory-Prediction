@@ -47,6 +47,13 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_Safety-Aware_Motion_Prediction_With_Unseen_Vehicles_for_Autonomous_Driving_ICCV_2021_paper.pdf)] [[code](https://github.com/xrenaa/Safety-Aware-Motion-Prediction)]
 * LOKI: Long Term and Key Intentions for Trajectory Prediction, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.pdf)] [[dataset](https://usa.honda-ri.com/loki)]
 * Human Trajectory Prediction via Counterfactual Analysis, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Human_Trajectory_Prediction_via_Counterfactual_Analysis_ICCV_2021_paper.pdf)] [[code](https://github.com/CHENGY12/CausalHTP)]
+* Personalized Trajectory Prediction via Distribution Discrimination, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Personalized_Trajectory_Prediction_via_Distribution_Discrimination_ICCV_2021_paper.pdf)] [[code](https://github.com/CHENGY12/DisDis)]
+* Unlimited Neighborhood Interaction for Heterogeneous Trajectory Prediction, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Unlimited_Neighborhood_Interaction_for_Heterogeneous_Trajectory_Prediction_ICCV_2021_paper.pdf)] [[code](https://github.com/zhengfang1997/Unlimited-Neighborhood-Interaction-for-Heterogeneous-Trajectory-Prediction)]
+* Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision, AAAI 2021. [[paper](https://arxiv.org/pdf/2012.01884.pdf)]
+* SCAN: A Spatial Context Attentive Network for Joint Multi-Agent Intent Prediction, AAAI 2021. [[paper](https://arxiv.org/pdf/2102.00109.pdf)]
+* Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction, AAAI 2021. [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1677.BaeI.pdf)]
+* MotionRNN: A Flexible Model for Video Prediction withSpacetime-Varying Motions, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_MotionRNN_A_Flexible_Model_for_Video_Prediction_With_Spacetime-Varying_Motions_CVPR_2021_paper.pdf)]
+* Multimodal Motion Prediction with Stacked Transformers, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Multimodal_Motion_Prediction_With_Stacked_Transformers_CVPR_2021_paper.pdf)] [[code](https://github.com/decisionforce/mmTransformer)] [[website](https://decisionforce.github.io/mmTransformer/?utm_source=catalyzex.com)]
 * 
 * Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf)] [[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/euro-pvi-dataset)]
 * 
@@ -58,6 +65,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Vehicle Trajectory Prediction Using Generative Adversarial Network With Temporal Logic Syntax Tree Features, IEEE ROBOTICS AND AUTOMATION LETTERS. [[paper](https://www.gilitschenski.org/igor/publications/202104-ral-logic_gan/ral21-logic_gan.pdf)]
 * Vehicle Trajectory Prediction Using LSTMs with Spatial-Temporal Attention Mechanisms, IEEE Intelligent Transportation Systems Magazine. [[paper](http://urdata.net/files/2020_VTP.pdf)] [[code](https://github.com/leilin-research/VTP)]
 * Long Short-Term Memory-Based Human-Driven Vehicle Longitudinal Trajectory Prediction in a Connected and Autonomous Vehicle Environment, Transportation Research Record. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0361198121993471)]
+* Temporal Pyramid Network with Spatial-Temporal Attention for Pedestrian Trajectory Prediction, IEEE Transactions on Network Science and Engineering. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373939)]
 * 
 ## Others
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]

@@ -30,7 +30,19 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # 2021 Conference and Journal Papers
 ## Conference Papers
+* Collaborative Uncertainty in Multi-Agent Trajectory Forecasting, NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf)]
+* GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction, NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/e3670ce0c315396e4836d7024abcf3dd-Paper.pdf)] [[code](https://github.com/longyuanli/GRIN_NeurIPS21)]
+* 
+* LibCity: An Open Library for Traffic Prediction, SIGSPATIAL 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483923)] [[code](https://github.com/LibCity/Bigscity-LibCity)]
+* Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575242)]
+* Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks, ICRA 2021. [[paper](https://www.researchgate.net/publication/346614349_Pedestrian_Trajectory_Prediction_using_Context-Augmented_Transformer_Networks)] [[code](https://github.com/KhaledSaleh/Context-Transformer-PedTraj)]
+* 
 ## Journal Papers
+* Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]
+* Human Trajectory Forecasting in Crowds: A Deep Learning Perspective,  IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9408398)] [[code](https://github.com/vita-epfl/trajnetplusplusbaselines)]
+* TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning, Transportation Research Part C. [[paper](https://reader.elsevier.com/reader/sd/pii/S0968090X21001121?token=3DEACAF2AD919E99B3331E74F747B61A0EAC2741E79B6F99F4F806155EB394F163D74F2F83806358BBD65911E107EF01&originRegion=us-east-1&originCreation=20220416040814)] [[code](https://github.com/benchoi93/TrajGAIL)]
+* A context-aware pedestrian trajectory prediction framework for automated vehicles, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2104.08123.pdf)]
+* 
 
 # 2022 Conference and Journal Papers
 ## Conference Papers
@@ -51,3 +63,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Forecasting from LiDAR via Future Object Detection, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.16297.pdf)] [[code](https://github.com/neeharperi/FutureDet)]
 ## Journal Papers
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]
+
+# Related Review Papers
+* Generative Adversarial Networks for Spatio-temporal Data: A Survey, ACM Transactions on Intelligent Systems and Technology. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474838)]

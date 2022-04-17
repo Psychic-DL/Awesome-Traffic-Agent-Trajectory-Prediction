@@ -54,13 +54,14 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision, AAAI 2021. [[paper](https://arxiv.org/pdf/2012.01884.pdf)]
 * SCAN: A Spatial Context Attentive Network for Joint Multi-Agent Intent Prediction, AAAI 2021. [[paper](https://arxiv.org/pdf/2102.00109.pdf)]
 * Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction, AAAI 2021. [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1677.BaeI.pdf)]
-* MotionRNN: A Flexible Model for Video Prediction withSpacetime-Varying Motions, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_MotionRNN_A_Flexible_Model_for_Video_Prediction_With_Spacetime-Varying_Motions_CVPR_2021_paper.pdf)]
+* MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_MotionRNN_A_Flexible_Model_for_Video_Prediction_With_Spacetime-Varying_Motions_CVPR_2021_paper.pdf)]
 * Multimodal Motion Prediction with Stacked Transformers, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Multimodal_Motion_Prediction_With_Stacked_Transformers_CVPR_2021_paper.pdf)] [[code](https://github.com/decisionforce/mmTransformer)] [[website](https://decisionforce.github.io/mmTransformer/?utm_source=catalyzex.com)]
 * SGCN: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf)] [[code](https://github.com/shuaishiliu/SGCN)]
 * LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_LaPred_Lane-Aware_Prediction_of_Multi-Modal_Future_Trajectories_of_Dynamic_Agents_CVPR_2021_paper.pdf)]
 * Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction, CVPR 2021. [[paper](https://arxiv.org/pdf/2104.08277.pdf)]
-* 
 * Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf)] [[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/euro-pvi-dataset)]
+* Decoder Fusion RNN: Context and Interaction Aware Decoders for Trajectory Prediction, IROS 2021. [[paper](https://arxiv.org/pdf/2108.05814.pdf)]
+* Joint Intention and Trajectory Prediction Based on Transformer, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636241)]
 * 
 ## Journal Papers
 * Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]

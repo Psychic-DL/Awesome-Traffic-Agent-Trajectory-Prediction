@@ -54,6 +54,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction, AAAI 2021. [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1677.BaeI.pdf)]
 * MotionRNN: A Flexible Model for Video Prediction withSpacetime-Varying Motions, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_MotionRNN_A_Flexible_Model_for_Video_Prediction_With_Spacetime-Varying_Motions_CVPR_2021_paper.pdf)]
 * Multimodal Motion Prediction with Stacked Transformers, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Multimodal_Motion_Prediction_With_Stacked_Transformers_CVPR_2021_paper.pdf)] [[code](https://github.com/decisionforce/mmTransformer)] [[website](https://decisionforce.github.io/mmTransformer/?utm_source=catalyzex.com)]
+* SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf)] [[code](https://github.com/shuaishiliu/SGCN)]
 * 
 * Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf)] [[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/euro-pvi-dataset)]
 * 

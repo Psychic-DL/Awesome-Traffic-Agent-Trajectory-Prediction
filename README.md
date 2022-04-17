@@ -35,6 +35,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * LibCity: An Open Library for Traffic Prediction, SIGSPATIAL 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483923)] [[code](https://github.com/LibCity/Bigscity-LibCity)]
 * Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575242)]
 * Social-STAGE: Spatio-Temporal Multi-Modal Future Trajectory Forecast, ICRA 2021. [[paper](https://arxiv.org/pdf/2011.04853.pdf)]
+* AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention, ICRA 2021. [[paper](https://arxiv.org/pdf/2101.05682.pdf)]
 * Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks, ICRA 2021. [[paper](https://www.researchgate.net/publication/346614349_Pedestrian_Trajectory_Prediction_using_Context-Augmented_Transformer_Networks)] [[code](https://github.com/KhaledSaleh/Context-Transformer-PedTraj)]
 * Spectral Temporal Graph Neural Network for Trajectory Prediction, ICRA 2021. [[paper](https://arxiv.org/pdf/2106.02930.pdf)]
 * AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_AgentFormer_Agent-Aware_Transformers_for_Socio-Temporal_Multi-Agent_Forecasting_ICCV_2021_paper.pdf)] [[code](https://github.com/Khrylx/AgentFormer)] [[website](https://ye-yuan.com/agentformer/)]
@@ -74,6 +75,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Others
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]
 * Trajectory Prediction using Generative Adversarial Network in Multi-Class Scenarios, arXiv preprint arXiv:2110.11401, 2021. [[paper](https://arxiv.org/pdf/2110.11401.pdf)]
+* Spatial-Channel Transformer Network for Trajectory Prediction on the Traffic Scenes, arXiv preprint arXiv:2101.11472, 2021. [[paper](https://arxiv.org/ftp/arxiv/papers/2101/2101.11472.pdf)]
 
 
 # 2022 Conference and Journal Papers

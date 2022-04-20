@@ -54,10 +54,12 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Journal Papers
 * TrajVAE: A Variational AutoEncoder model for trajectory generation, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)]
 * Social-Aware Pedestrian Trajectory Prediction via States Refinement LSTM, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261113)]
+* Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126166)]
 * 
 ## Others
 * Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]
-* 
+* Robust Trajectory Forecasting for Multiple Intelligent Agents in Dynamic Scene, arXiv preprint arXiv:2005.13133, 2020. [[paper](https://arxiv.org/pdf/2005.13133.pdf)]
+* Map-Adaptive Goal-Based Trajectory Prediction, arXiv preprint arXiv:2009.04450, 2020. [[paper](https://arxiv.org/pdf/2009.04450.pdf)]
 
 # 2021 Conference and Journal Papers
 ## Conference Papers

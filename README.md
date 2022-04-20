@@ -34,7 +34,14 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Conference Papers
 * Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/pdf/2005.08514.pdf)] [[code](https://github.com/Majiker/STAR)]
 * AutoTrajectory: Label-Free Trajectory Extraction and Prediction from Videos Using Dynamic Points, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58601-0_38.pdf)]
-* 
+* PiP: Planning-Informed Trajectory Prediction for Autonomous Driving, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58589-1_36.pdf)] [[code](https://github.com/Haoran-SONG/PiP-Planning-informed-Prediction)]
+* SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58583-9_28.pdf)]
+* Trajectron++: Dynamically-Feasible Trajectory Forecasting with Heterogeneous Data, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58523-5_40.pdf)] [[code](https://github.com/StanfordASL/Trajectron-plus-plus)]
+* SimAug: Learning Robust Representations from Simulation for Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58601-0_17.pdf)] [[code](https://next.cs.cmu.edu/simaug/)]
+* Diverse and Admissible Trajectory Forecasting Through Multimodal Context Understanding, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58621-8_17.pdf)] [[code](https://github.com/kami93/CMU-DATF)]
+* It Is Not the Journey But the Destination: Endpoint Conditioned Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58536-5_45.pdf)] [[code](https://github.com/HarshayuGirase/Human-Path-Prediction)]
+* How Can I See My Future? FvTraj: Using First-Person View for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58571-6_34.pdf)]
+* Dynamic and Static Context-Aware LSTM for Multi-agent Motion Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58589-1_33.pdf)]
 * Transformer Networks for Trajectory Forecasting, International Conference on Pattern Recognition (ICPR 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412190)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
 * TNT: Target-driveN Trajectory Prediction, Conference on Robot Learning (CoRL 2020). [[paper](https://arxiv.org/pdf/2008.08294.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
 * VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf)] [[code](https://github.com/DQSSSSS/VectorNet)]

@@ -20,13 +20,27 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # Traditional Methods
 
-# 2019 and Before Conference and Journal Papers
+# 2018 and Before Conference and Journal Papers
+## Conference Papers
+## Journal Papers
+## Others
+* An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]
+
+# 2019 Conference and Journal Papers
 ## Conference Papers
 ## Journal Papers
 
 # 2020 Conference and Journal Papers
 ## Conference Papers
+* Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/pdf/2005.08514.pdf)] [[code](https://github.com/Majiker/STAR)]
+* Transformer Networks for Trajectory Forecasting, International Conference on Pattern Recognition (ICPR 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412190)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
+* TNT: Target-driveN Trajectory Prediction, Conference on Robot Learning (CoRL 2020). [[paper](https://arxiv.org/pdf/2008.08294.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
+* 
 ## Journal Papers
+* TrajVAE: A Variational AutoEncoder model for trajectory generation, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)]
+* 
+## Others
+* 
 
 # 2021 Conference and Journal Papers
 ## Conference Papers
@@ -65,6 +79,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Joint Intention and Trajectory Prediction Based on Transformer, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636241)]
 * Maneuver-based Trajectory Prediction for Self-driving Cars Using Spatio-temporal Convolutional Networks, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636875)]
 * Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9476975)]
+
+
 ## Journal Papers
 * Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]
 * Human Trajectory Forecasting in Crowds: A Deep Learning Perspective,  IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9408398)] [[code](https://github.com/vita-epfl/trajnetplusplusbaselines)]
@@ -99,11 +115,16 @@ Please feel free to pull request to add new resources or send emails to us for q
 * How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.04781.pdf)]
 * Learning from All Vehicles, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.11934.pdf)] [[code](https://github.com/dotchen/LAV)]
 * Forecasting from LiDAR via Future Object Detection, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.16297.pdf)] [[code](https://github.com/neeharperi/FutureDet)]
+
+
 ## Journal Papers
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]
 * MDST-DGCN: A Multilevel Dynamic Spatiotemporal Directed Graph Convolutional Network for Pedestrian Trajectory Prediction, Computational Intelligence and Neuroscience. [[paper](https://downloads.hindawi.com/journals/cin/2022/4192367.pdf)]
 * Graph-Based Spatial-Temporal Convolutional Network for Vehicle Trajectory Prediction in Autonomous Driving, IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9737058)]
 
+
 # Related Review Papers
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, ACM Transactions on Intelligent Systems and Technology. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474838)]
 * A Review of Deep Learning-Based Methods for Pedestrian Trajectory Prediction, Sensors. [[paper](https://www.mdpi.com/1424-8220/21/22/7543/pdf)]
+* A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, Liu J, arXiv preprint arXiv:2110.10436, 2021. [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
+* 

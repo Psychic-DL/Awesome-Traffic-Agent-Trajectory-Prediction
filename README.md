@@ -54,8 +54,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Spatio-Temporal Graph Structure Learning for Traffic Forecasting, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5470/5326)]
 * GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5477/5333)] [[code](https://github.com/zhengchuanpan/GMAN)]
 * CF-LSTM: Cascaded Feature-Based Long Short-Term Networks for Predicting Pedestrian Trajectory, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6943/6797)]
-* OMuLeT: Online Multi-Lead Time Location Prediction for Hurricane Trajectory Forecasting, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5444/5300]
-* Multimodal Interaction-Aware Trajectory Prediction in Crowded Space, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6874/6728]
+* OMuLeT: Online Multi-Lead Time Location Prediction for Hurricane Trajectory Forecasting, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5444/5300)]
+* Multimodal Interaction-Aware Trajectory Prediction in Crowded Space, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6874/6728)]
 * 
 
 ## Journal Papers

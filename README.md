@@ -56,7 +56,16 @@ Please feel free to pull request to add new resources or send emails to us for q
 * CF-LSTM: Cascaded Feature-Based Long Short-Term Networks for Predicting Pedestrian Trajectory, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6943/6797)]
 * OMuLeT: Online Multi-Lead Time Location Prediction for Hurricane Trajectory Forecasting, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5444/5300)]
 * Multimodal Interaction-Aware Trajectory Prediction in Crowded Space, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6874/6728)]
+* STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_STINet_Spatio-Temporal-Interactive_Network_for_Pedestrian_Detection_and_Trajectory_Prediction_CVPR_2020_paper.pdf)]
+* CoverNet: Multimodal Behavior Prediction using Trajectory Sets, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Phan-Minh_CoverNet_Multimodal_Behavior_Prediction_Using_Trajectory_Sets_CVPR_2020_paper.pdf)]
+* TPNet: Trajectory Proposal Network for Motion Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_TPNet_Trajectory_Proposal_Network_for_Motion_Prediction_CVPR_2020_paper.pdf)]
+* Reciprocal Learning Networks for Human Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Reciprocal_Learning_Networks_for_Human_Trajectory_Prediction_CVPR_2020_paper.pdf)]
+* MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Marchetti_MANTRA_Memory_Augmented_Networks_for_Multiple_Trajectory_Prediction_CVPR_2020_paper.pdf)]
+* Recursive Social Behavior Graph for Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Recursive_Social_Behavior_Graph_for_Trajectory_Prediction_CVPR_2020_paper.pdf)]
+* The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf)] [[code](https://github.com/google/next-prediction)]
+* Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf)] [[code](https://github.com/abduallahmohamed/Social-STGCNN)]
 * 
+
 
 ## Journal Papers
 * TrajVAE: A Variational AutoEncoder model for trajectory generation, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)]

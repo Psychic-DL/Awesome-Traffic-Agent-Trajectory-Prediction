@@ -28,6 +28,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # 2019 Conference and Journal Papers
 ## Conference Papers
+* MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction, Conference on Robot Learning (CoRL 2020). [[paper](https://arxiv.org/pdf/1910.05449.pdf)]
+* 
 ## Journal Papers
 
 # 2020 Conference and Journal Papers
@@ -49,6 +51,11 @@ Please feel free to pull request to add new resources or send emails to us for q
 * OpenTraj: Assessing Prediction Complexity in Human Trajectories Datasets, ACCV 2020. [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Amirian_OpenTraj_Assessing_Prediction_Complexity_in_Human_Trajectories_Datasets_ACCV_2020_paper.pdf)] [[code](https://github.com/crowdbotp/OpenTraj)]
 * EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning, NIPS 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/e4d8163c7a068b65a64c89bd745ec360-Paper.pdf)]
 * Multi-agent Trajectory Prediction with Fuzzy Query Attention, NIPS 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/fe87435d12ef7642af67d9bc82a8b3cd-Paper.pdf)] [[code](https://github.com/nitinkamra1992/FQA)]
+* Spatio-Temporal Graph Structure Learning for Traffic Forecasting, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5470/5326)]
+* GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5477/5333)] [[code](https://github.com/zhengchuanpan/GMAN)]
+* CF-LSTM: Cascaded Feature-Based Long Short-Term Networks for Predicting Pedestrian Trajectory, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6943/6797)]
+* OMuLeT: Online Multi-Lead Time Location Prediction for Hurricane Trajectory Forecasting, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5444/5300]
+* Multimodal Interaction-Aware Trajectory Prediction in Crowded Space, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6874/6728]
 * 
 
 ## Journal Papers

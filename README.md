@@ -64,6 +64,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Recursive Social Behavior Graph for Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Recursive_Social_Behavior_Graph_for_Trajectory_Prediction_CVPR_2020_paper.pdf)]
 * The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf)] [[code](https://github.com/google/next-prediction)]
 * Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf)] [[code](https://github.com/abduallahmohamed/Social-STGCNN)]
+* UST: Unifying Spatio-Temporal Context for Trajectory Prediction in Autonomous Driving, IROS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9340943)]
+* Interaction-Aware Trajectory Prediction of Connected Vehicles using CNN-LSTM Networks, Annual Conference of the IEEE Industrial Electronics Society (IECON 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9255162)]
+* GISNet:Graph-Based Information Sharing Network For Vehicle Trajectory Prediction, International Joint Conference on Neural Networks (IJCNN 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206770)]
 * 
 
 
@@ -71,6 +74,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * TrajVAE: A Variational AutoEncoder model for trajectory generation, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)]
 * Social-Aware Pedestrian Trajectory Prediction via States Refinement LSTM, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261113)]
 * Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126166)]
+* Attention Based Vehicle Trajectory Prediction, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084255)]
 * 
 ## Others
 * Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]

@@ -75,6 +75,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Social-Aware Pedestrian Trajectory Prediction via States Refinement LSTM, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261113)]
 * Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126166)]
 * Attention Based Vehicle Trajectory Prediction, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084255)]
+* AC-VRNN: Attentive Conditional-VRNN for multi-future trajectory prediction, Computer Vision and Image Understanding. [[paper](https://reader.elsevier.com/reader/sd/pii/S1077314221000898?token=F06466B50D3AE170EC14D460C1AFE91DFE5D61047357252C808857A2BBD4FE4CF2FF3076AD391F842F155CAD2B102C5F&originRegion=eu-west-1&originCreation=20220421024623)]
 * 
 ## Others
 * Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]
@@ -118,6 +119,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Joint Intention and Trajectory Prediction Based on Transformer, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636241)]
 * Maneuver-based Trajectory Prediction for Self-driving Cars Using Spatio-temporal Convolutional Networks, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636875)]
 * Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9476975)]
+* MultiXNet: Multiclass Multistage Multimodal Motion Prediction, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575718)]
 
 
 ## Journal Papers

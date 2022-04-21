@@ -32,6 +32,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 ## Journal Papers
 
+## Others
+
 # 2020 Conference and Journal Papers
 ## Conference Papers
 * Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/pdf/2005.08514.pdf)] [[code](https://github.com/Majiker/STAR)]

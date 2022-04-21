@@ -29,11 +29,16 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # 2019 Conference and Journal Papers
 ## Conference Papers
-* MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction, Conference on Robot Learning (CoRL 2020). [[paper](https://arxiv.org/pdf/1910.05449.pdf)]
+* MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction, Conference on Robot Learning (CoRL 2019). [[paper](https://arxiv.org/pdf/1910.05449.pdf)]
+* TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents, AAAI 2019. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4569/4447)] [[code](https://github.com/huang-xx/TrafficPredict)]
+* Data-Driven Crowd Simulation with Generative Adversarial Networks, International Conference on Computer Animation and Social Agents (CASA 2019). [[paper](https://dl.acm.org/doi/pdf/10.1145/3328756.3328769)] [[code](https://github.com/amiryanj/crowdGAN)]
+* RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs, ACM Computer Science in Cars Symposium (CSCS 2019 ). [[paper](https://dl.acm.org/doi/pdf/10.1145/3359999.3360495)] [[code](https://github.com/rohanchandra30/TrackNPred)]
 * 
 ## Journal Papers
-
+*
 ## Others
+* Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks, arXiv preprint arXiv:1912.07882, 2019. [[paper](https://arxiv.org/pdf/1912.07882.pdf)]
+* 
 
 # 2020 Conference and Journal Papers
 ## Conference Papers
@@ -181,4 +186,5 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Review of Deep Learning-Based Methods for Pedestrian Trajectory Prediction, Sensors 2021. [[paper](https://www.mdpi.com/1424-8220/21/22/7543/pdf)]
 * A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, Liu J, arXiv preprint arXiv:2110.10436, 2021. [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
 * Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies, arXiv preprint arXiv:2006.06091, 2020. [[paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)]
+* A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving, Computer Graphics Forum 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13803?saml_referrer)]
 * 

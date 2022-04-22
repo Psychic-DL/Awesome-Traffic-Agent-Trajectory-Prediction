@@ -39,8 +39,16 @@ Please feel free to pull request to add new resources or send emails to us for q
 * SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf)] [[code](https://github.com/coolsunxu/sophie)]
 * SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf)] [[code](https://github.com/zhangpur/SR-LSTM)]
 * TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf)] [[code](https://github.com/BenMSK/trajectory_prediction_TraPHic)]
-* Argoverse: 3D Tracking and Forecasting with Rich Maps, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)]
+* Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf)]
+* The Trajectron: Probabilistic Multi-Agent Trajectory Modeling With Dynamic Spatiotemporal Graphs, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ivanovic_The_Trajectron_Probabilistic_Multi-Agent_Trajectory_Modeling_With_Dynamic_Spatiotemporal_Graphs_ICCV_2019_paper.pdf)] [[code](https://github.com/StanfordASL/Trajectron)]
+* Joint Prediction for Kinematic Trajectories in Vehicle-Pedestrian-Mixed Scenes, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Joint_Prediction_for_Kinematic_Trajectories_in_Vehicle-Pedestrian-Mixed_Scenes_ICCV_2019_paper.pdf)]
+* STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)] [[code](https://github.com/huang-xx/STGAT)]
+* A New Multi-vehicle Trajectory Generator to Simulate Vehicle-to-Vehicle Encounters, ICRA 2019. [[paper](https://arxiv.org/pdf/1809.05680.pdf)]
+* Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793868)]
+* StarNet: Pedestrian Trajectory Prediction using Deep Neural Network in Star Topology, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967811)]
+* Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction and Traffic Rules, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967708)]
 * 
+
 
 ## Journal Papers
 *
@@ -48,6 +56,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks, arXiv preprint arXiv:1912.07882, 2019. [[paper](https://arxiv.org/pdf/1912.07882.pdf)]
 * Learning to Infer Relations for Future Trajectory Forecast, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)]
 * Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf)] [[code](https://github.com/crowdbotp/socialways)]
+* Probabilistic Trajectory Prediction for Autonomous Vehicles with Attentive Recurrent Neural Process, arXiv preprint arXiv:1910.08102, 2019. [[paper](https://arxiv.org/pdf/1910.08102.pdf)]
 * 
 
 # 2020 Conference and Journal Papers
@@ -64,6 +73,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Dynamic and Static Context-Aware LSTM for Multi-agent Motion Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58589-1_33.pdf)]
 * Transformer Networks for Trajectory Forecasting, International Conference on Pattern Recognition (ICPR 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412190)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
 * TNT: Target-driveN Trajectory Prediction, Conference on Robot Learning (CoRL 2020). [[paper](https://arxiv.org/pdf/2008.08294.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
+* Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians, CoRL 2020. [[paper](https://autonomousrobots.nl/docs/20-Brito-CoRL.pdf)] [[code](https://github.com/tud-amr/social_vrnn)]
 * VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf)] [[code](https://github.com/DQSSSSS/VectorNet)]
 * An Attention-Based Interaction-Aware Spatio-Temporal Graph Neural Network for Trajectory Prediction, International Conference on Neural Information Processing (ICONIP 2020). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-63823-8_5.pdf)]
 * OpenTraj: Assessing Prediction Complexity in Human Trajectories Datasets, ACCV 2020. [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Amirian_OpenTraj_Assessing_Prediction_Complexity_in_Human_Trajectories_Datasets_ACCV_2020_paper.pdf)] [[code](https://github.com/crowdbotp/OpenTraj)]
@@ -104,6 +114,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Map-Adaptive Goal-Based Trajectory Prediction, arXiv preprint arXiv:2009.04450, 2020. [[paper](https://arxiv.org/pdf/2009.04450.pdf)]
 * A Spatial-Temporal Attentive Network with Spatial Continuity for Trajectory Prediction, arXiv preprint arXiv:2003.06107, 2020. [[paper](https://arxiv.org/pdf/2003.06107v1.pdf)]
 * Trajformer: Trajectory Prediction with Local Self-Attentive Contexts for Autonomous Driving, arXiv preprint arXiv:2011.14910, 2020. [[paper](https://arxiv.org/pdf/2011.14910.pdf)] [[code](https://github.com/Manojbhat09/Trajformer)]
+* TPPO: A Novel Trajectory Predictor with Pseudo Oracle, arXiv preprint arXiv:2002.01852, 2020. [[paper](https://arxiv.org/pdf/2002.01852.pdf)]
+* 
 * 
 
 # 2021 Conference and Journal Papers
@@ -116,6 +128,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention, ICRA 2021. [[paper](https://arxiv.org/pdf/2101.05682.pdf)]
 * Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks, ICRA 2021. [[paper](https://www.researchgate.net/publication/346614349_Pedestrian_Trajectory_Prediction_using_Context-Augmented_Transformer_Networks)] [[code](https://github.com/KhaledSaleh/Context-Transformer-PedTraj)]
 * Spectral Temporal Graph Neural Network for Trajectory Prediction, ICRA 2021. [[paper](https://arxiv.org/pdf/2106.02930.pdf)]
+* Congestion-aware Multi-agent Trajectory Prediction for Collision Avoidance, ICRA 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560994)] [[code](https://github.com/xuxie1031/CollisionFreeMultiAgentTrajectoryPrediciton)]
 * AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_AgentFormer_Agent-Aware_Transformers_for_Socio-Temporal_Multi-Agent_Forecasting_ICCV_2021_paper.pdf)] [[code](https://github.com/Khrylx/AgentFormer)] [[website](https://ye-yuan.com/agentformer/)]
 * Likelihood-Based Diverse Sampling for Trajectory Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jason_Likelihood-Based_Diverse_Sampling_for_Trajectory_Forecasting_ICCV_2021_paper.pdf)] [[code](https://github.com/JasonMa2016/LDS)]
 * MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction, ICCV 2021. [[paper](https://arxiv.org/pdf/2108.09274.pdf)] [[code](https://github.com/selflein/MG-GAN)]
@@ -158,6 +171,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Temporal Pyramid Network with Spatial-Temporal Attention for Pedestrian Trajectory Prediction, IEEE Transactions on Network Science and Engineering. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373939)]
 * An efficient Spatial–Temporal model based on gated linear units for trajectory prediction, Neurocomputing. [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231221018907?token=C894F657732BB6078B77AEC9BD3858338C1A7F1254CCC0BBC34ADA1421A95CF9A4F68BDCA8812457DE27FB37EEB8F198&originRegion=us-east-1&originCreation=20220420144432)]
 * Multi-PPTP: Multiple Probabilistic Pedestrian Trajectory Prediction in the Complex Junction Scene, IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9619864)]
+* A Novel Graph-Based Trajectory Predictor With Pseudo-Oracle, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9447207)]
 * 
 
 
@@ -201,7 +215,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 # Related Review Papers
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, ACM Transactions on Intelligent Systems and Technology 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474838)]
 * A Review of Deep Learning-Based Methods for Pedestrian Trajectory Prediction, Sensors 2021. [[paper](https://www.mdpi.com/1424-8220/21/22/7543/pdf)]
-* A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, Liu J, arXiv preprint arXiv:2110.10436, 2021. [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
+* A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, arXiv preprint arXiv:2110.10436, 2021. [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
 * Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies, arXiv preprint arXiv:2006.06091, 2020. [[paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)]
 * A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving, Computer Graphics Forum 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13803?saml_referrer)]
+* A survey of deep learning techniques for autonomous driving, Journal of Field Robotics 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918?saml_referrer)]
+* Human motion trajectory prediction: a survey, The International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]
 * 

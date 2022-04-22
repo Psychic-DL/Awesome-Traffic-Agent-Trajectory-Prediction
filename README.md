@@ -115,7 +115,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Spatial-Temporal Attentive Network with Spatial Continuity for Trajectory Prediction, arXiv preprint arXiv:2003.06107, 2020. [[paper](https://arxiv.org/pdf/2003.06107v1.pdf)]
 * Trajformer: Trajectory Prediction with Local Self-Attentive Contexts for Autonomous Driving, arXiv preprint arXiv:2011.14910, 2020. [[paper](https://arxiv.org/pdf/2011.14910.pdf)] [[code](https://github.com/Manojbhat09/Trajformer)]
 * TPPO: A Novel Trajectory Predictor with Pseudo Oracle, arXiv preprint arXiv:2002.01852, 2020. [[paper](https://arxiv.org/pdf/2002.01852.pdf)]
-* 
+* Vehicle Trajectory Prediction by Transfer Learning of Semi-Supervised Models, arXiv preprint arXiv:2007.06781, 2020. [[paper](https://arxiv.org/pdf/2007.06781.pdf)]
 * 
 
 # 2021 Conference and Journal Papers

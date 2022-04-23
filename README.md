@@ -48,6 +48,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793868)]
 * StarNet: Pedestrian Trajectory Prediction using Deep Neural Network in Star Topology, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967811)]
 * Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction and Traffic Rules, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967708)]
+* Conditional Generative Neural System for Probabilistic Trajectory Prediction, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967822)]
 * Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)]
 * Multiple Futures Prediction, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/86a1fa88adb5c33bd7a68ac2f9f3f96b-Paper.pdf)] [[code](https://github.com/apple/ml-multiple-futures-prediction)]
 * 

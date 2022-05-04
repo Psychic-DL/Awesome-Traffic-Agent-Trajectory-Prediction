@@ -7,7 +7,6 @@
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/59c497e2e43acb2c0ff6a33244b19a6.png)
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/5a250b453aca04ab3402b4d6279b215.png)
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/172b1087122e79c8a744c7acc9bea62.png)
-![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/855886c14fffb724b1723a6bf0a7582.png)
 
 This is a list of the latest research materials (datasets, papers and codes) related to traffic agent trajectory prediction. (Continuous update)
 

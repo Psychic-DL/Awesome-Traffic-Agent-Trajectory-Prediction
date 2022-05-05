@@ -31,6 +31,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Social Attention: Modeling Attention in Human Crowds, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460504)]
 * Multi-Modal Trajectory Prediction of Surrounding Vehicles with Maneuver based LSTMs, IEEE Intelligent Vehicles Symposium (IV 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500493)]
 * Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture, IV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500658)]
+* Mixed Traffic Trajectory Prediction Using LSTM–Based Models in Shared Space, Annual International Conference on Geographic Information Science 2018. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-78208-9_16.pdf)]
 * Attention Is All You Need, NIPS 2017. [[paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
 * 
 * Generating Long-term Trajectories Using Deep Hierarchical Networks, NIPS 2016. [[paper](https://proceedings.neurips.cc/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf)]
@@ -44,6 +45,11 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Journal Papers
 * Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks 2018. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]
 * An Efficient Algorithm for Optimal Trajectory Generation for Heterogeneous Multi-Agent Systems in Non-Convex Environments, RAL 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8260912)]
+* Network-Wide Vehicle Trajectory Prediction in Urban Traffic Networks using Deep Learning, Transportation Research Record 2018. [[paper](https://www.researchgate.net/profile/Seongjin-Choi-2/publication/327524033_Network-Wide_Vehicle_Trajectory_Prediction_in_Urban_Traffic_Networks_using_Deep_Learning/links/5e3a123e458515072d8015d2/Network-Wide-Vehicle-Trajectory-Prediction-in-Urban-Traffic-Networks-using-Deep-Learning.pdf)]
+* Dictionary-based Fidelity Measure for Virtual Traffic, TVCG 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481568)]
+* Realistic Data-Driven Traffic Flow Animation Using Texture Synthesis, TVCG 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7814314)]
+* 
+* Trajectory Data and Flow Characteristics of Mixed Traffic, Transportation Research Record 2015. [[paper](https://www.researchgate.net/profile/Gowri-Asaithambi/publication/284708700_Trajectory_Data_and_Flow_Characteristics_of_Mixed_Traffic/links/5710718008ae68dc79097605/Trajectory-Data-and-Flow-Characteristics-of-Mixed-Traffic.pdf)]
 * 
 * 
 ## Others
@@ -81,6 +87,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 ## Journal Papers
 * A Scalable Framework for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658195)]
+* A Deep Learning-Based Framework for Intersectional Traffic Simulation and Editing, TVCG 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600335)]
+* Heter-Sim: Heterogeneous Multi-Agent Systems Simulation by Interactive Data-Driven Optimization, TVCG 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865441)]
 * 
 ## Others
 * Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks, arXiv preprint arXiv:1912.07882, 2019. [[paper](https://arxiv.org/pdf/1912.07882.pdf)]
@@ -251,6 +259,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving, Computer Graphics Forum 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13803?saml_referrer)]
 * A Survey of Deep Learning Techniques for Autonomous Driving, Journal of Field Robotics 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918?saml_referrer)]
 * Human Motion Trajectory Prediction: A Survey, International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]
+* Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice, TITS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667866)]
 * Spatio-Temporal Data Mining: A Survey of Problems and Methods, ACM Computing Surveys 2018. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
 * Trajectory Data Mining: An Overview, ACM Transactions on Intelligent Systems and Technology 2015. [[paper](http://urban-computing.com/pdf/TrajectoryDataMining-tist-yuzheng.pdf)]
 * 

@@ -19,14 +19,28 @@ Please feel free to pull request to add new resources or send emails to us for q
 ******
 
 # Traditional Methods
+* 
+* You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
+* 
 
 # 2018 and Before Conference and Journal Papers
 ## Conference Papers
+* Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf)] [[code](https://github.com/agrimgupta92/sgan)]
+* Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf)] [[code](https://github.com/svip-lab/CIDNN)]
 * 
+* Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]
+* 
+* Social LSTM: Human Trajectory Prediction in Crowded Spaces, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)] [[code](https://github.com/quancore/social-lstm)]
+* Socially-aware Large-scale Crowd Forecasting, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Alahi_Socially-aware_Large-scale_Crowd_2014_CVPR_paper.pdf)]
 * 
 ## Journal Papers
+* Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]
+* 
 ## Others
 * An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]
+* Convolutional Social Pooling for Vehicle Trajectory Prediction, CVPR Workshops 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)] [[code](https://github.com/nachiket92/conv-social-pooling)]
+* Convolutional Neural Network for Trajectory Prediction, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Nikhil_Convolutional_Neural_Network_for_Trajectory_Prediction_ECCVW_2018_paper.pdf)]
+* 
 
 # 2019 Conference and Journal Papers
 ## Conference Papers
@@ -224,7 +238,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, arXiv preprint arXiv:2110.10436, 2021. [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
 * Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies, arXiv preprint arXiv:2006.06091, 2020. [[paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)]
 * A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving, Computer Graphics Forum 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13803?saml_referrer)]
-* A survey of deep learning techniques for autonomous driving, Journal of Field Robotics 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918?saml_referrer)]
+* A Survey of Deep Learning Techniques for Autonomous Driving, Journal of Field Robotics 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918?saml_referrer)]
 * Human Motion Trajectory Prediction: A Survey, International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]
+* Spatio-Temporal Data Mining: A Survey of Problems and Methods, ACM Computing Surveys 2018. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
 * Trajectory Data Mining: An Overview, ACM Transactions on Intelligent Systems and Technology 2015. [[paper](http://urban-computing.com/pdf/TrajectoryDataMining-tist-yuzheng.pdf)]
 * 

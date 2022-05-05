@@ -22,6 +22,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # 2018 and Before Conference and Journal Papers
 ## Conference Papers
+* 
+* 
 ## Journal Papers
 ## Others
 * An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]
@@ -223,5 +225,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies, arXiv preprint arXiv:2006.06091, 2020. [[paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)]
 * A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving, Computer Graphics Forum 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13803?saml_referrer)]
 * A survey of deep learning techniques for autonomous driving, Journal of Field Robotics 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918?saml_referrer)]
-* Human motion trajectory prediction: a survey, The International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]
+* Human Motion Trajectory Prediction: A Survey, International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]
+* Trajectory Data Mining: An Overview, ACM Transactions on Intelligent Systems and Technology 2015. [[paper](http://urban-computing.com/pdf/TrajectoryDataMining-tist-yuzheng.pdf)]
 * 

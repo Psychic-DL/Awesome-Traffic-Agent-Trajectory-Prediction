@@ -27,14 +27,19 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Conference Papers
 * Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf)] [[code](https://github.com/agrimgupta92/sgan)]
 * Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf)] [[code](https://github.com/svip-lab/CIDNN)]
+* Social Attention: Modeling Attention in Human Crowds, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460504)]
+* Multi-Modal Trajectory Prediction of Surrounding Vehicles with Maneuver based LSTMs, IEEE Intelligent Vehicles Symposium (IV 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500493)]
 * 
 * Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]
 * 
 * Social LSTM: Human Trajectory Prediction in Crowded Spaces, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)] [[code](https://github.com/quancore/social-lstm)]
 * Socially-aware Large-scale Crowd Forecasting, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Alahi_Socially-aware_Large-scale_Crowd_2014_CVPR_paper.pdf)]
+* Trajectory generator for autonomous vehicles in urban environments, ICRA 2013. [[paper](https://hal.inria.fr/file/index/docid/789760/filename/ICRA_Perez_et_al_2360.pdf)]
 * 
 ## Journal Papers
-* Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]
+* Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks 2018. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]
+* An Efficient Algorithm for Optimal Trajectory Generation for Heterogeneous Multi-Agent Systems in Non-Convex Environments, RAL 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8260912)]
+* 
 * 
 ## Others
 * An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]

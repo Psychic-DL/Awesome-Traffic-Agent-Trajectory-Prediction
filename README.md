@@ -19,7 +19,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 ******
 
 # Traditional Methods
-* 
+* Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
 * You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
 * 
 
@@ -32,6 +32,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Multi-Modal Trajectory Prediction of Surrounding Vehicles with Maneuver based LSTMs, IEEE Intelligent Vehicles Symposium (IV 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500493)]
 * Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture, IV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500658)]
 * Mixed Traffic Trajectory Prediction Using LSTM–Based Models in Shared Space, Annual International Conference on Geographic Information Science 2018. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-78208-9_16.pdf)]
+* SS-LSTM: A Hierarchical LSTM Model for Pedestrian Trajectory Prediction, WACV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354239)] [[code](https://github.com/xuehaouwa/SS-LSTM)]
 * Attention Is All You Need, NIPS 2017. [[paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
 * 
 * Generating Long-term Trajectories Using Deep Hierarchical Networks, NIPS 2016. [[paper](https://proceedings.neurips.cc/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf)]
@@ -86,8 +87,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 ## Journal Papers
 * A Scalable Framework for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658195)]
-* A Deep Learning-Based Framework for Intersectional Traffic Simulation and Editing, TVCG 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600335)]
-* Heter-Sim: Heterogeneous Multi-Agent Systems Simulation by Interactive Data-Driven Optimization, TVCG 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865441)]
+* A Deep Learning-Based Framework for Intersectional Traffic Simulation and Editing, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600335)]
+* Heter-Sim: Heterogeneous Multi-Agent Systems Simulation by Interactive Data-Driven Optimization, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865441)]
+* AADS: Augmented Autonomous Driving Simulation using Data-driven Algorithms, SCIENCE ROBOTICS. [[paper](https://arxiv.org/ftp/arxiv/papers/1901/1901.07849.pdf)]
 * 
 ## Others
 * Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks, arXiv preprint arXiv:1912.07882, 2019. [[paper](https://arxiv.org/pdf/1912.07882.pdf)]

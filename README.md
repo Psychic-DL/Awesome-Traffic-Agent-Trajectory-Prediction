@@ -138,6 +138,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * UST: Unifying Spatio-Temporal Context for Trajectory Prediction in Autonomous Driving, IROS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9340943)]
 * Interaction-Aware Trajectory Prediction of Connected Vehicles using CNN-LSTM Networks, Annual Conference of the IEEE Industrial Electronics Society (IECON 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9255162)]
 * GISNet:Graph-Based Information Sharing Network For Vehicle Trajectory Prediction, International Joint Conference on Neural Networks (IJCNN 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206770)]
+* Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, WACV 2020. [[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Mangalam_Disentangling_Human_Dynamics_for_Pedestrian_Locomotion_Forecasting_with_Noisy_Supervision_WACV_2020_paper.pdf)] [[website](https://karttikeya.github.io/publication/plf/)]
+* 
 * 
 
 ## Journal Papers

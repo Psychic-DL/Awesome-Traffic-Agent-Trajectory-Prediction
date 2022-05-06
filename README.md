@@ -156,6 +156,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * PoPPL: Pedestrian Trajectory Prediction by LSTM With Automatic Route Class Clustering, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031707)]
 * Real Time Trajectory Prediction Using Deep Conditional Generative Models, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957482)]
 * Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000540)]
+* What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction, RAL. [[paper](https://arxiv.org/pdf/1903.07933.pdf)] [[code](https://github.com/cschoeller/constant_velocity_pedestrian_motion)]
 * 
 
 ## Others

@@ -84,6 +84,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Conditional Generative Neural System for Probabilistic Trajectory Prediction, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967822)]
 * Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)]
 * Multiple Futures Prediction, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/86a1fa88adb5c33bd7a68ac2f9f3f96b-Paper.pdf)] [[code](https://github.com/apple/ml-multiple-futures-prediction)]
+* Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM, International Symposium on Visual Computing (ISVC 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-33720-9_19.pdf)]
+* Pedestrian Trajectory Prediction Using a Social Pyramid, Pacific Rim International Conference on Artificial Intelligence (PRICAI 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-29911-8_34.pdf)]
 * 
 
 ## Journal Papers
@@ -97,6 +99,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks, arXiv preprint arXiv:1912.07882, 2019. [[paper](https://arxiv.org/pdf/1912.07882.pdf)]
 * Learning to Infer Relations for Future Trajectory Forecast, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)]
 * Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf)] [[code](https://github.com/crowdbotp/socialways)]
+* Social and Scene-Aware Trajectory Prediction in Crowded Spaces, ICCV Workshops 2019. [[paper](https://arxiv.org/pdf/1909.08840.pdf)] [[code](https://github.com/Oghma/sns-lstm/)]
 * Probabilistic Trajectory Prediction for Autonomous Vehicles with Attentive Recurrent Neural Process, arXiv preprint arXiv:1910.08102, 2019. [[paper](https://arxiv.org/pdf/1910.08102.pdf)]
 * 
 
@@ -150,6 +153,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * AC-VRNN: Attentive Conditional-VRNN for multi-future trajectory prediction, Computer Vision and Image Understanding. [[paper](https://reader.elsevier.com/reader/sd/pii/S1077314221000898?token=F06466B50D3AE170EC14D460C1AFE91DFE5D61047357252C808857A2BBD4FE4CF2FF3076AD391F842F155CAD2B102C5F&originRegion=eu-west-1&originCreation=20220421024623)]
 * PoPPL: Pedestrian Trajectory Prediction by LSTM With Automatic Route Class Clustering, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031707)]
 * Real Time Trajectory Prediction Using Deep Conditional Generative Models, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957482)]
+* Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000540)]
 * 
 
 ## Others

@@ -211,6 +211,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * An efficient Spatial–Temporal model based on gated linear units for trajectory prediction, Neurocomputing. [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231221018907?token=C894F657732BB6078B77AEC9BD3858338C1A7F1254CCC0BBC34ADA1421A95CF9A4F68BDCA8812457DE27FB37EEB8F198&originRegion=us-east-1&originCreation=20220420144432)]
 * Multi-PPTP: Multiple Probabilistic Pedestrian Trajectory Prediction in the Complex Junction Scene, IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9619864)]
 * A Novel Graph-Based Trajectory Predictor With Pseudo-Oracle, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9447207)]
+* Large Scale GPS Trajectory Generation Using Map Based on Two Stage GAN, Journal of Data Science. [[paper](https://www.jds-online.com/files/JDS202001-08.pdf)] [[code](https://github.com/XingruiWang/Two-Stage-Gan-in-trajectory-generation)]
 * 
 
 

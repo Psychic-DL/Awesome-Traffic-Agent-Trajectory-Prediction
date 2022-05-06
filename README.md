@@ -200,6 +200,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9476975)]
 * MultiXNet: Multiclass Multistage Multimodal Motion Prediction, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575718)]
 * Trajectory Prediction for Autonomous Driving based on Multi-Head Attention with Joint Agent-Map Representation, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9576054)]
+* Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing, Conference on Robot Learning (CoRL 2021). [[paper](https://openreview.net/pdf?id=HTfApPeT4DZ)] [[code](https://github.com/MariaPriisalu/spl)]
 * 
 
 ## Journal Papers

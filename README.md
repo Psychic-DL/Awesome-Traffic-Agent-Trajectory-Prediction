@@ -88,6 +88,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Multiple Futures Prediction, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/86a1fa88adb5c33bd7a68ac2f9f3f96b-Paper.pdf)] [[code](https://github.com/apple/ml-multiple-futures-prediction)]
 * Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM, International Symposium on Visual Computing (ISVC 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-33720-9_19.pdf)]
 * Pedestrian Trajectory Prediction Using a Social Pyramid, Pacific Rim International Conference on Artificial Intelligence (PRICAI 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-29911-8_34.pdf)]
+* Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model, Computer Vision Winter Workshop (CVWW 2019). [[paper](https://arxiv.org/pdf/1902.05437.pdf)]
 * 
 
 ## Journal Papers

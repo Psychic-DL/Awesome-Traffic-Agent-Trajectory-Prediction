@@ -57,6 +57,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 ## Others
 * An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]
+* Scene-LSTM: A Model for Human Trajectory Prediction, arXiv preprint arXiv:1808.04018, 2018. [[paper](https://arxiv.org/ftp/arxiv/papers/1808/1808.04018.pdf)]
 * Convolutional Social Pooling for Vehicle Trajectory Prediction, CVPR Workshops 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)] [[code](https://github.com/nachiket92/conv-social-pooling)]
 * Convolutional Neural Network for Trajectory Prediction, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Nikhil_Convolutional_Neural_Network_for_Trajectory_Prediction_ECCVW_2018_paper.pdf)]
 * Group LSTM: Group Trajectory Prediction in Crowded Scenarios, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Bisagno_Group_LSTM_Group_Trajectory_Prediction_in_Crowded_Scenarios_ECCVW_2018_paper.pdf)]

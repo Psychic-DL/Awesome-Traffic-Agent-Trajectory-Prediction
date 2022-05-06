@@ -35,6 +35,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Mixed Traffic Trajectory Prediction Using LSTM–Based Models in Shared Space, Annual International Conference on Geographic Information Science 2018. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-78208-9_16.pdf)]
 * SS-LSTM: A Hierarchical LSTM Model for Pedestrian Trajectory Prediction, WACV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354239)] [[code](https://github.com/xuehaouwa/SS-LSTM)]
 * “Seeing is Believing”: Pedestrian Trajectory Forecasting Using Visual Frustum of Attention, WACV 2018. [[paper](http://irtizahasan.com/WACV_2018_Seeing_is_believing.pdf)]
+* Context-Aware Trajectory Prediction, International Conference on Pattern Recognition (ICPR 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8545447)]
 * Attention Is All You Need, NIPS 2017. [[paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
 * Bi-Prediction: Pedestrian Trajectory Prediction Based on Bidirectional LSTM Classification, International Conference on Digital Image Computing: Techniques and Applications (DICTA 2017). [[paper](https://www.researchgate.net/profile/Du-Huynh-2/publication/322001876_Bi-Prediction_Pedestrian_Trajectory_Prediction_Based_on_Bidirectional_LSTM_Classification/links/5c03cef4a6fdcc1b8d5029bb/Bi-Prediction-Pedestrian-Trajectory-Prediction-Based-on-Bidirectional-LSTM-Classification.pdf)]
 * 

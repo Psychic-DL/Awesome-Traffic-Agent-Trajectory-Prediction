@@ -27,7 +27,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
 - [**2019 Conference and Journal Papers**](#2019-Conference-and-Journal-Papers)
-	- [Conference Papers 2019](#Conference-Papers)
+	- [Conference Papers](#Conference-Papers-2019)
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
 - [**2020 Conference and Journal Papers**](#2020-Conference-and-Journal-Papers)
@@ -97,7 +97,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 
 # 2019 Conference and Journal Papers
-## Conference Papers
+## Conference Papers 2019
 * MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction, Conference on Robot Learning (CoRL 2019). [[paper](https://arxiv.org/pdf/1910.05449.pdf)]
 * TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents, AAAI 2019. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4569/4447)] [[code](https://github.com/huang-xx/TrafficPredict)]
 * Data-Driven Crowd Simulation with Generative Adversarial Networks, International Conference on Computer Animation and Social Agents (CASA 2019). [[paper](https://dl.acm.org/doi/pdf/10.1145/3328756.3328769)] [[code](https://github.com/amiryanj/crowdGAN)]

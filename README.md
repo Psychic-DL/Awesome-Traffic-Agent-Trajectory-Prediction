@@ -208,6 +208,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajformer: Trajectory Prediction with Local Self-Attentive Contexts for Autonomous Driving, arXiv preprint arXiv:2011.14910, 2020. [[paper](https://arxiv.org/pdf/2011.14910.pdf)] [[code](https://github.com/Manojbhat09/Trajformer)]
 * TPPO: A Novel Trajectory Predictor with Pseudo Oracle, arXiv preprint arXiv:2002.01852, 2020. [[paper](https://arxiv.org/pdf/2002.01852.pdf)]
 * Vehicle Trajectory Prediction by Transfer Learning of Semi-Supervised Models, arXiv preprint arXiv:2007.06781, 2020. [[paper](https://arxiv.org/pdf/2007.06781.pdf)]
+* Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, arXiv preprint arXiv:2002.06241, 2020. [[paper](https://arxiv.org/pdf/2002.06241.pdf)]
 * 
 
 # 2021 Conference and Journal Papers

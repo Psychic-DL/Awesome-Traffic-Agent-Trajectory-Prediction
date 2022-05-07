@@ -92,6 +92,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 ## Others
 * An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]
+* 
 * Scene-LSTM: A Model for Human Trajectory Prediction, arXiv preprint arXiv:1808.04018, 2018. [[paper](https://arxiv.org/ftp/arxiv/papers/1808/1808.04018.pdf)]
 * Convolutional Social Pooling for Vehicle Trajectory Prediction, CVPR Workshops 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)] [[code](https://github.com/nachiket92/conv-social-pooling)]
 * Convolutional Neural Network for Trajectory Prediction, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Nikhil_Convolutional_Neural_Network_for_Trajectory_Prediction_ECCVW_2018_paper.pdf)]
@@ -127,6 +128,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction and Traffic Rules, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967708)]
 * Conditional Generative Neural System for Probabilistic Trajectory Prediction, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967822)]
 * Jointly Learnable Behavior and Trajectory Planning for Self-Driving Vehicles, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967615)]
+* INFER: INtermediate representations for FuturE pRediction, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968553)] [[code](https://github.com/talsperre/INFER)] [[website](https://talsperre.github.io/INFER/)]
 * Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)]
 * Multiple Futures Prediction, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/86a1fa88adb5c33bd7a68ac2f9f3f96b-Paper.pdf)] [[code](https://github.com/apple/ml-multiple-futures-prediction)]
 * Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM, International Symposium on Visual Computing (ISVC 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-33720-9_19.pdf)]
@@ -198,7 +200,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Interaction-Aware Trajectory Prediction of Connected Vehicles using CNN-LSTM Networks, Annual Conference of the IEEE Industrial Electronics Society (IECON 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9255162)]
 * GISNet:Graph-Based Information Sharing Network For Vehicle Trajectory Prediction, International Joint Conference on Neural Networks (IJCNN 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206770)]
 * Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, WACV 2020. [[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Mangalam_Disentangling_Human_Dynamics_for_Pedestrian_Locomotion_Forecasting_with_Noisy_Supervision_WACV_2020_paper.pdf)] [[website](https://karttikeya.github.io/publication/plf/)]
-* 
+* Deep Imitative Models for Flexible Inference, Planning, and Control, ICLR 2020. [[paper](https://openreview.net/pdf?id=Skl4mRNYDr)] [[code](https://github.com/nrhine1/deep_imitative_models)] [[website](https://sites.google.com/view/imitative-models)]
 * 
 
 ## Journal Papers 2020

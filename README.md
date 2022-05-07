@@ -155,6 +155,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * It Is Not the Journey But the Destination: Endpoint Conditioned Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58536-5_45.pdf)] [[code](https://github.com/HarshayuGirase/Human-Path-Prediction)]
 * How Can I See My Future? FvTraj: Using First-Person View for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58571-6_34.pdf)]
 * Dynamic and Static Context-Aware LSTM for Multi-agent Motion Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58589-1_33.pdf)]
+* Learning Lane Graph Representations for Motion Forecasting, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58536-5_32.pdf)] [[code](https://github.com/uber-research/LaneGCN)]
+* Implicit Latent Variable Model for Scene-Consistent Motion Forecasting, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58592-1_37.pdf)]
 * Transformer Networks for Trajectory Forecasting, International Conference on Pattern Recognition (ICPR 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412190)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
 * TNT: Target-driveN Trajectory Prediction, Conference on Robot Learning (CoRL 2020). [[paper](https://arxiv.org/pdf/2008.08294.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
 * Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians, CoRL 2020. [[paper](https://autonomousrobots.nl/docs/20-Brito-CoRL.pdf)] [[code](https://github.com/tud-amr/social_vrnn)]

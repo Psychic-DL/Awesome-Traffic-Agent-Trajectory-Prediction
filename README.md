@@ -22,26 +22,28 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 - [**Traditional Methods**](#Traditional-Methods)
-- [**2018 and Before Conference and Journal Papers**](#2018-and-Before-Conference-and-Journal-Papers)
+- [**2018 and Before Conference & Journal Papers**](#2018-and-Before-Conference-&-Journal-Papers)
 	- [Conference Papers](#Conference-Papers)
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
-- [**2019 Conference and Journal Papers**](#2019-Conference-and-Journal-Papers)
+- [**2019 Conference & Journal Papers**](#2019-Conference-&-Journal-Papers)
 	- [Conference Papers](#Conference-Papers)
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
-- [**2020 Conference and Journal Papers**](#2020-Conference-and-Journal-Papers)
+- [**2020 Conference & Journal Papers**](#2020-Conference-&-Journal-Papers)
 	- [Conference Papers](#Conference-Papers)
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
-- [**2021 Conference and Journal Papers**](#2021-Conference-and-Journal-Papers)
+- [**2021 Conference & Journal Papers**](#2021-Conference-&-Journal-Papers)
 	- [Conference Papers](#Conference-Papers)
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
-- [**2022 Conference and Journal Papers**](#2022-Conference-and-Journal-Papers)
+- [**2022 Conference & Journal Papers**](#2022-Conference-&-Journal-Papers)
 	- [Conference Papers](#Conference-Papers)
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
+- [**Related Review Papers**](#Related-Review-Papers)
+- [**Datasets**](#Datasets)
 	<!-- /TOC -->
 
 ******
@@ -51,7 +53,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
 * 
 
-# 2018 and Before Conference and Journal Papers
+# 2018 and Before Conference & Journal Papers
 ## Conference Papers
 * Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf)] [[code](https://github.com/agrimgupta92/sgan)]
 * Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf)] [[code](https://github.com/svip-lab/CIDNN)]
@@ -94,7 +96,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Human Trajectory Prediction using Spatially aware Deep Attention Models, arXiv preprint arXiv:1705.09436, 2017. [[paper](https://arxiv.org/pdf/1705.09436.pdf)]
 * 
 
-# 2019 Conference and Journal Papers
+# 2019 Conference & Journal Papers
 ## Conference Papers
 * MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction, Conference on Robot Learning (CoRL 2019). [[paper](https://arxiv.org/pdf/1910.05449.pdf)]
 * TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents, AAAI 2019. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4569/4447)] [[code](https://github.com/huang-xx/TrafficPredict)]
@@ -141,7 +143,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Probabilistic Trajectory Prediction for Autonomous Vehicles with Attentive Recurrent Neural Process, arXiv preprint arXiv:1910.08102, 2019. [[paper](https://arxiv.org/pdf/1910.08102.pdf)]
 * 
 
-# 2020 Conference and Journal Papers
+# 2020 Conference & Journal Papers
 ## Conference Papers
 * Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/pdf/2005.08514.pdf)] [[code](https://github.com/Majiker/STAR)]
 * AutoTrajectory: Label-Free Trajectory Extraction and Prediction from Videos Using Dynamic Points, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58601-0_38.pdf)]
@@ -205,7 +207,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Vehicle Trajectory Prediction by Transfer Learning of Semi-Supervised Models, arXiv preprint arXiv:2007.06781, 2020. [[paper](https://arxiv.org/pdf/2007.06781.pdf)]
 * 
 
-# 2021 Conference and Journal Papers
+# 2021 Conference & Journal Papers
 ## Conference Papers
 * Collaborative Uncertainty in Multi-Agent Trajectory Forecasting, NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf)]
 * GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction, NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/e3670ce0c315396e4836d7024abcf3dd-Paper.pdf)] [[code](https://github.com/longyuanli/GRIN_NeurIPS21)]
@@ -271,7 +273,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Physically Feasible Vehicle Trajectory Prediction, arXiv preprint arXiv:2104.14679, 2021. [[paper](https://arxiv.org/pdf/2104.14679.pdf)]
 * 
 
-# 2022 Conference and Journal Papers
+# 2022 Conference & Journal Papers
 ## Conference Papers
 * Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)] [[code](https://github.com/shuaishiliu/SIT)]
 * Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]

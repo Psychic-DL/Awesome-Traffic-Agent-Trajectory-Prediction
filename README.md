@@ -60,6 +60,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Conference Papers
 * Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf)] [[code](https://github.com/agrimgupta92/sgan)]
 * Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf)] [[code](https://github.com/svip-lab/CIDNN)]
+* R2P2: A ReparameteRized Pushforward Policy for Diverse, Precise Generative Path Forecasting, ECCV 2018. [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf)]
 * Generating Comfortable, Safe and Comprehensible Trajectories for Automated Vehicles in Mixed Traffic, International Conference on Intelligent Transportation Systems (ITSC 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569658)]
 * Social Attention: Modeling Attention in Human Crowds, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460504)]
 * GD-GAN: Generative Adversarial Networks for Trajectory Prediction and Group Detection in Crowds, ACCV 2018. [[paper](https://arxiv.org/pdf/1812.07667.pdf)]

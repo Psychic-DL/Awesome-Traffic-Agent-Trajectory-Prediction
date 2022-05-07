@@ -1,8 +1,6 @@
 # Awesome-Traffic-Agent-Trajectory-Prediction
 ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.05-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg)
 
-![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/fd7e9f9eb4f3df4458750c8e7109181.png)
-
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/8189c63cf7894232e1573be4c217653.png)
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/ef4e2adbba8af28f8850b5fa2eab76f.png)
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/4e785d2f0c1a1601d1dc25073463af2.png)
@@ -17,6 +15,8 @@ This is a list of the latest research materials (datasets, papers and codes) rel
 **Emails: xdchaonengli@163.com**
 
 Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
+
+******
 
 # Table of Contents
 

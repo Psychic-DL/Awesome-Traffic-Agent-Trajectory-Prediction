@@ -131,6 +131,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Location-Velocity Attention for Pedestrian Trajectory Prediction, WACV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8659060)]
 * Coordination and trajectory prediction for vehicle interactions via bayesian generative modeling, IV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813821)]
 * Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction, IV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813783)]
+* GRIP: Graph-based Interaction-aware Trajectory Prediction, Intelligent Transportation Systems Conference (ITSC 2019). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917228)]
 * 
 
 ## Journal Papers 2019
@@ -138,7 +139,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Deep Learning-Based Framework for Intersectional Traffic Simulation and Editing, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600335)]
 * Heter-Sim: Heterogeneous Multi-Agent Systems Simulation by Interactive Data-Driven Optimization, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865441)]
 * AADS: Augmented Autonomous Driving Simulation using Data-driven Algorithms, SCIENCE ROBOTICS. [[paper](https://arxiv.org/ftp/arxiv/papers/1901/1901.07849.pdf)]
-* GRIP: Graph-based Interaction-aware Trajectory Prediction, Intelligent Transportation Systems Conference (ITSC). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917228)]
+* 
 * 
 
 ## Others 2019

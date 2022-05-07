@@ -118,6 +118,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A New Multi-vehicle Trajectory Generator to Simulate Vehicle-to-Vehicle Encounters, ICRA 2019. [[paper](https://arxiv.org/pdf/1809.05680.pdf)]
 * Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793868)]
 * Force-based Heterogeneous Traffic Simulation for Autonomous Vehicle Testing, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794430)]
+* Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793661)]
 * StarNet: Pedestrian Trajectory Prediction using Deep Neural Network in Star Topology, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967811)]
 * Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction and Traffic Rules, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967708)]
 * Conditional Generative Neural System for Probabilistic Trajectory Prediction, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967822)]
@@ -128,6 +129,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Pedestrian Trajectory Prediction Using a Social Pyramid, Pacific Rim International Conference on Artificial Intelligence (PRICAI 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-29911-8_34.pdf)]
 * Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model, Computer Vision Winter Workshop (CVWW 2019). [[paper](https://arxiv.org/pdf/1902.05437.pdf)]
 * Location-Velocity Attention for Pedestrian Trajectory Prediction, WACV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8659060)]
+* Coordination and trajectory prediction for vehicle interactions via bayesian generative modeling, IV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813821)]
 * 
 
 ## Journal Papers 2019

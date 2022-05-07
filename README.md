@@ -28,20 +28,20 @@ Please feel free to pull request to add new resources or send emails to us for q
 	- [Others](#Others)
 - [**2019 Conference and Journal Papers**](#2019-Conference-and-Journal-Papers)
 	- [Conference Papers](#Conference-Papers-2019)
-	- [Journal Papers](#Journal-Papers)
-	- [Others](#Others)
+	- [Journal Papers](#Journal-Papers-2019)
+	- [Others](#Others-2019)
 - [**2020 Conference and Journal Papers**](#2020-Conference-and-Journal-Papers)
-	- [Conference Papers](#Conference-Papers)
-	- [Journal Papers](#Journal-Papers)
-	- [Others](#Others)
+	- [Conference Papers](#Conference-Papers-2020)
+	- [Journal Papers](#Journal-Papers-2020)
+	- [Others](#Others-2020)
 - [**2021 Conference and Journal Papers**](#2021-Conference-and-Journal-Papers)
-	- [Conference Papers](#Conference-Papers)
-	- [Journal Papers](#Journal-Papers)
-	- [Others](#Others)
+	- [Conference Papers](#Conference-Papers-2021)
+	- [Journal Papers](#Journal-Papers-2021)
+	- [Others](#Others-2021)
 - [**2022 Conference and Journal Papers**](#2022-Conference-and-Journal-Papers)
-	- [Conference Papers](#Conference-Papers)
-	- [Journal Papers](#Journal-Papers)
-	- [Others](#Others)
+	- [Conference Papers](#Conference-Papers-2022)
+	- [Journal Papers](#Journal-Papers-2022)
+	- [Others](#Others-2022)
 - [**Related Review Papers**](#Related-Review-Papers)
 - [**Datasets**](#Datasets)
 	<!-- /TOC -->
@@ -128,14 +128,14 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Location-Velocity Attention for Pedestrian Trajectory Prediction, WACV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8659060)]
 * 
 
-## Journal Papers
+## Journal Papers 2019
 * A Scalable Framework for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658195)]
 * A Deep Learning-Based Framework for Intersectional Traffic Simulation and Editing, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600335)]
 * Heter-Sim: Heterogeneous Multi-Agent Systems Simulation by Interactive Data-Driven Optimization, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865441)]
 * AADS: Augmented Autonomous Driving Simulation using Data-driven Algorithms, SCIENCE ROBOTICS. [[paper](https://arxiv.org/ftp/arxiv/papers/1901/1901.07849.pdf)]
 * 
 
-## Others
+## Others 2019
 * Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks, arXiv preprint arXiv:1912.07882, 2019. [[paper](https://arxiv.org/pdf/1912.07882.pdf)]
 * Learning to Infer Relations for Future Trajectory Forecast, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)]
 * Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf)] [[code](https://github.com/crowdbotp/socialways)]
@@ -144,7 +144,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 
 # 2020 Conference and Journal Papers
-## Conference Papers
+## Conference Papers 2020
 * Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/pdf/2005.08514.pdf)] [[code](https://github.com/Majiker/STAR)]
 * AutoTrajectory: Label-Free Trajectory Extraction and Prediction from Videos Using Dynamic Points, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58601-0_38.pdf)]
 * PiP: Planning-Informed Trajectory Prediction for Autonomous Driving, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58589-1_36.pdf)] [[code](https://github.com/Haoran-SONG/PiP-Planning-informed-Prediction)]
@@ -187,7 +187,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 * 
 
-## Journal Papers
+## Journal Papers 2020
 * TrajVAE: A Variational AutoEncoder model for trajectory generation, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)]
 * Social-Aware Pedestrian Trajectory Prediction via States Refinement LSTM, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261113)]
 * Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126166)]
@@ -199,7 +199,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction, RAL. [[paper](https://arxiv.org/pdf/1903.07933.pdf)] [[code](https://github.com/cschoeller/constant_velocity_pedestrian_motion)]
 * 
 
-## Others
+## Others 2020
 * Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]
 * Robust Trajectory Forecasting for Multiple Intelligent Agents in Dynamic Scene, arXiv preprint arXiv:2005.13133, 2020. [[paper](https://arxiv.org/pdf/2005.13133.pdf)]
 * Map-Adaptive Goal-Based Trajectory Prediction, arXiv preprint arXiv:2009.04450, 2020. [[paper](https://arxiv.org/pdf/2009.04450.pdf)]
@@ -210,7 +210,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 
 # 2021 Conference and Journal Papers
-## Conference Papers
+## Conference Papers 2021
 * Collaborative Uncertainty in Multi-Agent Trajectory Forecasting, NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf)]
 * GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction, NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/e3670ce0c315396e4836d7024abcf3dd-Paper.pdf)] [[code](https://github.com/longyuanli/GRIN_NeurIPS21)]
 * LibCity: An Open Library for Traffic Prediction, SIGSPATIAL 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483923)] [[code](https://github.com/LibCity/Bigscity-LibCity)]
@@ -252,7 +252,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing, Conference on Robot Learning (CoRL 2021). [[paper](https://openreview.net/pdf?id=HTfApPeT4DZ)] [[code](https://github.com/MariaPriisalu/spl)]
 * 
 
-## Journal Papers
+## Journal Papers 2021
 * Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]
 * Injecting knowledge in data-driven vehicle trajectory predictors, Transportation Research: Part C. [[paper](https://reader.elsevier.com/reader/sd/pii/S0968090X21000425?token=F03D20769BFB255F56662C10348A81F3D07A42C6B4AB9BA19E3F7B2A5F1DA7D99B96B783616BDA86C12866AFCF4C5671&originRegion=eu-west-1&originCreation=20220506090622)] [[code](https://github.com/vita-epfl/RRB)]
 * Human Trajectory Forecasting in Crowds: A Deep Learning Perspective,  IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9408398)] [[code](https://github.com/vita-epfl/trajnetplusplusbaselines)]
@@ -268,7 +268,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Large Scale GPS Trajectory Generation Using Map Based on Two Stage GAN, Journal of Data Science. [[paper](https://www.jds-online.com/files/JDS202001-08.pdf)] [[code](https://github.com/XingruiWang/Two-Stage-Gan-in-trajectory-generation)]
 * 
 
-## Others
+## Others 2021
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]
 * Trajectory Prediction using Generative Adversarial Network in Multi-Class Scenarios, arXiv preprint arXiv:2110.11401, 2021. [[paper](https://arxiv.org/pdf/2110.11401.pdf)]
 * Spatial-Channel Transformer Network for Trajectory Prediction on the Traffic Scenes, arXiv preprint arXiv:2101.11472, 2021. [[paper](https://arxiv.org/ftp/arxiv/papers/2101/2101.11472.pdf)]
@@ -276,7 +276,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 
 # 2022 Conference and Journal Papers
-## Conference Papers
+## Conference Papers 2022
 * Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)] [[code](https://github.com/shuaishiliu/SIT)]
 * Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]
 * Scene Transformer: A unified architecture for predicting future trajectories of multiple agents, ICLR 2022. [[paper](https://openreview.net/pdf?id=Wm3EA5OlHsG)]
@@ -295,7 +295,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * 
 
-## Journal Papers
+## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]
 * MDST-DGCN: A Multilevel Dynamic Spatiotemporal Directed Graph Convolutional Network for Pedestrian Trajectory Prediction, Computational Intelligence and Neuroscience. [[paper](https://downloads.hindawi.com/journals/cin/2022/4192367.pdf)]
 * Graph-Based Spatial-Temporal Convolutional Network for Vehicle Trajectory Prediction in Autonomous Driving, IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9737058)]
@@ -304,7 +304,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Stepwise Goal-Driven Networks for Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2103.14107v3.pdf)] [[code](https://github.com/ChuhuaW/SGNet.pytorch)]
 * 
 
-## Others
+## Others 2022
 
 # Related Review Papers
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, ACM Transactions on Intelligent Systems and Technology 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474838)]

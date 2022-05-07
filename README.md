@@ -14,7 +14,7 @@ This is a list of the latest research materials (datasets, papers and codes) rel
 
 **Emails: xdchaonengli@163.com**
 
-Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
+Please feel free to pull request to add new resources or send emails to us for questions, discussions and collaborations.
 
 ******
 

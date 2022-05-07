@@ -27,7 +27,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
 - [**2019 Conference and Journal Papers**](#2019-Conference-and-Journal-Papers)
-	- [Conference Papers](#Conference-Papers)
+	- [Conference Papers 2019](#Conference-Papers)
 	- [Journal Papers](#Journal-Papers)
 	- [Others](#Others)
 - [**2020 Conference and Journal Papers**](#2020-Conference-and-Journal-Papers)

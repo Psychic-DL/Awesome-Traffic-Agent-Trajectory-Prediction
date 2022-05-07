@@ -314,7 +314,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Human Motion Trajectory Prediction: A Survey, International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]
 * Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice, TITS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667866)]
 * Spatio-Temporal Data Mining: A Survey of Problems and Methods, ACM Computing Surveys 2018. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
+* Survey on Vision-Based Path Prediction, International Conference on Distributed, Ambient, and Pervasive Interactions (DAPI 2018). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-91131-1_4.pdf)]
 * Trajectory Data Mining: An Overview, ACM Transactions on Intelligent Systems and Technology 2015. [[paper](http://urban-computing.com/pdf/TrajectoryDataMining-tist-yuzheng.pdf)]
+* A survey on motion prediction and risk assessment for intelligent vehicles, ROBOMECH Journal 2014. [[paper](https://robomechjournal.springeropen.com/track/pdf/10.1186/s40648-014-0001-z.pdf)]
 * 
 
 # Datasets

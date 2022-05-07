@@ -131,7 +131,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Location-Velocity Attention for Pedestrian Trajectory Prediction, WACV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8659060)]
 * Coordination and trajectory prediction for vehicle interactions via bayesian generative modeling, IV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813821)]
 * Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction, IV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813783)]
-* GRIP: Graph-based Interaction-aware Trajectory Prediction, Intelligent Transportation Systems Conference (ITSC 2019). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917228)]
+* AGen: Adaptable Generative Prediction Networks for Autonomous Driving, IV 2019. [[paper](http://www.cs.cmu.edu/~cliu6/files/iv19-1.pdf)]
+* GRIP: Graph-based Interaction-aware Trajectory Prediction, Intelligent Transportation Systems Conference (ITSC 2019). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917228)] [[code](https://github.com/xincoder/GRIP)]
+* GRIP++: Enhanced Graph-based Interaction-aware Trajectory Prediction for Autonomous Driving, arXiv preprint arXiv:1907.07792, 2019. [[paper](https://arxiv.org/pdf/1907.07792.pdf)] [[code](https://github.com/xincoder/GRIP)]
 * 
 
 ## Journal Papers 2019

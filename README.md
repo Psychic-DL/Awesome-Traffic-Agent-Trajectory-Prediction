@@ -16,6 +16,32 @@ This is a list of the latest research materials (datasets, papers and codes) rel
 
 Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
 
+### Table of Contents
+
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+- [**Traditional Methods**](#Traditional Methods)
+- [**2018 and Before Conference and Journal Papers**](#2018 and Before Conference and Journal Papers)
+	- [Conference Papers](#Conference Papers)
+	- [Journal Papers](#Journal Papers)
+	- [Others](#Others)
+- [**2019 Conference and Journal Papers**](#2019 Conference and Journal Papers)
+	- [Conference Papers](#Conference Papers)
+	- [Journal Papers](#Journal Papers)
+	- [Others](#Others)
+- [**2020 Conference and Journal Papers**](#2020 Conference and Journal Papers)
+	- [Conference Papers](#Conference Papers)
+	- [Journal Papers](#Journal Papers)
+	- [Others](#Others)
+- [**2021 Conference and Journal Papers**](#2021 Conference and Journal Papers)
+	- [Conference Papers](#Conference Papers)
+	- [Journal Papers](#Journal Papers)
+	- [Others](#Others)
+- [**2022 Conference and Journal Papers**](#2022 Conference and Journal Papers)
+	- [Conference Papers](#Conference Papers)
+	- [Journal Papers](#Journal Papers)
+	- [Others](#Others)
+	<!-- /TOC -->
+
 ******
 
 # Traditional Methods

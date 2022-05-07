@@ -66,6 +66,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * GD-GAN: Generative Adversarial Networks for Trajectory Prediction and Group Detection in Crowds, ACCV 2018. [[paper](https://arxiv.org/pdf/1812.07667.pdf)]
 * Multi-Modal Trajectory Prediction of Surrounding Vehicles with Maneuver based LSTMs, IEEE Intelligent Vehicles Symposium (IV 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500493)]
 * Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture, IV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500658)]
+* Predicting Trajectories of Vehicles Using Large-Scale Motion Priors, IV 2018. [[paper](http://mssuraj.com/publications/2018_IV_0596.pdf)]
 * Mixed Traffic Trajectory Prediction Using LSTM–Based Models in Shared Space, Annual International Conference on Geographic Information Science 2018. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-78208-9_16.pdf)]
 * SS-LSTM: A Hierarchical LSTM Model for Pedestrian Trajectory Prediction, WACV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354239)] [[code](https://github.com/xuehaouwa/SS-LSTM)]
 * “Seeing is Believing”: Pedestrian Trajectory Forecasting Using Visual Frustum of Attention, WACV 2018. [[paper](http://irtizahasan.com/WACV_2018_Seeing_is_believing.pdf)]

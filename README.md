@@ -50,7 +50,10 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # Traditional Methods
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
+* 
 * You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
+* People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
+* Unfreezing the robot: Navigation in dense, interacting crowds, IROS 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5654369)]
 * 
 
 # 2018 and Before Conference and Journal Papers
@@ -109,6 +112,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf)] [[code](https://github.com/zhangpur/SR-LSTM)]
 * TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf)] [[code](https://github.com/BenMSK/trajectory_prediction_TraPHic)]
 * Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.pdf)] [[code](https://github.com/lmb-freiburg/Multimodal-Future-Prediction)]
+* Argoverse: 3D Tracking and Forecasting with Rich Maps, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)] [[code](https://github.com/argoai/argoverse-api)]
 * Looking to Relations for Future Trajectory Forecast, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Looking_to_Relations_for_Future_Trajectory_Forecast_ICCV_2019_paper.pdf)]
 * Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf)]
 * The Trajectron: Probabilistic Multi-Agent Trajectory Modeling With Dynamic Spatiotemporal Graphs, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ivanovic_The_Trajectron_Probabilistic_Multi-Agent_Trajectory_Modeling_With_Dynamic_Spatiotemporal_Graphs_ICCV_2019_paper.pdf)] [[code](https://github.com/StanfordASL/Trajectron)]

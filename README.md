@@ -260,6 +260,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Human Trajectory Prediction via Counterfactual Analysis, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Human_Trajectory_Prediction_via_Counterfactual_Analysis_ICCV_2021_paper.pdf)] [[code](https://github.com/CHENGY12/CausalHTP)]
 * Personalized Trajectory Prediction via Distribution Discrimination, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Personalized_Trajectory_Prediction_via_Distribution_Discrimination_ICCV_2021_paper.pdf)] [[code](https://github.com/CHENGY12/DisDis)]
 * Unlimited Neighborhood Interaction for Heterogeneous Trajectory Prediction, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Unlimited_Neighborhood_Interaction_for_Heterogeneous_Trajectory_Prediction_ICCV_2021_paper.pdf)] [[code](https://github.com/zhengfang1997/Unlimited-Neighborhood-Interaction-for-Heterogeneous-Trajectory-Prediction)]
+* Social NCE: Contrastive Learning of Socially-aware Motion Representations, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Social_NCE_Contrastive_Learning_of_Socially-Aware_Motion_Representations_ICCV_2021_paper.pdf)] [[code](https://github.com/vita-epfl/social-nce)]
 * Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision, AAAI 2021. [[paper](https://arxiv.org/pdf/2012.01884.pdf)]
 * SCAN: A Spatial Context Attentive Network for Joint Multi-Agent Intent Prediction, AAAI 2021. [[paper](https://arxiv.org/pdf/2102.00109.pdf)]
 * Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction, AAAI 2021. [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1677.BaeI.pdf)]
@@ -277,7 +278,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * MultiXNet: Multiclass Multistage Multimodal Motion Prediction, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575718)]
 * Trajectory Prediction for Autonomous Driving based on Multi-Head Attention with Joint Agent-Map Representation, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9576054)]
 * Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing, Conference on Robot Learning (CoRL 2021). [[paper](https://openreview.net/pdf?id=HTfApPeT4DZ)] [[code](https://github.com/MariaPriisalu/spl)]
-* 
+* Pose Based Trajectory Forecast of Vulnerable Road Users Using Recurrent Neural Networks, International Conference on Pattern Recognition (ICPR 2021). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-68763-2_5.pdf)]
 
 ## Journal Papers 2021
 * Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]

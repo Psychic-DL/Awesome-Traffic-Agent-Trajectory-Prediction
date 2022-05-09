@@ -155,6 +155,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Pose Based Trajectory Forecast of Vulnerable Road Users, IEEE Symposium Series on Computational Intelligence (SSCI 2019). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003023)]
 * Path Predictions using Object Attributes and Semantic Environment, International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2019). [[paper](https://pdfs.semanticscholar.org/1d36/88ae8738335f6452147de3c2f33bcfbd81b3.pdf)]
 * Probabilistic Path Planning using Obstacle Trajectory Prediction, CoDS-COMAD 2019. [[paper](https://dl.acm.org/doi/pdf/10.1145/3297001.3297006)]
+* Human Trajectory Prediction using Adversarial Loss, Proceedings of the 19th Swiss Transport Research Conference 2019. [[paper](https://www.strc.ch/2019/Kothari_Alahi.pdf)] [[code](https://github.com/vita-epfl/AdversarialLoss-SGAN)]
 
 ## Journal Papers 2019
 * A Scalable Framework for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658195)]

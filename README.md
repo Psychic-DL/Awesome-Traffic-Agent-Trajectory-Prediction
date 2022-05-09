@@ -318,7 +318,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.08770.pdf)] [[code](https://github.com/MediaBrain-SJTU/GroupNet)]
 * Whose Track Is It Anyway? Improving Robustness to Tracking Errors with Affinity-Based Prediction, CVPR 2022. [[paper](https://xinshuoweng.com/papers/Affinipred/camera_ready.pdf)]
 * ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning, CVPR 2022.
-* 
+* Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction, CVPR 2022. [[code](https://github.com/Jacobieee/ST-MR)]
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * 
 

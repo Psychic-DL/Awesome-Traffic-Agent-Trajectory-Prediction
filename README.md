@@ -164,7 +164,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Heter-Sim: Heterogeneous Multi-Agent Systems Simulation by Interactive Data-Driven Optimization, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865441)]
 * AADS: Augmented Autonomous Driving Simulation using Data-driven Algorithms, SCIENCE ROBOTICS. [[paper](https://arxiv.org/ftp/arxiv/papers/1901/1901.07849.pdf)]
 * Learning Generative Socially Aware Models of Pedestrian Motion, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8760356)]
-* 
+* Pedestrian Trajectory Prediction in Extremely Crowded Scenarios, Sensors. [[paper](https://www.mdpi.com/1424-8220/19/5/1223/pdf)]
 
 ## Others 2019
 * Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks, arXiv preprint arXiv:1912.07882, 2019. [[paper](https://arxiv.org/pdf/1912.07882.pdf)]

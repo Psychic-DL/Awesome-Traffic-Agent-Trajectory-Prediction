@@ -81,6 +81,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Visual Path Prediction in Complex Scenes with Crowded Moving Objects, CVPR 2016. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf)]
 * Social LSTM: Human Trajectory Prediction in Crowded Spaces, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)] [[code](https://github.com/quancore/social-lstm)]
 * Socially-aware Large-scale Crowd Forecasting, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Alahi_Socially-aware_Large-scale_Crowd_2014_CVPR_paper.pdf)]
+* Patch to the Future: Unsupervised Visual Prediction, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Walker_Patch_to_the_2014_CVPR_paper.pdf)]
+* Online maneuver recognition and multimodal trajectory prediction for intersection assistance using non-parametric regression, IV 2014. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6856480)]
 * Trajectory generator for autonomous vehicles in urban environments, ICRA 2013. [[paper](https://hal.inria.fr/file/index/docid/789760/filename/ICRA_Perez_et_al_2360.pdf)]
 * 
 ## Journal Papers
@@ -93,6 +95,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Vehicle Trajectory Prediction by Integrating Physics- and Maneuver-Based Approaches Using Interactive Multiple Models, IEEE Transactions on Industrial Electronics 2017. [[paper](https://www.researchgate.net/profile/Jianqiang-Wang/publication/321738692_Vehicle_Trajectory_Prediction_by_Integrating_Physics-_and_Maneuver-Based_Approaches_Using_Interactive_Multiple_Models/links/5fcde8c445851568d1469e52/Vehicle-Trajectory-Prediction-by-Integrating-Physics-and-Maneuver-Based-Approaches-Using-Interactive-Multiple-Models.pdf)]
 * Deep Learning Driven Visual Path Prediction from a Single Image, TIP 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7576681)]
 * Trajectory Data and Flow Characteristics of Mixed Traffic, Transportation Research Record 2015. [[paper](https://www.researchgate.net/profile/Gowri-Asaithambi/publication/284708700_Trajectory_Data_and_Flow_Characteristics_of_Mixed_Traffic/links/5710718008ae68dc79097605/Trajectory-Data-and-Flow-Characteristics-of-Mixed-Traffic.pdf)]
+* Mobile Agent Trajectory Prediction Using Bayesian Nonparametric Reachability Trees, Infotech@ Aerospace 2011. [[paper](https://dspace.mit.edu/bitstream/handle/1721.1/114899/Aoude_Infotech11.pdf?sequence=1&isAllowed=y)]
 * 
 
 ## Others

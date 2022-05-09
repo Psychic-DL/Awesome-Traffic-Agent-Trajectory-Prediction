@@ -150,6 +150,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * AGen: Adaptable Generative Prediction Networks for Autonomous Driving, IV 2019. [[paper](http://www.cs.cmu.edu/~cliu6/files/iv19-1.pdf)]
 * GRIP: Graph-based Interaction-aware Trajectory Prediction, Intelligent Transportation Systems Conference (ITSC 2019). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917228)] [[code](https://github.com/xincoder/GRIP)]
 * GRIP++: Enhanced Graph-based Interaction-aware Trajectory Prediction for Autonomous Driving, arXiv preprint arXiv:1907.07792, 2019. [[paper](https://arxiv.org/pdf/1907.07792.pdf)] [[code](https://github.com/xincoder/GRIP)]
+* Pose Based Trajectory Forecast of Vulnerable Road Users, IEEE Symposium Series on Computational Intelligence (SSCI 2019). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003023)]
 * 
 
 ## Journal Papers 2019

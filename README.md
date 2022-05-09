@@ -75,6 +75,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Attention Is All You Need, NIPS 2017. [[paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
 * Bi-Prediction: Pedestrian Trajectory Prediction Based on Bidirectional LSTM Classification, International Conference on Digital Image Computing: Techniques and Applications (DICTA 2017). [[paper](https://www.researchgate.net/profile/Du-Huynh-2/publication/322001876_Bi-Prediction_Pedestrian_Trajectory_Prediction_Based_on_Bidirectional_LSTM_Classification/links/5c03cef4a6fdcc1b8d5029bb/Bi-Prediction-Pedestrian-Trajectory-Prediction-Based-on-Bidirectional-LSTM-Classification.pdf)]
 * Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317943)]
+* DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents, CVPR 2017. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf)] [[code](https://github.com/tdavchev/DESIRE)]
 * Generating Long-term Trajectories Using Deep Hierarchical Networks, NIPS 2016. [[paper](https://proceedings.neurips.cc/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf)]
 * 
 * Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]
@@ -85,6 +86,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 ## Journal Papers
 * Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks 2018. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]
+* Long-term path prediction in urban scenarios using circular distributions, Image and Vision Computing 2018. [[paper](https://reader.elsevier.com/reader/sd/pii/S0262885617301853?token=DAD7B9F10835E05341405E75C5AB9F8F114FE99410544AD2BB4EFAA23BFC99D63EA8811C4A8C4F679593A61D0D3E35B6&originRegion=eu-west-1&originCreation=20220509082210)]
 * An Efficient Algorithm for Optimal Trajectory Generation for Heterogeneous Multi-Agent Systems in Non-Convex Environments, RAL 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8260912)]
 * Network-Wide Vehicle Trajectory Prediction in Urban Traffic Networks using Deep Learning, Transportation Research Record 2018. [[paper](https://www.researchgate.net/profile/Seongjin-Choi-2/publication/327524033_Network-Wide_Vehicle_Trajectory_Prediction_in_Urban_Traffic_Networks_using_Deep_Learning/links/5e3a123e458515072d8015d2/Network-Wide-Vehicle-Trajectory-Prediction-in-Urban-Traffic-Networks-using-Deep-Learning.pdf)]
 * Dictionary-based Fidelity Measure for Virtual Traffic, TVCG 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481568)]
@@ -218,6 +220,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Real Time Trajectory Prediction Using Deep Conditional Generative Models, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957482)]
 * Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000540)]
 * What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction, RAL. [[paper](https://arxiv.org/pdf/1903.07933.pdf)] [[code](https://github.com/cschoeller/constant_velocity_pedestrian_motion)]
+* Deep Context Maps: Agent Trajectory Prediction using Location-specific Latent Maps, RAL. [[paper](http://ras.papercept.net/images/temp/IROS/files/2532.pdf)]
 * 
 
 ## Others 2020

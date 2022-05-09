@@ -91,6 +91,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * An Efficient Algorithm for Optimal Trajectory Generation for Heterogeneous Multi-Agent Systems in Non-Convex Environments, RAL 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8260912)]
 * Network-Wide Vehicle Trajectory Prediction in Urban Traffic Networks using Deep Learning, Transportation Research Record 2018. [[paper](https://www.researchgate.net/profile/Seongjin-Choi-2/publication/327524033_Network-Wide_Vehicle_Trajectory_Prediction_in_Urban_Traffic_Networks_using_Deep_Learning/links/5e3a123e458515072d8015d2/Network-Wide-Vehicle-Trajectory-Prediction-in-Urban-Traffic-Networks-using-Deep-Learning.pdf)]
 * Intent Prediction of Pedestrians via Motion Trajectories Using Stacked Recurrent Neural Networks, IEEE Transactions on Intelligent Vehicles 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481390)]
+* Pedestrian Path, Pose, and Intention Prediction Through Gaussian Process Dynamical Models and Pedestrian Activity Recognition, TITS 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8370119)]
 * Dictionary-based Fidelity Measure for Virtual Traffic, TVCG 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481568)]
 * Realistic Data-Driven Traffic Flow Animation Using Texture Synthesis, TVCG 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7814314)]
 * Vehicle Trajectory Prediction by Integrating Physics- and Maneuver-Based Approaches Using Interactive Multiple Models, IEEE Transactions on Industrial Electronics 2017. [[paper](https://www.researchgate.net/profile/Jianqiang-Wang/publication/321738692_Vehicle_Trajectory_Prediction_by_Integrating_Physics-_and_Maneuver-Based_Approaches_Using_Interactive_Multiple_Models/links/5fcde8c445851568d1469e52/Vehicle-Trajectory-Prediction-by-Integrating-Physics-and-Maneuver-Based-Approaches-Using-Interactive-Multiple-Models.pdf)]
@@ -231,6 +232,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction, RAL. [[paper](https://arxiv.org/pdf/1903.07933.pdf)] [[code](https://github.com/cschoeller/constant_velocity_pedestrian_motion)]
 * Deep Context Maps: Agent Trajectory Prediction using Location-specific Latent Maps, RAL. [[paper](http://ras.papercept.net/images/temp/IROS/files/2532.pdf)]
 * Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309332)] [[code](https://github.com/tdavchev/structured-trajectory-prediction), [code](https://github.com/tdavchev/Stochastic-Futures-Prediction)]
+* Multimodal Interaction-aware Motion Prediction for Autonomous Street Crossing, International Journal of Robotics Research. [[paper](https://arxiv.org/pdf/1808.06887)]
+
 
 ## Others 2020
 * Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]

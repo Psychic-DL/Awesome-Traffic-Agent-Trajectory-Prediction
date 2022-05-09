@@ -77,9 +77,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317943)]
 * DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents, CVPR 2017. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf)] [[code](https://github.com/tdavchev/DESIRE)]
 * Generating Long-term Trajectories Using Deep Hierarchical Networks, NIPS 2016. [[paper](https://proceedings.neurips.cc/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf)]
-* 
 * Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]
-* 
+* Visual Path Prediction in Complex Scenes with Crowded Moving Objects, CVPR 2016. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf)]
 * Social LSTM: Human Trajectory Prediction in Crowded Spaces, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)] [[code](https://github.com/quancore/social-lstm)]
 * Socially-aware Large-scale Crowd Forecasting, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Alahi_Socially-aware_Large-scale_Crowd_2014_CVPR_paper.pdf)]
 * Trajectory generator for autonomous vehicles in urban environments, ICRA 2013. [[paper](https://hal.inria.fr/file/index/docid/789760/filename/ICRA_Perez_et_al_2360.pdf)]
@@ -92,10 +91,10 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Dictionary-based Fidelity Measure for Virtual Traffic, TVCG 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481568)]
 * Realistic Data-Driven Traffic Flow Animation Using Texture Synthesis, TVCG 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7814314)]
 * Vehicle Trajectory Prediction by Integrating Physics- and Maneuver-Based Approaches Using Interactive Multiple Models, IEEE Transactions on Industrial Electronics 2017. [[paper](https://www.researchgate.net/profile/Jianqiang-Wang/publication/321738692_Vehicle_Trajectory_Prediction_by_Integrating_Physics-_and_Maneuver-Based_Approaches_Using_Interactive_Multiple_Models/links/5fcde8c445851568d1469e52/Vehicle-Trajectory-Prediction-by-Integrating-Physics-and-Maneuver-Based-Approaches-Using-Interactive-Multiple-Models.pdf)]
-* 
+* Deep Learning Driven Visual Path Prediction from a Single Image, TIP 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7576681)]
 * Trajectory Data and Flow Characteristics of Mixed Traffic, Transportation Research Record 2015. [[paper](https://www.researchgate.net/profile/Gowri-Asaithambi/publication/284708700_Trajectory_Data_and_Flow_Characteristics_of_Mixed_Traffic/links/5710718008ae68dc79097605/Trajectory-Data-and-Flow-Characteristics-of-Mixed-Traffic.pdf)]
 * 
-* 
+
 ## Others
 * An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]
 * 

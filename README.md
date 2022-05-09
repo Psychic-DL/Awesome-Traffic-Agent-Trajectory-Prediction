@@ -316,6 +316,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.16910.pdf)] [[code](https://github.com/Kguo-cs/TDOR)]
 * M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2202.11884.pdf)] [[code](https://tsinghua-mars-lab.github.io/M2I/)]
 * GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.08770.pdf)] [[code](https://github.com/MediaBrain-SJTU/GroupNet)]
+* Whose Track Is It Anyway? Improving Robustness to Tracking Errors with Affinity-Based Prediction, CVPR 2022. [[paper](https://xinshuoweng.com/papers/Affinipred/camera_ready.pdf)]
+* ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning, CVPR 2022.
 * 
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * 

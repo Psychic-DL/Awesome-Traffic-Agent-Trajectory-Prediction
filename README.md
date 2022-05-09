@@ -313,6 +313,10 @@ Please feel free to pull request to add new resources or send emails to us for q
 * How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.04781.pdf)]
 * Learning from All Vehicles, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.11934.pdf)] [[code](https://github.com/dotchen/LAV)]
 * Forecasting from LiDAR via Future Object Detection, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.16297.pdf)] [[code](https://github.com/neeharperi/FutureDet)]
+* End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.16910.pdf)] [[code](https://github.com/Kguo-cs/TDOR)]
+* M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2202.11884.pdf)] [[code](https://tsinghua-mars-lab.github.io/M2I/)]
+* GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.08770.pdf)] [[code](https://github.com/MediaBrain-SJTU/GroupNet)]
+* 
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * 
 
@@ -326,6 +330,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * 
 
 ## Others 2022
+* Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]
+* Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.09121.pdf)]
+* 
 
 # Related Review Papers
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, ACM Transactions on Intelligent Systems and Technology 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474838)]

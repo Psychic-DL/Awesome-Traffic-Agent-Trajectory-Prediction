@@ -89,9 +89,15 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Forecast the Plausible Paths in Crowd Scenes, IJCAI 2017. [[paper](https://www.ijcai.org/proceedings/2017/0386.pdf)]
 * Generating Long-term Trajectories Using Deep Hierarchical Networks, NIPS 2016. [[paper](https://proceedings.neurips.cc/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf)]
 * Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]
+* Knowledge Transfer for Scene-Specific Motion Prediction, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46448-0_42.pdf)]
+* Structural-RNN: Deep Learning on Spatio-Temporal Graphs, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)] [[code](https://github.com/asheshjain399/RNNexp)]
 * Visual Path Prediction in Complex Scenes with Crowded Moving Objects, CVPR 2016. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf)]
 * Social LSTM: Human Trajectory Prediction in Crowded Spaces, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)] [[code](https://github.com/quancore/social-lstm)]
 * Comparison and Evaluation of Pedestrian Motion Models for Vehicle Safety Systems, ITSC 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7795912)]
+* Intent-aware long-term prediction of pedestrian motion, ICRA 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487409)]
+* Novel planning-based algorithms for human motion prediction, ICRA 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487505)]
+* GLMP-realtime pedestrian path prediction using global and local movement patterns, ICRA 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487768)]
+* 
 * Socially-aware Large-scale Crowd Forecasting, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Alahi_Socially-aware_Large-scale_Crowd_2014_CVPR_paper.pdf)]
 * Patch to the Future: Unsupervised Visual Prediction, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Walker_Patch_to_the_2014_CVPR_paper.pdf)]
 * Online maneuver recognition and multimodal trajectory prediction for intersection assistance using non-parametric regression, IV 2014. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6856480)]
@@ -109,6 +115,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Vehicle Trajectory Prediction by Integrating Physics- and Maneuver-Based Approaches Using Interactive Multiple Models, IEEE Transactions on Industrial Electronics 2017. [[paper](https://www.researchgate.net/profile/Jianqiang-Wang/publication/321738692_Vehicle_Trajectory_Prediction_by_Integrating_Physics-_and_Maneuver-Based_Approaches_Using_Interactive_Multiple_Models/links/5fcde8c445851568d1469e52/Vehicle-Trajectory-Prediction-by-Integrating-Physics-and-Maneuver-Based-Approaches-Using-Interactive-Multiple-Models.pdf)]
 * Real-Time Certified Probabilistic Pedestrian Forecasting, RAL 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7959047)]
 * Deep Learning Driven Visual Path Prediction from a Single Image, TIP 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7576681)]
+* Age and Group-driven PedestrianBehaviour: from Observations to Simulations, Collective Dynamics 2016. [[paper](https://collective-dynamics.eu/index.php/cod/article/view/A3/5)]
 * Trajectory Data and Flow Characteristics of Mixed Traffic, Transportation Research Record 2015. [[paper](https://www.researchgate.net/profile/Gowri-Asaithambi/publication/284708700_Trajectory_Data_and_Flow_Characteristics_of_Mixed_Traffic/links/5710718008ae68dc79097605/Trajectory-Data-and-Flow-Characteristics-of-Mixed-Traffic.pdf)]
 * Mobile Agent Trajectory Prediction Using Bayesian Nonparametric Reachability Trees, Infotech@ Aerospace 2011. [[paper](https://dspace.mit.edu/bitstream/handle/1721.1/114899/Aoude_Infotech11.pdf?sequence=1&isAllowed=y)]
 * 

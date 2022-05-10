@@ -97,10 +97,17 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Intent-aware long-term prediction of pedestrian motion, ICRA 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487409)]
 * Novel planning-based algorithms for human motion prediction, ICRA 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487505)]
 * GLMP-realtime pedestrian path prediction using global and local movement patterns, ICRA 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487768)]
-* 
+* STF-RNN: Space Time Features-based Recurrent Neural Network for predicting people next location, IEEE Symposium Series on Computational Intelligence (SSCI 2016). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849919)]
+* Trajectory analysis and prediction for improved pedestrian safety: Integrated framework and evaluations, IV 2015. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7225707)]
+* Unsupervised robot learning to predict person motion, ICRA 2015. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139254)]
+* A Controlled Interactive Multiple Model Filter for Combined Pedestrian Intention Recognition and Path Prediction, ITSC 2015. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7313129)]
 * Socially-aware Large-scale Crowd Forecasting, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Alahi_Socially-aware_Large-scale_Crowd_2014_CVPR_paper.pdf)]
 * Patch to the Future: Unsupervised Visual Prediction, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Walker_Patch_to_the_2014_CVPR_paper.pdf)]
 * Online maneuver recognition and multimodal trajectory prediction for intersection assistance using non-parametric regression, IV 2014. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6856480)]
+* Pedestrian Path Prediction using Body Language Traits, IV 2014. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6856498)]
+* Behavior estimation for a complete framework for human motion prediction in crowded environments, ICRA 2014. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6907734)]
+* Pedestrian's Trajectory Forecast in Public Traffic with Artificial Neural Networks, International Conference on Pattern Recognition (ICPR 2014). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6977417)]
+* Context-Based Pedestrian Path Prediction, ECCV 2014. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-10599-4_40.pdf)]
 * Trajectory generator for autonomous vehicles in urban environments, ICRA 2013. [[paper](https://hal.inria.fr/file/index/docid/789760/filename/ICRA_Perez_et_al_2360.pdf)]
 * 
 ## Journal Papers
@@ -117,18 +124,23 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Deep Learning Driven Visual Path Prediction from a Single Image, TIP 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7576681)]
 * Age and Group-driven PedestrianBehaviour: from Observations to Simulations, Collective Dynamics 2016. [[paper](https://collective-dynamics.eu/index.php/cod/article/view/A3/5)]
 * Trajectory Data and Flow Characteristics of Mixed Traffic, Transportation Research Record 2015. [[paper](https://www.researchgate.net/profile/Gowri-Asaithambi/publication/284708700_Trajectory_Data_and_Flow_Characteristics_of_Mixed_Traffic/links/5710718008ae68dc79097605/Trajectory-Data-and-Flow-Characteristics-of-Mixed-Traffic.pdf)]
+* Predicting and recognizing human interactions in public spaces, Journal of Real-Time Image Processing 2015. [[paper](https://fabiopoiesi.github.io/files/papers/journals/2014_JRTIP_PredictingRecognizingInteractionsPublic_Poiesi_Cavallaro.pdf)]
+* Learning Collective Crowd Behaviors with Dynamic Pedestrian-Agents, International Journal of Computer Vision 2015. [[paper](https://dspace.mit.edu/bitstream/handle/1721.1/103360/11263_2014_735_ReferencePDF.pdf?sequence=1&isAllowed=y)]
+* Real-Time Predictive Modeling and Robust Avoidance of Pedestrians with Uncertain, Changing Intentions, Algorithmic Foundations of Robotics XI 2015. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-16595-0_10.pdf)]
+* BRVO: Predicting pedestrian trajectories using velocity-space reasoning, International Journal of Robotics Research 2015. [[paper](https://www.cs.cityu.edu.hk/~rynson/papers/ijrr15.pdf)]
+* Learning intentions for improved human motion prediction, Robotics and Autonomous Systems 2014. [[paper](https://www.techunited.nl/media/images/Kwalificatie%20materiaal%202014/Elfring_2014.pdf)]
+* Will the Pedestrian Cross? A Study on Pedestrian Path Prediction, TITS 2013. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6632960)]
 * Mobile Agent Trajectory Prediction Using Bayesian Nonparametric Reachability Trees, Infotech@ Aerospace 2011. [[paper](https://dspace.mit.edu/bitstream/handle/1721.1/114899/Aoude_Infotech11.pdf?sequence=1&isAllowed=y)]
 * 
 
 ## Others
 * An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]
-* 
 * Scene-LSTM: A Model for Human Trajectory Prediction, arXiv preprint arXiv:1808.04018, 2018. [[paper](https://arxiv.org/ftp/arxiv/papers/1808/1808.04018.pdf)]
 * Convolutional Social Pooling for Vehicle Trajectory Prediction, CVPR Workshops 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)] [[code](https://github.com/nachiket92/conv-social-pooling)]
 * Convolutional Neural Network for Trajectory Prediction, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Nikhil_Convolutional_Neural_Network_for_Trajectory_Prediction_ECCVW_2018_paper.pdf)]
 * Group LSTM: Group Trajectory Prediction in Crowded Scenarios, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Bisagno_Group_LSTM_Group_Trajectory_Prediction_in_Crowded_Scenarios_ECCVW_2018_paper.pdf)]
 * Human Trajectory Prediction using Spatially aware Deep Attention Models, arXiv preprint arXiv:1705.09436, 2017. [[paper](https://arxiv.org/pdf/1705.09436.pdf)]
-* 
+* Modeling Spatial-Temporal Dynamics of Human Movements for Predicting Future Trajectories, AAAI Workshops 2015. [[paper](https://www.diva-portal.org/smash/get/diva2:808848/FULLTEXT01.pdf)]
 
 # 2019 Conference and Journal Papers
 ## Conference Papers 2019

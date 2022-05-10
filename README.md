@@ -91,6 +91,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]
 * Visual Path Prediction in Complex Scenes with Crowded Moving Objects, CVPR 2016. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf)]
 * Social LSTM: Human Trajectory Prediction in Crowded Spaces, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)] [[code](https://github.com/quancore/social-lstm)]
+* Comparison and Evaluation of Pedestrian Motion Models for Vehicle Safety Systems, ITSC 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7795912)]
 * Socially-aware Large-scale Crowd Forecasting, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Alahi_Socially-aware_Large-scale_Crowd_2014_CVPR_paper.pdf)]
 * Patch to the Future: Unsupervised Visual Prediction, CVPR 2014. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Walker_Patch_to_the_2014_CVPR_paper.pdf)]
 * Online maneuver recognition and multimodal trajectory prediction for intersection assistance using non-parametric regression, IV 2014. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6856480)]

@@ -277,6 +277,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, WACV 2020. [[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Mangalam_Disentangling_Human_Dynamics_for_Pedestrian_Locomotion_Forecasting_with_Noisy_Supervision_WACV_2020_paper.pdf)] [[website](https://karttikeya.github.io/publication/plf/)]
 * Deep Imitative Models for Flexible Inference, Planning, and Control, ICLR 2020. [[paper](https://openreview.net/pdf?id=Skl4mRNYDr)] [[code](https://github.com/nrhine1/deep_imitative_models)] [[website](https://sites.google.com/view/imitative-models)]
 * Trajectory Prediction in Heterogeneous Environment via Attended Ecology Embedding, ACM International Conference on Multimedia 2020. [[paper](http://basiclab.lab.nycu.edu.tw/assets/AEE-GAN_MM2020.pdf)] [[code](https://github.com/Ego2Eco/AEE-GAN)]
+* Multiple Trajectory Prediction with Deep Temporal and Spatial Convolutional Neural Networks, IROS 2020. [[paper](http://ras.papercept.net/images/temp/IROS/files/1081.pdf)]
 
 ## Journal Papers 2020
 * TrajVAE: A Variational AutoEncoder model for trajectory generation, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)]

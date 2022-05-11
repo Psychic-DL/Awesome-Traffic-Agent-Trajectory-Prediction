@@ -50,11 +50,13 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # Traditional Methods
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
-* 
+* Continuum crowds, ACM Transactions on Graphics (TOG 2006). [[paper](https://www.khoury.neu.edu/home/scooper/index_files/pub/treuille2006continuum.pdf)]
 * You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
 * People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
 * Unfreezing the robot: Navigation in dense, interacting crowds, IROS 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5654369)]
+* Who are you with and where are you going?, CVPR 2011. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995468)]
 * Walking Ahead: The Headed Social Force Model, PLoS ONE 2017. [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169734&type=printable)]
+* AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
 * 
 
 # 2018 and Before Conference and Journal Papers
@@ -122,7 +124,10 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Pedestrian's Trajectory Forecast in Public Traffic with Artificial Neural Networks, International Conference on Pattern Recognition (ICPR 2014). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6977417)]
 * Context-Based Pedestrian Path Prediction, ECCV 2014. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-10599-4_40.pdf)]
 * Trajectory generator for autonomous vehicles in urban environments, ICRA 2013. [[paper](https://hal.inria.fr/file/index/docid/789760/filename/ICRA_Perez_et_al_2360.pdf)]
-* 
+* Predictive maneuver evaluation for enhancement of Car-to-X mobility data, IV 2012. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6232217)]
+* Exploiting map information for driver intention estimation at road intersections, IV 2011. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940452)]
+* Monte Carlo based Threat Assessment: Analysis and Improvements, IV 2007. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4290120)]
+* Gaussian Processes in Machine Learning, Summer school on machine learning 2003. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-540-28650-9_4.pdf)]
 ## Journal Papers
 * Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks 2018. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]
 * Long-term path prediction in urban scenarios using circular distributions, Image and Vision Computing 2018. [[paper](https://reader.elsevier.com/reader/sd/pii/S0262885617301853?token=DAD7B9F10835E05341405E75C5AB9F8F114FE99410544AD2BB4EFAA23BFC99D63EA8811C4A8C4F679593A61D0D3E35B6&originRegion=eu-west-1&originCreation=20220509082210)]
@@ -144,7 +149,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Learning intentions for improved human motion prediction, Robotics and Autonomous Systems 2014. [[paper](https://www.techunited.nl/media/images/Kwalificatie%20materiaal%202014/Elfring_2014.pdf)]
 * Will the Pedestrian Cross? A Study on Pedestrian Path Prediction, TITS 2013. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6632960)]
 * Mobile Agent Trajectory Prediction Using Bayesian Nonparametric Reachability Trees, Infotech@ Aerospace 2011. [[paper](https://dspace.mit.edu/bitstream/handle/1721.1/114899/Aoude_Infotech11.pdf?sequence=1&isAllowed=y)]
-* 
+* Gaussian Process Dynamical Models for Human Motion, TPAMI 2008. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4359316)]
+* A new approach to linear filtering and prediction problems, Journal of Basic Engineering 1960. [[paper](http://160.78.24.2/Public/Kalman/Kalman1960.pdf)]
 
 ## Others
 * An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]

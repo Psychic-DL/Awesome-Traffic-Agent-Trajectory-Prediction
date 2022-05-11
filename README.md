@@ -55,6 +55,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
 * Unfreezing the robot: Navigation in dense, interacting crowds, IROS 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5654369)]
 * Who are you with and where are you going?, CVPR 2011. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995468)]
+* Social force model with explicit collision prediction, Europhysics Letters 2011. [[paper](https://iopscience.iop.org/article/10.1209/0295-5075/93/68005/pdf)]
 * Cyclist Social Force Model at Unsignalized Intersections With Heterogeneous Traffic, IEEE Transactions on Industrial Informatics 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536132)]
 * Walking Ahead: The Headed Social Force Model, PLoS ONE 2017. [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169734&type=printable)]
 * AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]

@@ -58,7 +58,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Cyclist Social Force Model at Unsignalized Intersections With Heterogeneous Traffic, IEEE Transactions on Industrial Informatics 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536132)]
 * Walking Ahead: The Headed Social Force Model, PLoS ONE 2017. [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169734&type=printable)]
 * AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
-* 
+* Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
+
 
 # 2018 and Before Conference and Journal Papers
 ## Conference Papers

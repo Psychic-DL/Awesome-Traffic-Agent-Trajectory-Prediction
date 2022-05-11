@@ -206,6 +206,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Coordination and trajectory prediction for vehicle interactions via bayesian generative modeling, IV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813821)]
 * Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction, IV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813783)]
 * AGen: Adaptable Generative Prediction Networks for Autonomous Driving, IV 2019. [[paper](http://www.cs.cmu.edu/~cliu6/files/iv19-1.pdf)]
+* Vehicle Trajectory Prediction at Intersections using Interaction based Generative Adversarial Networks, ITSC 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8916927), (https://www.researchgate.net/profile/Debaditya-Roy-2/publication/337629029_Vehicle_Trajectory_Prediction_at_Intersections_using_Interaction_based_Generative_Adversarial_Networks/links/5de5e6224585159aa45cc76c/Vehicle-Trajectory-Prediction-at-Intersections-using-Interaction-based-Generative-Adversarial-Networks.pdf)]
 * GRIP: Graph-based Interaction-aware Trajectory Prediction, Intelligent Transportation Systems Conference (ITSC 2019). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917228)] [[code](https://github.com/xincoder/GRIP)]
 * GRIP++: Enhanced Graph-based Interaction-aware Trajectory Prediction for Autonomous Driving, arXiv preprint arXiv:1907.07792, 2019. [[paper](https://arxiv.org/pdf/1907.07792.pdf)] [[code](https://github.com/xincoder/GRIP)]
 * Pose Based Trajectory Forecast of Vulnerable Road Users, IEEE Symposium Series on Computational Intelligence (SSCI 2019). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003023)]
@@ -227,7 +228,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf)] [[code](https://github.com/crowdbotp/socialways)]
 * Social and Scene-Aware Trajectory Prediction in Crowded Spaces, ICCV Workshops 2019. [[paper](https://arxiv.org/pdf/1909.08840.pdf)] [[code](https://github.com/Oghma/sns-lstm/)]
 * Probabilistic Trajectory Prediction for Autonomous Vehicles with Attentive Recurrent Neural Process, arXiv preprint arXiv:1910.08102, 2019. [[paper](https://arxiv.org/pdf/1910.08102.pdf)]
-* 
+* Stochastic Trajectory Prediction with Social Graph Network, arXiv preprint arXiv:1907.10233, 2019. [[paper](https://arxiv.org/pdf/1907.10233.pdf)]
 
 # 2020 Conference and Journal Papers
 ## Conference Papers 2020

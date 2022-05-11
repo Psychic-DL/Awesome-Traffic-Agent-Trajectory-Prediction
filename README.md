@@ -417,6 +417,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Review of Deep Learning-Based Methods for Pedestrian Trajectory Prediction, Sensors 2021. [[paper](https://www.mdpi.com/1424-8220/21/22/7543/pdf)]
 * A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, arXiv preprint arXiv:2110.10436, 2021. [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
 * Review of Pedestrian Trajectory Prediction Methods: Comparing Deep Learning and Knowledge-based Approaches, arXiv preprint arXiv:2111.06740, 2021. [[paper](https://arxiv.org/pdf/2111.06740.pdf)]
+* A Survey on Trajectory Data Management, Analytics, and Learning, ACM Computing Surveys (CSUR 2021). [[paper](https://dl.acm.org/doi/pdf/10.1145/3440207)]
 * Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies, arXiv preprint arXiv:2006.06091, 2020. [[paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)]
 * A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving, Computer Graphics Forum 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13803?saml_referrer)]
 * A Survey of Deep Learning Techniques for Autonomous Driving, Journal of Field Robotics 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918?saml_referrer)]

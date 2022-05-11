@@ -425,6 +425,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Spatio-Temporal Data Mining: A Survey of Problems and Methods, ACM Computing Surveys 2018. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
 * Survey on Vision-Based Path Prediction, International Conference on Distributed, Ambient, and Pervasive Interactions (DAPI 2018). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-91131-1_4.pdf)]
 * Moving Objects Analytics: Survey on Future Location & Trajectory Prediction Methods, arXiv preprint arXiv:1807.04639, 2018. [[paper](https://arxiv.org/ftp/arxiv/papers/1807/1807.04639.pdf)]
+* A Survey on Trajectory Data Mining: Techniques and Applications, IEEE Access 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7452339)]
 * Trajectory Data Mining: An Overview, ACM Transactions on Intelligent Systems and Technology 2015. [[paper](http://urban-computing.com/pdf/TrajectoryDataMining-tist-yuzheng.pdf)]
 * A survey on motion prediction and risk assessment for intelligent vehicles, ROBOMECH Journal 2014. [[paper](https://robomechjournal.springeropen.com/track/pdf/10.1186/s40648-014-0001-z.pdf)]
 * 

@@ -290,7 +290,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309332)] [[code](https://github.com/tdavchev/structured-trajectory-prediction), [code](https://github.com/tdavchev/Stochastic-Futures-Prediction)]
 * Multimodal Interaction-aware Motion Prediction for Autonomous Street Crossing, International Journal of Robotics Research. [[paper](https://arxiv.org/pdf/1808.06887)]
 
-
 ## Others 2020
 * Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]
 * Robust Trajectory Forecasting for Multiple Intelligent Agents in Dynamic Scene, arXiv preprint arXiv:2005.13133, 2020. [[paper](https://arxiv.org/pdf/2005.13133.pdf)]
@@ -363,7 +362,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Novel Graph-Based Trajectory Predictor With Pseudo-Oracle, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9447207)]
 * Large Scale GPS Trajectory Generation Using Map Based on Two Stage GAN, Journal of Data Science. [[paper](https://www.jds-online.com/files/JDS202001-08.pdf)] [[code](https://github.com/XingruiWang/Two-Stage-Gan-in-trajectory-generation)]
 * Pose and Semantic Map Based Probabilistic Forecast of Vulnerable Road Users’ Trajectories, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9707640)]
-* 
+* STI-GAN: Multimodal Pedestrian Trajectory Prediction Using Spatiotemporal Interactions and a Generative Adversarial Network, IEEE Access. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9387292)]
 
 ## Others 2021
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]

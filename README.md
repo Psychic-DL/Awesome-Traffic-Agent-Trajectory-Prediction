@@ -92,6 +92,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317943)]
 * Natural Vision Based Method for Predicting Pedestrian Behaviour in Urban Environments, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317848)]
 * How good is my prediction? Finding a similarity measure for trajectory prediction evaluation, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317825)]
+* An LSTM network for highway trajectory prediction, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317913)]
 * DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents, CVPR 2017. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf)] [[code](https://github.com/tdavchev/DESIRE)]
 * Forecasting Interactive Dynamics of Pedestrians with Fictitious Play, CVPR 2017. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf)]
 * Forecast the Plausible Paths in Crowd Scenes, IJCAI 2017. [[paper](https://www.ijcai.org/proceedings/2017/0386.pdf)]

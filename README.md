@@ -299,6 +299,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575242)]
 * Social-STAGE: Spatio-Temporal Multi-Modal Future Trajectory Forecast, ICRA 2021. [[paper](https://arxiv.org/pdf/2011.04853.pdf)]
 * AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention, ICRA 2021. [[paper](https://arxiv.org/pdf/2101.05682.pdf)]
+* Exploring Dynamic Context for Multi-path Trajectory Prediction, ICRA 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562034)] [[code](https://github.com/wtliao/DCENet)]
 * Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks, ICRA 2021. [[paper](https://www.researchgate.net/publication/346614349_Pedestrian_Trajectory_Prediction_using_Context-Augmented_Transformer_Networks)] [[code](https://github.com/KhaledSaleh/Context-Transformer-PedTraj)]
 * Spectral Temporal Graph Neural Network for Trajectory Prediction, ICRA 2021. [[paper](https://arxiv.org/pdf/2106.02930.pdf)]
 * Congestion-aware Multi-agent Trajectory Prediction for Collision Avoidance, ICRA 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560994)] [[code](https://github.com/xuxie1031/CollisionFreeMultiAgentTrajectoryPrediciton)]

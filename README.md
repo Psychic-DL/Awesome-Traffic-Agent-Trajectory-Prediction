@@ -126,6 +126,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Context-Based Pedestrian Path Prediction, ECCV 2014. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-10599-4_40.pdf)]
 * Trajectory generator for autonomous vehicles in urban environments, ICRA 2013. [[paper](https://hal.inria.fr/file/index/docid/789760/filename/ICRA_Perez_et_al_2360.pdf)]
 * Predictive maneuver evaluation for enhancement of Car-to-X mobility data, IV 2012. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6232217)]
+* Probabilistic trajectory prediction with Gaussian mixture models, IV 2012. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6232277)]
 * Exploiting map information for driver intention estimation at road intersections, IV 2011. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940452)]
 * Monte Carlo based Threat Assessment: Analysis and Improvements, IV 2007. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4290120)]
 * Gaussian Processes in Machine Learning, Summer school on machine learning 2003. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-540-28650-9_4.pdf)]

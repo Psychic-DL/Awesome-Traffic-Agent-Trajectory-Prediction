@@ -105,6 +105,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Forecast the Plausible Paths in Crowd Scenes, IJCAI 2017. [[paper](https://www.ijcai.org/proceedings/2017/0386.pdf)]
 * What will Happen Next? Forecasting Player Moves in Sports Videos, ICCV 2017. [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf)]
 * Using road topology to improve cyclist path prediction, IV 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7995734)]
+* Short-term 4D Trajectory Prediction Using Machine Learning Methods, Proc. SID 2017. [[paper](https://www.sesarju.eu/sites/default/files/documents/sid/2017/SIDs_2017_paper_11.pdf)]
 * Generating Long-term Trajectories Using Deep Hierarchical Networks, NIPS 2016. [[paper](https://proceedings.neurips.cc/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf)]
 * Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]
 * Knowledge Transfer for Scene-Specific Motion Prediction, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46448-0_42.pdf)]

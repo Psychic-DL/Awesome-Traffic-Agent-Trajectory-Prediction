@@ -432,6 +432,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * CSCNet: Contextual semantic consistency network for trajectory prediction in crowded spaces, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000334)]
 * Step Attention: Sequential Pedestrian Trajectory Prediction, IEEE Sensors Journal. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732437)]
 * Vehicle Trajectory Prediction Method Coupled With Ego Vehicle Motion Trend Under Dual Attention Mechanism, IEEE Transactions on Instrumentation and Measurement. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749176)]
+* Deep encoder–decoder-NN: A deep learning-based autonomous vehicle trajectory prediction and correction model, Physica A: Statistical Mechanics and its Applications. [[paper](https://www.sciencedirect.com/science/article/pii/S0378437122000139)]
+* PTPGC: Pedestrian trajectory prediction by graph attention network with ConvLSTM, Robotics and Autonomous Systems. [[paper](https://www.sciencedirect.com/science/article/pii/S0921889021002165)]
 
 ## Others 2022
 * Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]

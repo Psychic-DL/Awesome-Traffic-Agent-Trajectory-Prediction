@@ -376,12 +376,14 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Long Short-Term Memory-Based Human-Driven Vehicle Longitudinal Trajectory Prediction in a Connected and Autonomous Vehicle Environment, Transportation Research Record. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0361198121993471)]
 * Temporal Pyramid Network with Spatial-Temporal Attention for Pedestrian Trajectory Prediction, IEEE Transactions on Network Science and Engineering. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373939)]
 * An efficient Spatial–Temporal model based on gated linear units for trajectory prediction, Neurocomputing. [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231221018907?token=C894F657732BB6078B77AEC9BD3858338C1A7F1254CCC0BBC34ADA1421A95CF9A4F68BDCA8812457DE27FB37EEB8F198&originRegion=us-east-1&originCreation=20220420144432)]
+* SRAI-LSTM: A Social Relation Attention-based Interaction-aware LSTM for human trajectory prediction, Neurocomputing. [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231221018014?token=BB22DAAC41E3BF453C326A9D72A0CC900C2DFFD0D8AE07B7DEED51C7F2250B9CB40CC89B6812CA20DBFA6A7EDD32AAD6&originRegion=us-east-1&originCreation=20220512100647)]
 * Multi-PPTP: Multiple Probabilistic Pedestrian Trajectory Prediction in the Complex Junction Scene, IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9619864)]
 * A Novel Graph-Based Trajectory Predictor With Pseudo-Oracle, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9447207)]
 * Large Scale GPS Trajectory Generation Using Map Based on Two Stage GAN, Journal of Data Science. [[paper](https://www.jds-online.com/files/JDS202001-08.pdf)] [[code](https://github.com/XingruiWang/Two-Stage-Gan-in-trajectory-generation)]
 * Pose and Semantic Map Based Probabilistic Forecast of Vulnerable Road Users’ Trajectories, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9707640)]
 * STI-GAN: Multimodal Pedestrian Trajectory Prediction Using Spatiotemporal Interactions and a Generative Adversarial Network, IEEE Access. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9387292)]
 * Holistic LSTM for Pedestrian Trajectory Prediction, TIP. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9361440)]
+* Pedestrian trajectory prediction with convolutional neural networks, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321004325)]
 
 ## Others 2021
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]

@@ -428,6 +428,10 @@ Please feel free to pull request to add new resources or send emails to us for q
 * GAMMA: A General Agent Motion Prediction Model for Autonomous Driving, RAL. [[paper](https://arxiv.org/pdf/1906.01566.pdf)] [[code](https://github.com/AdaCompNUS/gamma)]
 * Stepwise Goal-Driven Networks for Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2103.14107v3.pdf)] [[code](https://github.com/ChuhuaW/SGNet.pytorch)]
 * Long-term 4D trajectory prediction using generative adversarial networks, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X22000031)]
+* A context-aware pedestrian trajectory prediction framework for automated vehicles, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004423)]
+* CSCNet: Contextual semantic consistency network for trajectory prediction in crowded spaces, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000334)]
+* Step Attention: Sequential Pedestrian Trajectory Prediction, IEEE Sensors Journal. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732437)]
+* Vehicle Trajectory Prediction Method Coupled With Ego Vehicle Motion Trend Under Dual Attention Mechanism, IEEE Transactions on Instrumentation and Measurement. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749176)]
 
 ## Others 2022
 * Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]

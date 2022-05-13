@@ -355,6 +355,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction, CVPR 2021. [[paper](https://arxiv.org/pdf/2104.08277.pdf)]
 * Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf)] [[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/euro-pvi-dataset)]
 * Trajectory Prediction with Latent Belief Energy-Based Model, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_Trajectory_Prediction_With_Latent_Belief_Energy-Based_Model_CVPR_2021_paper.pdf)] [[code](https://github.com/bpucla/lbebm)]
+* Shared Cross-Modal Trajectory Prediction for Autonomous Driving, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf)]
 * Multimodal Transformer Network for Pedestrian Trajectory Prediction, IJCAI 2021. [[paper](https://www.ijcai.org/proceedings/2021/0174.pdf)] [[code](https://github.com/ericyinyzy/MTN_trajectory)]
 * Decoder Fusion RNN: Context and Interaction Aware Decoders for Trajectory Prediction, IROS 2021. [[paper](https://arxiv.org/pdf/2108.05814.pdf)]
 * Joint Intention and Trajectory Prediction Based on Transformer, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636241)]

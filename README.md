@@ -392,6 +392,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Human trajectory prediction and generation using LSTM models and GANs, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S003132032100323X)]
 * Vehicle trajectory prediction and generation using LSTM models and GANs, Plos one. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253868)]
 * BiTraP: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9345445)] [[code](https://github.com/umautobots/bidireaction-trajectory-prediction)]
+* Social graph convolutional LSTM for pedestrian trajectory prediction, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12033)]
 
 ## Others 2021
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]

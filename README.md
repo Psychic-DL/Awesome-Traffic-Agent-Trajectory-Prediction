@@ -405,6 +405,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Physically Feasible Vehicle Trajectory Prediction, arXiv preprint arXiv:2104.14679, 2021. [[paper](https://arxiv.org/pdf/2104.14679.pdf)]
 * SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction, arXiv preprint arXiv:2112.02459, 2021. [[paper](https://arxiv.org/pdf/2112.02459)]
 * GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation, arXiv preprint arXiv:2109.01827, 2021. [[paper](https://arxiv.org/pdf/2109.01827.pdf)]
+* THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling, arXiv preprint arXiv:2110.06607, 2021. [[paper](https://arxiv.org/pdf/2110.06607)]
 
 # 2022 Conference and Journal Papers
 ## Conference Papers 2022

@@ -320,6 +320,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, arXiv preprint arXiv:2002.06241, 2020. [[paper](https://arxiv.org/pdf/2002.06241.pdf)]
 * Trajectory Forecasts in Unknown Environments Conditioned on Grid-Based Plans, arXiv preprint arXiv:2001.00735, 2020. [[paper](https://arxiv.org/pdf/2001.00735.pdf)] [[code](https://github.com/nachiket92/P2T)]
 * Multi-modal Trajectory Prediction for Autonomous Driving with Semantic Map and Dynamic Graph Attention Network, NIPS Workshops 2020. [[paper](https://arxiv.org/pdf/2103.16273.pdf)]
+* Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507v1.pdf)]
 
 # 2021 Conference and Journal Papers
 ## Conference Papers 2021

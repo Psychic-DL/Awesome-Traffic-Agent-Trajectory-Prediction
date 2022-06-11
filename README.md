@@ -427,6 +427,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Whose Track Is It Anyway? Improving Robustness to Tracking Errors with Affinity-Based Prediction, CVPR 2022. [[paper](https://xinshuoweng.com/papers/Affinipred/camera_ready.pdf)]
 * ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_ScePT_Scene-Consistent_Policy-Based_Trajectory_Predictions_for_Planning_CVPR_2022_paper.pdf)]
 * Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Graph-Based_Spatial_Transformer_With_Memory_Replay_for_Multi-Future_Pedestrian_Trajectory_CVPR_2022_paper.pdf)] [[code](https://github.com/Jacobieee/ST-MR)]
+* MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MUSE-VAE_Multi-Scale_VAE_for_Environment-Aware_Long_Term_Trajectory_Prediction_CVPR_2022_paper.pdf)]
+* LTP: Lane-based Trajectory Prediction for Autonomous Driving, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_LTP_Lane-Based_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2022_paper.pdf)]
+* 
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * 
 

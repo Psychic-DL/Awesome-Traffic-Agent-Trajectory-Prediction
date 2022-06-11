@@ -403,7 +403,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajectory Prediction using Generative Adversarial Network in Multi-Class Scenarios, arXiv preprint arXiv:2110.11401, 2021. [[paper](https://arxiv.org/pdf/2110.11401.pdf)]
 * Spatial-Channel Transformer Network for Trajectory Prediction on the Traffic Scenes, arXiv preprint arXiv:2101.11472, 2021. [[paper](https://arxiv.org/ftp/arxiv/papers/2101/2101.11472.pdf)]
 * Physically Feasible Vehicle Trajectory Prediction, arXiv preprint arXiv:2104.14679, 2021. [[paper](https://arxiv.org/pdf/2104.14679.pdf)]
-* 
+* SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction, arXiv preprint arXiv:2112.02459, 2021. [[paper](https://arxiv.org/pdf/2112.02459)]
 
 # 2022 Conference and Journal Papers
 ## Conference Papers 2022

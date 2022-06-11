@@ -431,7 +431,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * LTP: Lane-based Trajectory Prediction for Autonomous Driving, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_LTP_Lane-Based_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2022_paper.pdf)]
 * ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.pdf)]
 * Human Trajectory Prediction with Momentary Observation, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)]
-* 
+* HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf)]
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * 
 

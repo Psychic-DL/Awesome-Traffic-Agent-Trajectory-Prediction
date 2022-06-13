@@ -308,6 +308,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Multimodal Deep Generative Models for Trajectory Prediction: A Conditional Variational Autoencoder Approach, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286482)]
 * Deep Context Maps: Agent Trajectory Prediction using Location-specific Latent Maps, RAL. [[paper](http://ras.papercept.net/images/temp/IROS/files/2532.pdf)]
 * Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309332)] [[code](https://github.com/tdavchev/structured-trajectory-prediction), [code](https://github.com/tdavchev/Stochastic-Futures-Prediction)]
+* Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123560)]
 * Multimodal Interaction-aware Motion Prediction for Autonomous Street Crossing, International Journal of Robotics Research. [[paper](https://arxiv.org/pdf/1808.06887)]
 * Pedestrian Trajectory Prediction Based on Deep Convolutional LSTM Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043898)] [[code](https://github.com/ParadiseCK/DeepConvLstmNet)]
 

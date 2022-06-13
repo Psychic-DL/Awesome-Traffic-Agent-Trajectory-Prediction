@@ -401,6 +401,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Vehicle trajectory prediction and generation using LSTM models and GANs, Plos one. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253868)]
 * BiTraP: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9345445)] [[code](https://github.com/umautobots/bidireaction-trajectory-prediction)]
 * A Kinematic Model for Trajectory Prediction in General Highway Scenarios, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472993)]
+* Trajectory Prediction in Autonomous Driving With a Lane Heading Auxiliary Loss, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387075)]
 * Social graph convolutional LSTM for pedestrian trajectory prediction, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12033)]
 
 ## Others 2021

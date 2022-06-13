@@ -475,6 +475,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * PTPGC: Pedestrian trajectory prediction by graph attention network with ConvLSTM, Robotics and Autonomous Systems. [[paper](https://www.sciencedirect.com/science/article/pii/S0921889021002165)]
 * GCHGAT: pedestrian trajectory prediction using group constrained hierarchical graph attention networks, Applied Intelligence. [[paper](https://link.springer.com/article/10.1007/s10489-021-02997-w)]
 * Vehicles Trajectory Prediction Using Recurrent VAE Network, IEEE Access. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740177)] [[code](https://github.com/midemig/traj_pred_vae)]
+* SEEM: A Sequence Entropy Energy-Based Model for Pedestrian Trajectory All-Then-One Prediction, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9699076)]
 
 ## Others 2022
 * Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]

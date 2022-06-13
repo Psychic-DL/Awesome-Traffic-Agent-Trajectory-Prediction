@@ -403,6 +403,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Kinematic Model for Trajectory Prediction in General Highway Scenarios, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472993)]
 * Trajectory Prediction in Autonomous Driving With a Lane Heading Auxiliary Loss, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387075)]
 * Vehicle Trajectory Prediction Using Generative Adversarial Network With Temporal Logic Syntax Tree Features, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366373)]
+* Tra2Tra: Trajectory-to-Trajectory Prediction With a Global Social Spatial-Temporal Attentive Neural Network, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9347678)]
 * Social graph convolutional LSTM for pedestrian trajectory prediction, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12033)]
 
 ## Others 2021

@@ -409,6 +409,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Social graph convolutional LSTM for pedestrian trajectory prediction, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12033)]
 * HSTA: A Hierarchical Spatio-Temporal Attention Model for Trajectory Prediction, IEEE Transactions on Vehicular Technology (TVT). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9548801)]
 * Environment-Attention Network for Vehicle Trajectory Prediction, TVT. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534487)]
+* Where Are They Going? Predicting Human Behaviors in Crowded Scenes, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM). [[paper](https://dl.acm.org/doi/pdf/10.1145/3449359)]
 
 ## Others 2021
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]

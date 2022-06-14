@@ -79,6 +79,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders, ECCV 2018. [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)]
 * Generating Comfortable, Safe and Comprehensible Trajectories for Automated Vehicles in Mixed Traffic, International Conference on Intelligent Transportation Systems (ITSC 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569658)]
 * Set-Based Prediction of Pedestrians in Urban Environments Considering Formalized Traffic Rules, ITSC 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569434)]
+* Intention-aware Long Horizon Trajectory Prediction of Surrounding Vehicles using Dual LSTM Networks, ITSC 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569595)]
 * Social Attention: Modeling Attention in Human Crowds, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460504)]
 * A Data-driven Model for Interaction-Aware Pedestrian Motion Prediction in Object Cluttered Environments, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461157)]
 * Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460766)] [[code](https://github.com/StanfordASL/TrafficWeavingCVAE)]

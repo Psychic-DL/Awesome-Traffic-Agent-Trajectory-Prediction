@@ -491,7 +491,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, ACM Transactions on Intelligent Systems and Technology 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474838)]
 * A Review of Deep Learning-Based Methods for Pedestrian Trajectory Prediction, Sensors 2021. [[paper](https://www.mdpi.com/1424-8220/21/22/7543/pdf)]
-* A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, arXiv preprint arXiv:2110.10436, 2021. [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
+* A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, IEEE International Conference on Robotics and Biomimetics (ROBIO), 2021. [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
 * Review of Pedestrian Trajectory Prediction Methods: Comparing Deep Learning and Knowledge-based Approaches, arXiv preprint arXiv:2111.06740, 2021. [[paper](https://arxiv.org/pdf/2111.06740.pdf)]
 * A Survey on Trajectory Data Management, Analytics, and Learning, ACM Computing Surveys (CSUR 2021). [[paper](https://dl.acm.org/doi/pdf/10.1145/3440207)]
 * Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies, arXiv preprint arXiv:2006.06091, 2020. [[paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)]

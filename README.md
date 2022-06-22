@@ -234,6 +234,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Journal Papers 2019
 * A Scalable Framework for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658195)]
 * Contextual Recurrent Predictive Model for Long-Term Intent Prediction of Vulnerable Road Users, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8766889&tag=1)]
+* Interactive Trajectory Prediction of Surrounding Road Users for Autonomous Driving Using Structural-LSTM Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848853)]
 * A Deep Learning-Based Framework for Intersectional Traffic Simulation and Editing, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600335)]
 * Heter-Sim: Heterogeneous Multi-Agent Systems Simulation by Interactive Data-Driven Optimization, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865441)]
 * AADS: Augmented Autonomous Driving Simulation using Data-driven Algorithms, SCIENCE ROBOTICS. [[paper](https://arxiv.org/ftp/arxiv/papers/1901/1901.07849.pdf)]

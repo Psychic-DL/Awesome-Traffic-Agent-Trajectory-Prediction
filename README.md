@@ -314,6 +314,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123560)]
 * Multimodal Interaction-aware Motion Prediction for Autonomous Street Crossing, International Journal of Robotics Research. [[paper](https://arxiv.org/pdf/1808.06887)]
 * Pedestrian Trajectory Prediction Based on Deep Convolutional LSTM Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043898)] [[code](https://github.com/ParadiseCK/DeepConvLstmNet)]
+* Multi-Vehicle Collaborative Learning for Trajectory Prediction With Spatio-Temporal Tensor Fusion, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151374)]
 * Multiple Trajectory Prediction of Moving Agents with Memory Augmented Networks, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138768)]
 
 ## Others 2020

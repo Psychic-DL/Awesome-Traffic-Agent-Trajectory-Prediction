@@ -419,6 +419,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * HSTA: A Hierarchical Spatio-Temporal Attention Model for Trajectory Prediction, IEEE Transactions on Vehicular Technology (TVT). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9548801)]
 * Environment-Attention Network for Vehicle Trajectory Prediction, TVT. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534487)]
 * Where Are They Going? Predicting Human Behaviors in Crowded Scenes, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM). [[paper](https://dl.acm.org/doi/pdf/10.1145/3449359)]
+* Multi-Agent Trajectory Prediction with Spatio-Temporal Sequence Fusion, IEEE Transactions on Multimedia (TMM). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9580659)]
 
 ## Others 2021
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, arXiv preprint arXiv:2109.06446, 2021. [[paper](https://arxiv.org/pdf/2109.06446.pdf)]

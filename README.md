@@ -436,6 +436,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation, arXiv preprint arXiv:2109.01827, 2021. [[paper](https://arxiv.org/pdf/2109.01827.pdf)]
 * THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling, arXiv preprint arXiv:2110.06607, 2021. [[paper](https://arxiv.org/pdf/2110.06607)]
 * MSN: Multi-Style Network for Trajectory Prediction, arXiv preprint arXiv:2107.00932, 2021. [[paper](https://arxiv.org/pdf/2107.00932.pdf)] [[code](https://github.com/JunweiLiang/Multiverse)]
+* Rethinking Trajectory Forecasting Evaluation, arXiv preprint arXiv:2107.10297, 2021. [[paper](https://arxiv.org/pdf/2107.10297)]
 * Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network, IEEE Intelligent Vehicles Symposium Workshops (IV Workshops 2021). [[paper](https://arxiv.org/pdf/2112.06624)]
 
 # 2022 Conference and Journal Papers

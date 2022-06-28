@@ -44,6 +44,12 @@ Please feel free to pull request to add new resources or send emails to us for q
 	- [Others](#Others-2022)
 - [**Related Review Papers**](#Related-Review-Papers)
 - [**Datasets**](#Datasets)
+	- [Vehicles Publicly Available Datasets](#Vehicles-Publicly-Available-Datasets)
+	- [Pedestrians Publicly Available Datasets](#Pedestrians-Publicly-Available-Datasets)
+	- [Others Agents Datasets](#Others Agents Datasets)
+		- [Aircraft](#Aircraft)
+		- [Ship](#Ship)
+		- [Hurricane & Animal](#Hurricane & Animal)
 	<!-- /TOC -->
 
 ******

@@ -536,7 +536,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 * [T-drive](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/)
 * [Greek Trucks](http://www.chorochronos.org/)
-* 
+* [highD]()
+* [inD]()
+* [round]()
 * 
 ## Pedestrians Publicly Available Datasets
 *

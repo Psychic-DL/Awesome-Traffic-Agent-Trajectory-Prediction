@@ -531,7 +531,12 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # Datasets
 ## Vehicles Publicly Available Datasets
-* Porto. [[link](fdafafa)]
+* [[Porto](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data)] [[website](https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge,+ECML+PKDD+2015)]
+* [[NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj)]
+* [[NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)]
+* [[T-drive](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/)]
+* [[Greek Trucks](http://www.chorochronos.org/)]
+* 
 * 
 ## Pedestrians Publicly Available Datasets
 *

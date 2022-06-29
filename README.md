@@ -543,6 +543,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [rounD](https://www.round-dataset.com/)
 * [uniD](https://www.unid-dataset.com/)
 * [exiD](https://www.exid-dataset.com/)
+* [Mirror-Traffic](http://www.scenarios.cn/html/dataset.html)
+* [Argoverse](https://www.argoverse.org/)
+* 
 * 
 * 
 ## Pedestrians Publicly Available Datasets

@@ -555,7 +555,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [Lyft Level 5](https://level-5.global/)
 * [METEOR](https://gamma.umd.edu/researchdirections/autonomousdriving/meteor/)
 * [DiDi GAIA](https://outreach.didichuxing.com/research/opendata/)
-* [Shanghai & Hanzhou, Beijing](https://dl.acm.org/doi/abs/10.1145/2700478, https://dl.acm.org/doi/10.1145/2525314.2525343)
+* [Shanghai & Hanzhou](https://dl.acm.org/doi/abs/10.1145/2700478)
+* [Beijing](https://dl.acm.org/doi/10.1145/2525314.2525343)
 * 
 * 
 * 

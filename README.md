@@ -558,10 +558,13 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [Shanghai & Hangzhou](https://dl.acm.org/doi/abs/10.1145/2700478)
 * [Beijing](https://dl.acm.org/doi/10.1145/2525314.2525343)
 * [VMT](https://ieeexplore.ieee.org/document/6482546)
-* [TRAFFIC](https://ieeexplore.ieee.org/document/7565640) [website](https://min.sjtu.edu.cn/lwydemo/Trajectory%20analysis.htm)
+* [TRAFFIC](https://ieeexplore.ieee.org/document/7565640), [website](https://min.sjtu.edu.cn/lwydemo/Trajectory%20analysis.htm)
 * [CROSS](https://cvrr-nas.ucsd.edu/publications/2011/Morris_PAMI2011.pdf), [website](http://cvrr.ucsd.edu/bmorris/datasets/)
 ## Pedestrians Publicly Available Datasets
-*
+* [GeoLife](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
+* []()
+* []()
+* 
 ## Others Agents Datasets
 ### Aircraft
 *

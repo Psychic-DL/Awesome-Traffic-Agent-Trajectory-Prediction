@@ -533,7 +533,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # Datasets
 ## Vehicles Publicly Available Datasets
-* [Porto](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data) [website](https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge,+ECML+PKDD+2015)
+* [Porto](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data), [website](https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge,+ECML+PKDD+2015)
 * [NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj)
 * [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 * [T-drive](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/)
@@ -559,11 +559,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [Beijing](https://dl.acm.org/doi/10.1145/2525314.2525343)
 * [VMT](https://ieeexplore.ieee.org/document/6482546)
 * [TRAFFIC](https://ieeexplore.ieee.org/document/7565640) [website](https://min.sjtu.edu.cn/lwydemo/Trajectory%20analysis.htm)
-* [CROSS](https://cvrr-nas.ucsd.edu/publications/2011/Morris_PAMI2011.pdf) [website](http://cvrr.ucsd.edu/bmorris/datasets/)
-* []()
-* 
-* 
-* 
+* [CROSS](https://cvrr-nas.ucsd.edu/publications/2011/Morris_PAMI2011.pdf), [website](http://cvrr.ucsd.edu/bmorris/datasets/)
 ## Pedestrians Publicly Available Datasets
 *
 ## Others Agents Datasets

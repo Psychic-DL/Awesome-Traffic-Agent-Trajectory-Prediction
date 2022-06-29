@@ -545,6 +545,17 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [exiD](https://www.exid-dataset.com/)
 * [Mirror-Traffic](http://www.scenarios.cn/html/dataset.html)
 * [Argoverse](https://www.argoverse.org/)
+* [ApolloScape](http://apolloscape.auto/trajectory.html)
+* [INTERACTION](https://interaction-dataset.com/)
+* [Waymo Open Dataset](https://waymo.com/open/)
+* [Cityscapes](https://www.cityscapes-dataset.com/)
+* [KITTI](http://www.cvlibs.net/datasets/kitti/)
+* [nuScenes](https://www.nuscenes.org/)
+* [TRAF](https://gamma.umd.edu/researchdirections/autonomousdriving/trafdataset)
+* [Lyft Level 5](https://level-5.global/)
+* [METEOR](https://gamma.umd.edu/researchdirections/autonomousdriving/meteor/)
+* [DiDi GAIA](https://outreach.didichuxing.com/research/opendata/)
+* [Shanghai & Hanzhou, Beijing](https://dl.acm.org/doi/abs/10.1145/2700478, https://dl.acm.org/doi/10.1145/2525314.2525343)
 * 
 * 
 * 

@@ -555,8 +555,12 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [Lyft Level 5](https://level-5.global/)
 * [METEOR](https://gamma.umd.edu/researchdirections/autonomousdriving/meteor/)
 * [DiDi GAIA](https://outreach.didichuxing.com/research/opendata/)
-* [Shanghai & Hanzhou](https://dl.acm.org/doi/abs/10.1145/2700478)
+* [Shanghai & Hangzhou](https://dl.acm.org/doi/abs/10.1145/2700478)
 * [Beijing](https://dl.acm.org/doi/10.1145/2525314.2525343)
+* [VMT](https://ieeexplore.ieee.org/document/6482546)
+* [TRAFFIC](https://ieeexplore.ieee.org/document/7565640) [website](https://min.sjtu.edu.cn/lwydemo/Trajectory%20analysis.htm)
+* [CROSS](https://cvrr-nas.ucsd.edu/publications/2011/Morris_PAMI2011.pdf) [website](http://cvrr.ucsd.edu/bmorris/datasets/)
+* []()
 * 
 * 
 * 

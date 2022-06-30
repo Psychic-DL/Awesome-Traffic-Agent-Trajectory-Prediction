@@ -49,7 +49,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 	- [Others Agents Datasets](#Others-Agents-Datasets)
 		- [Aircraft](#Aircraft)
 		- [Ship](#Ship)
-		- [Hurricane & Animal](#Hurricane-&-Animal)
+		- [Hurricane and Animal](#Hurricane-and-Animal)
 	<!-- /TOC -->
 
 ******
@@ -578,6 +578,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 ### Ship
 * [Ushant](https://figshare.com/articles/dataset/Ushant_AIS_dataset/8966273)
 * [Cargo](https://link.springer.com/article/10.1007/s10707-020-00421-y)
-### Hurricane & Animal
+### Hurricane and Animal
 * [HURDAT2](https://www.nhc.noaa.gov/data/)
 * [Movebank](https://www.movebank.org/cms/movebank-main)

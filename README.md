@@ -524,6 +524,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Deep Learning-Based Vehicle Behavior Prediction for Autonomous Driving Applications: A Review, TITS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9158529)]
 * Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles, TITS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9210154)]
 * Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice, TITS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667866)]
+* A Survey on Path Prediction Techniques for Vulnerable Road Users: From Traditional to Deep-Learning Approaches, ITSC 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917053)]
 * Spatio-Temporal Data Mining: A Survey of Problems and Methods, ACM Computing Surveys 2018. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
 * Survey on Vision-Based Path Prediction, International Conference on Distributed, Ambient, and Pervasive Interactions (DAPI 2018). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-91131-1_4.pdf)]
 * Moving Objects Analytics: Survey on Future Location & Trajectory Prediction Methods, arXiv preprint arXiv:1807.04639, 2018. [[paper](https://arxiv.org/ftp/arxiv/papers/1807/1807.04639.pdf)]

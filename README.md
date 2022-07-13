@@ -384,6 +384,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9476975)]
 * MultiXNet: Multiclass Multistage Multimodal Motion Prediction, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575718)]
 * Trajectory Prediction for Autonomous Driving based on Multi-Head Attention with Joint Agent-Map Representation, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9576054)]
+* Social-IWSTCNN: A Social Interaction-Weighted Spatio-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction in Urban Traffic Scenarios, IV 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9575958)]
 * Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing, Conference on Robot Learning (CoRL 2021). [[paper](https://openreview.net/pdf?id=HTfApPeT4DZ)] [[code](https://github.com/MariaPriisalu/spl)]
 * Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversals, CoRL 2021. [[paper](https://proceedings.mlr.press/v164/deo22a.html)] [[code](https://github.com/nachiket92/PGP)]
 * Pose Based Trajectory Forecast of Vulnerable Road Users Using Recurrent Neural Networks, International Conference on Pattern Recognition (ICPR 2021). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-68763-2_5.pdf)]
@@ -471,6 +472,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf)] [[code](https://github.com/ZikangZhou/HiVT)]
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction, ECCV 2022. [[code](https://github.com/InhwanBae/GPGraph)]
+* Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]
 
 ## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]
@@ -506,7 +508,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.09121.pdf)]
 * StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving, arXiv:2206.00991, 2022. [[paper](https://arxiv.org/pdf/2206.00991.pdf)]
 * TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model, arXiv:2201.02941, 2022. [[paper](https://arxiv.org/pdf/2201.02941v1.pdf)]
-* Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, arXiv preprint arXiv:2203.03057, 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]
 
 # Related Review Papers
 * A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]

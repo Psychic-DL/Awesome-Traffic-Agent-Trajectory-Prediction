@@ -477,6 +477,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]
 * Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.04624.pdf)] [[code](https://github.com/d1024choi/HLSTrajForecast)]
 * SocialVAE: Human Trajectory Prediction using Timewise Latents, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.08207.pdf)] [[code](https://github.com/xupei0610/SocialVAE)]
+* View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums, ECCV 2022. [[paper](https://arxiv.org/pdf/2110.07288.pdf)] [[code](https://github.com/cocoon2wong/Vertical)]
 
 ## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]

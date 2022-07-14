@@ -474,6 +474,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction, ECCV 2022. [[code](https://github.com/InhwanBae/GPGraph)]
 * Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]
+* Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.04624.pdf)] [[code](https://github.com/d1024choi/HLSTrajForecast)]
 
 ## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]

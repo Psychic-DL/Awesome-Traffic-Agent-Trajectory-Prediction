@@ -304,6 +304,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Diverse Trajectory Forecasting with Determinantal Point Processes, ICLR 2020. [[paper](https://arxiv.org/pdf/1907.04967.pdf)] [[code](https://github.com/Gruntrexpewrus/TrajectoryFor-and-DPP)]
 * Trajectory Prediction in Heterogeneous Environment via Attended Ecology Embedding, ACM International Conference on Multimedia 2020. [[paper](http://basiclab.lab.nycu.edu.tw/assets/AEE-GAN_MM2020.pdf)] [[code](https://github.com/Ego2Eco/AEE-GAN)]
 * Multiple Trajectory Prediction with Deep Temporal and Spatial Convolutional Neural Networks, IROS 2020. [[paper](http://ras.papercept.net/images/temp/IROS/files/1081.pdf)]
+* Probabilistic Multi-modal Trajectory Prediction with Lane Attention for Autonomous Vehicles, IROS 2020. [[paper](https://ieeexplore.ieee.org/abstract/document/9341034/)]
 * Interaction-aware Kalman Neural Networks for Trajectory Prediction, IEEE Intelligent Vehicles Symposium (IV 2020). [[paper](https://arxiv.org/pdf/1902.10928.pdf)]
 
 ## Journal Papers 2020

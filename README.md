@@ -514,6 +514,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving, arXiv:2206.00991, 2022. [[paper](https://arxiv.org/pdf/2206.00991.pdf)]
 * TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model, arXiv:2201.02941, 2022. [[paper](https://arxiv.org/pdf/2201.02941v1.pdf)]
 * Wayformer: Motion Forecasting via Simple & Efficient Attention Networks, arXiv preprint arXiv:2207.05844, 2022. [[paper](https://arxiv.org/pdf/2207.05844.pdf)]
+* PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, arXiv preprint arXiv:2203.09293, 2022. [[paper](https://arxiv.org/pdf/2203.09293.pdf)]
 * 
 
 # Related Review Papers

@@ -393,6 +393,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Goal-driven Long-Term Trajectory Prediction, WACV 2021. [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Tran_Goal-Driven_Long-Term_Trajectory_Prediction_WACV_2021_paper.pdf)]
 * Self-Growing Spatial Graph Network for Context-Aware Pedestrian Trajectory Prediction, IEEE International Conference on Image Processing (ICIP 2021). [[paper](https://arxiv.org/pdf/2012.06320v2.pdf)] [[code](https://github.com/serenetech90/AOL_ovsc)]
 * S2TNet: Spatio-Temporal Transformer Networks for Trajectory Prediction in Autonomous Driving, Asian Conference on Machine Learning 2021. [[paper](https://arxiv.org/pdf/2206.10902.pdf)] [[code](https://github.com/chenghuang66/s2tnet)]
+* Trajectory Prediction using Equivariant Continuous Convolution, ICLR 2021. [[paper](https://arxiv.org/pdf/2010.11344.pdf)] [[code](https://github.com/Rose-STL-Lab/ECCO)]
 
 ## Journal Papers 2021
 * Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]

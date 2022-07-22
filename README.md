@@ -475,6 +475,18 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Human Trajectory Prediction with Momentary Observation, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)]
 * HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf)] [[code](https://github.com/ZikangZhou/HiVT)]
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
+* Trajectory Prediction with Linguistic Representations, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811928)]
+* Leveraging Smooth Attention Prior for Multi-Agent Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811718)] [[website](https://sites.google.com/view/smoothness-attention)]
+* KEMP: Keyframe-Based Hierarchical End-to-End Deep Model for Long- Term Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812337)]
+* Domain Generalization for Vision-based Driving Trajectory Generation, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812070)] [[website](https://sites.google.com/view/dg-traj-gen)]
+* A Deep Concept Graph Network for Interaction-Aware Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811567)]
+* Conditioned Human Trajectory Prediction using Iterative Attention Blocks, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812404)]
+* StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811830)]
+* Meta-path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811632)] [[website](https://sites.google.com/illinois.edu/mesrnn/home)]
+* Propagating State Uncertainty Through Trajectory Forecasting, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811776)] [[code](https://github.com/StanfordASL/PSU-TF)]
+* 
+* 
+* Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty, IROS 2022. [[paper](https://arxiv.org/pdf/2104.12446.pdf)] [[code](https://github.com/TRI-ML/HAICU)]
 * Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.09953.pdf)] [[code](https://github.com/InhwanBae/GPGraph)]
 * Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]
 * Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.04624.pdf)] [[code](https://github.com/d1024choi/HLSTrajForecast)]

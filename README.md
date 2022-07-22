@@ -490,6 +490,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Crossmodal Transformer Based Generative Framework for Pedestrian Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812226)]
 * Trajectory Prediction for Autonomous Driving with Topometric Map, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811712)] [[code](https://github.com/Jiaolong/trajectory-prediction)]
 * CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811637)] [[code](https://github.com/schmidt-ju/crat-pred)]
+* MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812107)]
 * 
 * 
 * Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty, IROS 2022. [[paper](https://arxiv.org/pdf/2104.12446.pdf)] [[code](https://github.com/TRI-ML/HAICU)]

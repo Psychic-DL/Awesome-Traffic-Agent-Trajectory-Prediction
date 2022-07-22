@@ -487,6 +487,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Propagating State Uncertainty Through Trajectory Forecasting, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811776)] [[code](https://github.com/StanfordASL/PSU-TF)]
 * HYPER: Learned Hybrid Trajectory Prediction via Factored Inference and Adaptive Sampling, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812254)]
 * Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811585)]
+* Crossmodal Transformer Based Generative Framework for Pedestrian Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812226)]
+* Trajectory Prediction for Autonomous Driving with Topometric Map, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811712)] [[code](https://github.com/Jiaolong/trajectory-prediction)]
+* CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811637)] [[code](https://github.com/schmidt-ju/crat-pred)]
 * 
 * 
 * Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty, IROS 2022. [[paper](https://arxiv.org/pdf/2104.12446.pdf)] [[code](https://github.com/TRI-ML/HAICU)]

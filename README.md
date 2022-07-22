@@ -485,6 +485,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811830)]
 * Meta-path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811632)] [[website](https://sites.google.com/illinois.edu/mesrnn/home)]
 * Propagating State Uncertainty Through Trajectory Forecasting, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811776)] [[code](https://github.com/StanfordASL/PSU-TF)]
+* HYPER: Learned Hybrid Trajectory Prediction via Factored Inference and Adaptive Sampling, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812254)]
+* Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811585)]
 * 
 * 
 * Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty, IROS 2022. [[paper](https://arxiv.org/pdf/2104.12446.pdf)] [[code](https://github.com/TRI-ML/HAICU)]

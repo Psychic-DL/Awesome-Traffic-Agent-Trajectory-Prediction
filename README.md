@@ -491,8 +491,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811637)] [[code](https://github.com/schmidt-ju/crat-pred)]
 * MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812107)]
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812060/)]
-* 
-* 
 * Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty, IROS 2022. [[paper](https://arxiv.org/pdf/2104.12446.pdf)] [[code](https://github.com/TRI-ML/HAICU)]
 * Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.09953.pdf)] [[code](https://github.com/InhwanBae/GPGraph)]
 * Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]

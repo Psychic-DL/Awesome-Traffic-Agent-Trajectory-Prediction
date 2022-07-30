@@ -530,6 +530,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Vehicles Trajectory Prediction Using Recurrent VAE Network, IEEE Access. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740177)] [[code](https://github.com/midemig/traj_pred_vae)]
 * SEEM: A Sequence Entropy Energy-Based Model for Pedestrian Trajectory All-Then-One Prediction, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9699076)]
 * PTP-STGCN: Pedestrian Trajectory Prediction Based on a Spatio-temporal Graph Convolutional Neural Network, Applied Intelligence. [[paper](https://link.springer.com/article/10.1007/s10489-022-03524-1)]
+* Trajectory distributions: A new description of movement for trajectory prediction, Computational Visual Media. [[paper](https://link.springer.com/content/pdf/10.1007/s41095-021-0236-6.pdf)]
 
 ## Others 2022
 * Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]

@@ -501,6 +501,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums, ECCV 2022. [[paper](https://arxiv.org/pdf/2110.07288.pdf)] [[code](https://github.com/cocoon2wong/Vertical)]
 * Entry-Flipped Transformer for Inference and Prediction of Participant Behavior, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.06235.pdf)]
 * D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.10398.pdf)] [[code](https://github.com/VTP-TL/D2-TPred)]
+* Human Trajectory Prediction via Neural Social Physics, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.10435.pdf)] [[code](https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics)]
+
 
 ## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]

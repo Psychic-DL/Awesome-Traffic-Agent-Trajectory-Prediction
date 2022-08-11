@@ -483,7 +483,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * Trajectory Prediction with Linguistic Representations, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811928)]
 * Leveraging Smooth Attention Prior for Multi-Agent Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811718)] [[website](https://sites.google.com/view/smoothness-attention)]
-* KEMP: Keyframe-Based Hierarchical End-to-End Deep Model for Long- Term Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812337)]
+* KEMP: Keyframe-Based Hierarchical End-to-End Deep Model for Long-Term Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812337)]
 * Domain Generalization for Vision-based Driving Trajectory Generation, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812070)] [[website](https://sites.google.com/view/dg-traj-gen)]
 * A Deep Concept Graph Network for Interaction-Aware Trajectory Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9811567)]
 * Conditioned Human Trajectory Prediction using Iterative Attention Blocks, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812404)]

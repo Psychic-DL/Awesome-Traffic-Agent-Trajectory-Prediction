@@ -504,6 +504,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.10398.pdf)] [[code](https://github.com/VTP-TL/D2-TPred)]
 * Human Trajectory Prediction via Neural Social Physics, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.10435.pdf)] [[code](https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics)]
 * Robust Trajectory Prediction against Adversarial Attacks, ECCV 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
+* Aware of the History: Trajectory Forecasting with the Local Behavior Data, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.09646.pdf)] [[code](https://github.com/Kay1794/Aware-of-the-history)]
+* Action-based Contrastive Learning for Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.08664.pdf)]
 
 
 ## Journal Papers 2022

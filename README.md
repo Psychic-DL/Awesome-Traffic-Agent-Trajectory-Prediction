@@ -150,12 +150,14 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajectory Prediction: Learning to Map Situations to Robot Trajectories, ICML 2009. [[paper](https://dl.acm.org/doi/pdf/10.1145/1553374.1553433)]
 * Monte Carlo based Threat Assessment: Analysis and Improvements, IV 2007. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4290120)]
 * Gaussian Processes in Machine Learning, Summer school on machine learning 2003. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-540-28650-9_4.pdf)]
+
 ## Journal Papers
 * Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks 2018. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]
 * Long-term path prediction in urban scenarios using circular distributions, Image and Vision Computing 2018. [[paper](https://reader.elsevier.com/reader/sd/pii/S0262885617301853?token=DAD7B9F10835E05341405E75C5AB9F8F114FE99410544AD2BB4EFAA23BFC99D63EA8811C4A8C4F679593A61D0D3E35B6&originRegion=eu-west-1&originCreation=20220509082210)]
 * An Efficient Algorithm for Optimal Trajectory Generation for Heterogeneous Multi-Agent Systems in Non-Convex Environments, RAL 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8260912)]
 * Network-Wide Vehicle Trajectory Prediction in Urban Traffic Networks using Deep Learning, Transportation Research Record 2018. [[paper](https://www.researchgate.net/profile/Seongjin-Choi-2/publication/327524033_Network-Wide_Vehicle_Trajectory_Prediction_in_Urban_Traffic_Networks_using_Deep_Learning/links/5e3a123e458515072d8015d2/Network-Wide-Vehicle-Trajectory-Prediction-in-Urban-Traffic-Networks-using-Deep-Learning.pdf)]
 * Intent Prediction of Pedestrians via Motion Trajectories Using Stacked Recurrent Neural Networks, IEEE Transactions on Intelligent Vehicles 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481390)]
+* How Would Surround Vehicles Move? A Unified Framework for Maneuver Classification and Motion Prediction, IEEE Transactions on Intelligent Vehicles 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8286935)]
 * Pedestrian Path, Pose, and Intention Prediction Through Gaussian Process Dynamical Models and Pedestrian Activity Recognition, TITS 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8370119)]
 * Dictionary-based Fidelity Measure for Virtual Traffic, TVCG 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481568)]
 * Realistic Data-Driven Traffic Flow Animation Using Texture Synthesis, TVCG 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7814314)]

@@ -602,7 +602,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [TRAF](https://gamma.umd.edu/researchdirections/autonomousdriving/trafdataset)
 * [Lyft Level 5](https://level-5.global/)
 * [METEOR](https://gamma.umd.edu/researchdirections/autonomousdriving/meteor/)
-* [DiDi GAIA](https://outreach.didichuxing.com/research/opendata/)
+* [DiDi GAIA](https://outreach.didichuxing.com/research/opendata/), [D²-City](https://www.scidb.cn/en/detail?dataSetId=804399692560465920&dataSetType=personal), [paper](https://arxiv.org/pdf/1904.01975)
 * [Shanghai & Hangzhou](https://dl.acm.org/doi/abs/10.1145/2700478)
 * [Beijing](https://dl.acm.org/doi/10.1145/2525314.2525343)
 * [VMT](https://ieeexplore.ieee.org/document/6482546)

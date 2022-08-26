@@ -455,6 +455,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # 2022 Conference and Journal Papers
 ## Conference Papers 2022
+* Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. \[[paper](https://arxiv.org/pdf/2203.03057.pdf)] \[[code](https://github.com/abduallahmohamed/Social-Implicit)] \[[website](https://www.abduallahmohamed.com/social-implicit-amdamv-adefde-demo)] 
 * Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)] [[code](https://github.com/shuaishiliu/SIT)]
 * Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]
 * Scene Transformer: A unified architecture for predicting future trajectories of multiple agents, ICLR 2022. [[paper](https://openreview.net/pdf?id=Wm3EA5OlHsG)]

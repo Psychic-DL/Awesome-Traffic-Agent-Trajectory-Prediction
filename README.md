@@ -455,7 +455,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 # 2022 Conference and Journal Papers
 ## Conference Papers 2022
-* Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. \[[paper](https://arxiv.org/pdf/2203.03057.pdf)] \[[code](https://github.com/abduallahmohamed/Social-Implicit)] \[[website](https://www.abduallahmohamed.com/social-implicit-amdamv-adefde-demo)] 
 * Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)] [[code](https://github.com/shuaishiliu/SIT)]
 * Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]
 * Scene Transformer: A unified architecture for predicting future trajectories of multiple agents, ICLR 2022. [[paper](https://openreview.net/pdf?id=Wm3EA5OlHsG)]
@@ -502,7 +501,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812060/)]
 * Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty, IROS 2022. [[paper](https://arxiv.org/pdf/2104.12446.pdf)] [[code](https://github.com/TRI-ML/HAICU)] [[trajdata](https://github.com/nvr-avg/trajdata)]
 * Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.09953.pdf)] [[code](https://github.com/InhwanBae/GPGraph)]
-* Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]
+* Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)] [[website](https://www.abduallahmohamed.com/social-implicit-amdamv-adefde-demo)] 
 * Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.04624.pdf)] [[code](https://github.com/d1024choi/HLSTrajForecast)]
 * SocialVAE: Human Trajectory Prediction using Timewise Latents, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.08207.pdf)] [[code](https://github.com/xupei0610/SocialVAE)]
 * View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums, ECCV 2022. [[paper](https://arxiv.org/pdf/2110.07288.pdf)] [[code](https://github.com/cocoon2wong/Vertical)]

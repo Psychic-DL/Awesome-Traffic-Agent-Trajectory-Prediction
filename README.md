@@ -330,6 +330,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Multi-Vehicle Collaborative Learning for Trajectory Prediction With Spatio-Temporal Tensor Fusion, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151374)]
 * Multiple Trajectory Prediction of Moving Agents with Memory Augmented Networks, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138768)]
 * Regularizing Neural Networks for Future Trajectory Prediction via Inverse Reinforcement Learning Framework, IET Computer Vision. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-cvi.2019.0546)] [[code](https://github.com/d1024choi/traj-pred-irl)]
+* Motion trajectory prediction based on a CNN-LSTM sequential model, Science China Information Sciences. [[paper](https://link.springer.com/content/pdf/10.1007/s11432-019-2761-y.pdf)]
 
 ## Others 2020
 * Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]

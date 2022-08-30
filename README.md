@@ -553,6 +553,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, arXiv preprint arXiv:2203.09293, 2022. [[paper](https://arxiv.org/pdf/2203.09293.pdf)]
 * LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction, arXiv preprint arXiv:2203.01880, 2022. [[paper](https://arxiv.org/pdf/2203.01880.pdf)]
 * SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving, arXiv preprint arXiv:2206.14116, 2022. [[paper](https://arxiv.org/pdf/2206.14116.pdf)] [[code](https://github.com/AutoVision-cloud/SSL-Lanes)]
+* ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries, arXiv preprint arXiv:2208.01582, 2022. [[paper](https://arxiv.org/pdf/2208.01582)] [[website](https://tsinghua-mars-lab.github.io/ViP3D/)]
 
 # Related Review Papers
 * A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]

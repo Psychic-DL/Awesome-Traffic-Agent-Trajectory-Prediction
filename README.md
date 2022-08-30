@@ -458,7 +458,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Scene Transformer: A unified architecture for predicting future trajectories of multiple agents, ICLR 2022. [[paper](https://openreview.net/pdf?id=Wm3EA5OlHsG)]
 * You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction, ICLR 2022. [[paper](https://arxiv.org/pdf/2110.05304.pdf)]
 * Latent Variable Sequential Set Transformers For Joint Multi-Agent Motion Prediction, ICLR 2022. [[paper](https://openreview.net/pdf?id=Dup_dDqkZC5)] [[code](https://fgolemo.github.io/autobots/)]
-* THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling, ICLR, 2022. [[paper](https://arxiv.org/pdf/2110.06607)]
+* THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling, ICLR 2022. [[paper](https://arxiv.org/pdf/2110.06607)]
 * Remember Intentions: Retrospective-Memory-based Trajectory Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.11474.pdf)] [[code](https://github.com/MediaBrain-SJTU/MemoNet)]
 * STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.01026.pdf)] [[code](https://github.com/4DVLab/STCrowd.git)]
 * Vehicle trajectory prediction works, but not everywhere, CVPR 2022. [[paper](https://arxiv.org/pdf/2112.03909.pdf)] [[code](https://s-attack.github.io/)]

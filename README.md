@@ -579,6 +579,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Vehicle Trajectory Similarity: Models, Methods, and Applications, ACM Computing Surveys (CSUR 2020). [[paper](https://dl.acm.org/doi/pdf/10.1145/3406096)]
 * Deep Learning-Based Vehicle Behavior Prediction for Autonomous Driving Applications: A Review, TITS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9158529)]
 * Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles, TITS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9210154)]
+* Overview of Tools Supporting Planning for Automated Driving, ITSC 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294512)]
 * Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice, TITS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667866)]
 * A Survey on Path Prediction Techniques for Vulnerable Road Users: From Traditional to Deep-Learning Approaches, ITSC 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917053)]
 * Spatio-Temporal Data Mining: A Survey of Problems and Methods, ACM Computing Surveys 2018. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]

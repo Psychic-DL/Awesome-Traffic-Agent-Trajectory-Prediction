@@ -273,6 +273,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Learning Lane Graph Representations for Motion Forecasting, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58536-5_32.pdf)] [[code](https://github.com/uber-research/LaneGCN)]
 * Implicit Latent Variable Model for Scene-Consistent Motion Forecasting, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58592-1_37.pdf)]
 * Testing the Safety of Self-driving Vehicles by Simulating Perception and Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58574-7_19.pdf)]
+* Perceive, Predict, and Plan: Safe Motion Planning Through Interpretable Semantic Representations, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58592-1_25.pdf)]
 * Transformer Networks for Trajectory Forecasting, International Conference on Pattern Recognition (ICPR 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412190)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
 * DAG-Net: Double Attentive Graph Neural Network for Trajectory Forecasting, ICPR 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412114)] [[code](https://github.com/alexmonti19/dagnet)]
 * TNT: Target-driveN Trajectory Prediction, Conference on Robot Learning (CoRL 2020). [[paper](https://arxiv.org/pdf/2008.08294.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]

@@ -566,6 +566,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, ACM Transactions on Intelligent Systems and Technology 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474838)]
 * Scenario Understanding and Motion Prediction for Autonomous Vehicles – Review and Comparison, TITS 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733973)]
+* Deep Reinforcement Learning for Autonomous Driving: A Survey, TITS 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9351818)]
 * Social Interactions for Autonomous Driving: A Review and Perspective, arXiv preprint arXiv:2208.07541, 2022. [[paper](https://arxiv.org/pdf/2208.07541.pdf)]
 * Pedestrian Behavior Prediction for Automated Driving: Requirements, Metrics, and Relevant Features, TITS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660784)]
 * A Review of Deep Learning-Based Methods for Pedestrian Trajectory Prediction, Sensors 2021. [[paper](https://www.mdpi.com/1424-8220/21/22/7543/pdf)]

@@ -500,6 +500,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812107)]
 * Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving, ICRA 2022. [[paper](https://ieeexplore.ieee.org/document/9812060/)]
 * GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation, ICRA 2022. [[paper](https://arxiv.org/pdf/2109.01827.pdf)]
+* TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811591)]
 * Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty, IROS 2022. [[paper](https://arxiv.org/pdf/2104.12446.pdf)] [[code](https://github.com/TRI-ML/HAICU)] [[trajdata](https://github.com/nvr-avg/trajdata)]
 * Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.09953.pdf)] [[code](https://github.com/InhwanBae/GPGraph)]
 * Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)] [[website](https://www.abduallahmohamed.com/social-implicit-amdamv-adefde-demo)] 

@@ -518,6 +518,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Robust Trajectory Prediction against Adversarial Attacks, ECCV 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
 * Aware of the History: Trajectory Forecasting with the Local Behavior Data, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.09646.pdf)] [[code](https://github.com/Kay1794/Aware-of-the-history)]
 * Action-based Contrastive Learning for Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.08664.pdf)]
+* ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.07601.pdf)] [[code](https://github.com/OpenPerceptionX/ST-P3)]
 * Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models, Conference on Learning for Dynamics and Control (L4DC). [[paper](https://arxiv.org/pdf/2204.02392.pdf)] [[website](https://sites.google.com/view/deep-interactive-predict-plan)]
 
 

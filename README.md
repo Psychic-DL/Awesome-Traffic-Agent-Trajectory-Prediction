@@ -543,6 +543,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A context-aware pedestrian trajectory prediction framework for automated vehicles, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004423)]
 * Explainable multimodal trajectory prediction using attention models, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X22002509)]
 * CSCNet: Contextual semantic consistency network for trajectory prediction in crowded spaces, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000334)]
+* CSR: Cascade Conditional Variational AutoEncoder with Social-aware Regression for Pedestrian Trajectory Prediction, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322005106)]
 * Step Attention: Sequential Pedestrian Trajectory Prediction, IEEE Sensors Journal. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732437)]
 * Vehicle Trajectory Prediction Method Coupled With Ego Vehicle Motion Trend Under Dual Attention Mechanism, IEEE Transactions on Instrumentation and Measurement. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749176)]
 * Deep encoder–decoder-NN: A deep learning-based autonomous vehicle trajectory prediction and correction model, Physica A: Statistical Mechanics and its Applications. [[paper](https://www.sciencedirect.com/science/article/pii/S0378437122000139)]

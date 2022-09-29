@@ -515,11 +515,13 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Entry-Flipped Transformer for Inference and Prediction of Participant Behavior, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.06235.pdf)]
 * D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.10398.pdf)] [[code](https://github.com/VTP-TL/D2-TPred)]
 * Human Trajectory Prediction via Neural Social Physics, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.10435.pdf)] [[code](https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics)]
-* Robust Trajectory Prediction against Adversarial Attacks, ECCV 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
+* Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-Agent Trajectory Prediction, ECCV 2022. [[paper](https://basiclab.lab.nycu.edu.tw/assets/Social-SSL.pdf)] [[code](https://github.com/Sigta678/Social-SSL)]
 * Aware of the History: Trajectory Forecasting with the Local Behavior Data, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.09646.pdf)] [[code](https://github.com/Kay1794/Aware-of-the-history)]
 * Action-based Contrastive Learning for Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.08664.pdf)]
+* AdvDO: Realistic Adversarial Attacks for Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2209.08744.pdf)]
 * ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.07601.pdf)] [[code](https://github.com/OpenPerceptionX/ST-P3)]
 * Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models, Conference on Learning for Dynamics and Control (L4DC). [[paper](https://arxiv.org/pdf/2204.02392.pdf)] [[website](https://sites.google.com/view/deep-interactive-predict-plan)]
+* Robust Trajectory Prediction against Adversarial Attacks, CoRL 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
 
 
 ## Journal Papers 2022
@@ -566,7 +568,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries, arXiv preprint arXiv:2208.01582, 2022. [[paper](https://arxiv.org/pdf/2208.01582)] [[website](https://tsinghua-mars-lab.github.io/ViP3D/)]
 * Improving Diversity of Multiple Trajectory Prediction based on Map-adaptive Lane Loss, arXiv preprint arXiv:2206.08641, 2022. [[paper](https://arxiv.org/pdf/2206.08641.pdf)]
 * Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction, arXiv preprint arXiv:2205.14230, 2022. [[paper](https://arxiv.org/pdf/2205.14230.pdf)]
-* AdvDO: Realistic Adversarial Attacks for Trajectory Prediction, arXiv preprint arXiv:2209.08744, 2022. [[paper](https://arxiv.org/pdf/2209.08744.pdf)]
 
 # Related Review Papers
 * A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]

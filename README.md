@@ -569,6 +569,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries, arXiv preprint arXiv:2208.01582, 2022. [[paper](https://arxiv.org/pdf/2208.01582)] [[website](https://tsinghua-mars-lab.github.io/ViP3D/)]
 * Improving Diversity of Multiple Trajectory Prediction based on Map-adaptive Lane Loss, arXiv preprint arXiv:2206.08641, 2022. [[paper](https://arxiv.org/pdf/2206.08641.pdf)]
 * Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction, arXiv preprint arXiv:2205.14230, 2022. [[paper](https://arxiv.org/pdf/2205.14230.pdf)]
+* GANet: Goal Area Network for Motion Forecasting, arXiv preprint arXiv:2209.09723, 2022. [[paper](https://arxiv.org/pdf/2209.09723.pdf)]
 
 # Related Review Papers
 * A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]

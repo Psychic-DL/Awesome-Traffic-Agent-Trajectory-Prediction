@@ -521,7 +521,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Action-based Contrastive Learning for Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.08664.pdf)]
 * AdvDO: Realistic Adversarial Attacks for Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2209.08744.pdf)]
 * ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.07601.pdf)] [[code](https://github.com/OpenPerceptionX/ST-P3)]
-* Social ODE: Multi-Agent Trajectory Forecasting with Neural Ordinary Differential Equations, ECCV 2022.
+* Social ODE: Multi-Agent Trajectory Forecasting with Neural Ordinary Differential Equations, ECCV 2022. [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820211.pdf)]
 * Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models, Conference on Learning for Dynamics and Control (L4DC). [[paper](https://arxiv.org/pdf/2204.02392.pdf)] [[website](https://sites.google.com/view/deep-interactive-predict-plan)]
 * Robust Trajectory Prediction against Adversarial Attacks, CoRL 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
 

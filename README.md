@@ -560,6 +560,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * PTP-STGCN: Pedestrian Trajectory Prediction Based on a Spatio-temporal Graph Convolutional Neural Network, Applied Intelligence. [[paper](https://link.springer.com/article/10.1007/s10489-022-03524-1)]
 * Trajectory distributions: A new description of movement for trajectory prediction, Computational Visual Media. [[paper](https://link.springer.com/content/pdf/10.1007/s41095-021-0236-6.pdf)]
 * Trajectory prediction for autonomous driving based on multiscale spatial-temporal graph, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12265)]
+* Continual learning-based trajectory prediction with memory augmented networks, Knowledge-Based Systems. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705122011157)]
 
 ## Others 2022
 * Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]

@@ -508,6 +508,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation, ICRA 2022. [[paper](https://arxiv.org/pdf/2109.01827.pdf)]
 * TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation, ICRA 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811591)]
 * Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty, IROS 2022. [[paper](https://arxiv.org/pdf/2104.12446.pdf)] [[code](https://github.com/TRI-ML/HAICU)] [[trajdata](https://github.com/nvr-avg/trajdata)]
+* Trajectory Prediction with Graph-based Dual-scale Context Fusion, IROS 2022. [[paper](https://arxiv.org/pdf/2111.01592.pdf)] [[code](https://github.com/HKUST-Aerial-Robotics/DSP)]
 * Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.09953.pdf)] [[code](https://github.com/InhwanBae/GPGraph)]
 * Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)] [[website](https://www.abduallahmohamed.com/social-implicit-amdamv-adefde-demo)] 
 * Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.04624.pdf)] [[code](https://github.com/d1024choi/HLSTrajForecast)]

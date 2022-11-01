@@ -566,6 +566,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Others 2022
 * Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]
 * Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.09121.pdf)]
+* MPA: MultiPath++ Based Architecture for Motion Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2206.10041.pdf)] [[code](https://github.com/stepankonev/waymo-motion-prediction-challenge-2022-multipath-plus-plus)]
 * TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model, arXiv:2201.02941, 2022. [[paper](https://arxiv.org/pdf/2201.02941v1.pdf)]
 * Wayformer: Motion Forecasting via Simple & Efficient Attention Networks, arXiv preprint arXiv:2207.05844, 2022. [[paper](https://arxiv.org/pdf/2207.05844.pdf)]
 * PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, arXiv preprint arXiv:2203.09293, 2022. [[paper](https://arxiv.org/pdf/2203.09293.pdf)]

@@ -411,6 +411,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * HOME: Heatmap Output for future Motion Estimation, ITSC 2021. [[paper](https://arxiv.org/pdf/2105.10968.pdf)]
 * Graph and Recurrent Neural Network-based Vehicle Trajectory Prediction For Highway Driving, ITSC 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9564929)]
 * SCSG Attention: A Self-Centered Star Graph with Attention for Pedestrian Trajectory Prediction, International Conference on Database Systems for Advanced Applications (DASFAA 2021). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-73194-6_29.pdf)]
+* Leveraging Trajectory Prediction for Pedestrian Video Anomaly Detection, IEEE Symposium Series on Computational Intelligence (SSCI 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660004)] [[code](https://github.com/akanuasiegbu/Leveraging-Trajectory-Prediction-for-Pedestrian-Video-Anomaly-Detection)]
 
 ## Journal Papers 2021
 * Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]
@@ -528,7 +529,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline, NIPS 2022. [[paper](https://arxiv.org/pdf/2206.08129)] [[code](https://github.com/OpenPerceptionX/TCP)]
 * Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models, Conference on Learning for Dynamics and Control (L4DC). [[paper](https://arxiv.org/pdf/2204.02392.pdf)] [[website](https://sites.google.com/view/deep-interactive-predict-plan)]
 * Robust Trajectory Prediction against Adversarial Attacks, CoRL 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
-
 
 ## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]

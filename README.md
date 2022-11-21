@@ -587,6 +587,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Deep Reinforcement Learning for Autonomous Driving: A Survey, TITS 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9351818)]
 * Social Interactions for Autonomous Driving: A Review and Perspective, arXiv preprint arXiv:2208.07541, 2022. [[paper](https://arxiv.org/pdf/2208.07541.pdf)]
 * Behavioral Intention Prediction in Driving Scenes: A Survey, arXiv preprint arXiv:2211.00385, 2022. [[paper](https://arxiv.org/pdf/2211.00385.pdf)]
+* Multi-modal Fusion Technology based on Vehicle Information: A Survey, arXiv preprint arXiv:2211.06080, 2022. [[paper](https://arxiv.org/pdf/2211.06080.pdf)]
 * Pedestrian Behavior Prediction for Automated Driving: Requirements, Metrics, and Relevant Features, TITS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660784)]
 * A Review of Deep Learning-Based Methods for Pedestrian Trajectory Prediction, Sensors 2021. [[paper](https://www.mdpi.com/1424-8220/21/22/7543/pdf)]
 * A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, IEEE International Conference on Robotics and Biomimetics (ROBIO 2021). [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]

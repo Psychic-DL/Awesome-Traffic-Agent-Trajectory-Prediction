@@ -565,6 +565,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Continual learning-based trajectory prediction with memory augmented networks, Knowledge-Based Systems. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705122011157)]
 
 ## Others 2022
+* Raising context awareness in motion forecasting, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2109.08048.pdf)] [[code](https://github.com/valeoai/CAB)]
 * Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]
 * Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.09121.pdf)]
 * MPA: MultiPath++ Based Architecture for Motion Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2206.10041.pdf)] [[code](https://github.com/stepankonev/waymo-motion-prediction-challenge-2022-multipath-plus-plus)]

@@ -391,6 +391,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Interpretable Social Anchors for Human Trajectory Forecasting in Crowds, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kothari_Interpretable_Social_Anchors_for_Human_Trajectory_Forecasting_in_Crowds_CVPR_2021_paper.pdf)]
 * Introvert: Human Trajectory Prediction via Conditional 3D Attention, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shafiee_Introvert_Human_Trajectory_Prediction_via_Conditional_3D_Attention_CVPR_2021_paper.pdf)]
 * MP3: A Unified Model to Map, Perceive, Predict and Plan, CVPR 2021. [[paper](https://arxiv.org/pdf/2101.06806.pdf)]
+* TrafficSim: Learning to Simulate Realistic Multi-Agent Behaviors, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Suo_TrafficSim_Learning_To_Simulate_Realistic_Multi-Agent_Behaviors_CVPR_2021_paper.pdf)]
 * Multimodal Transformer Network for Pedestrian Trajectory Prediction, IJCAI 2021. [[paper](https://www.ijcai.org/proceedings/2021/0174.pdf)] [[code](https://github.com/ericyinyzy/MTN_trajectory)]
 * Decoder Fusion RNN: Context and Interaction Aware Decoders for Trajectory Prediction, IROS 2021. [[paper](https://arxiv.org/pdf/2108.05814.pdf)]
 * Joint Intention and Trajectory Prediction Based on Transformer, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636241)]

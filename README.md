@@ -583,6 +583,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * GATraj: A Graph- and Attention-based Multi-Agent Trajectory Prediction Model, arXiv preprint arXiv:2209.07857, 2022. [[paper](https://arxiv.org/pdf/2209.07857.pdf)] [[code](https://github.com/mengmengliu1998/GATraj)]
 * Dynamic-Group-Aware Networks for Multi-Agent Trajectory Prediction with Relational Reasoning, arXiv preprint arXiv:2206.13114, 2022. [[paper](https://arxiv.org/pdf/2206.13114.pdf)]
 * Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting, arXiv preprint arXiv:2207.05195, 2022. [[paper](https://arxiv.org/abs/2207.05195)] [[code](https://github.com/MediaBrain-SJTU/Collaborative-Uncertainty)]
+* Guided Conditional Diffusion for Controllable Traffic Simulation, arXiv preprint arXiv:2210.17366, 2022. [[paper](https://arxiv.org/pdf/2210.17366.pdf)] [[website](https://aiasd.github.io/ctg.github.io/)]
 
 # Related Review Papers
 * A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]

@@ -57,6 +57,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 # Traditional Methods
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
 * Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
+* Congested traffic states in empirical observations and microscopic simulations, Physical review E 2000. [[paper](https://arxiv.org/pdf/cond-mat/0002177.pdf)]
 * A methodology for automated trajectory prediction analysis, AIAA Guidance, Navigation, and Control Conference and Exhibit 2004. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.2942&rep=rep1&type=pdf)]
 * Continuum crowds, ACM Transactions on Graphics (TOG 2006). [[paper](https://www.khoury.neu.edu/home/scooper/index_files/pub/treuille2006continuum.pdf)]
 * New Algorithms for Aircraft Intent Inference and Trajectory Prediction, Journal of guidance, control, and dynamics 2007. [[paper](https://sci-hub.hkvisa.net/10.2514/1.26750)]

@@ -537,6 +537,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models, Conference on Learning for Dynamics and Control (L4DC). [[paper](https://arxiv.org/pdf/2204.02392.pdf)] [[website](https://sites.google.com/view/deep-interactive-predict-plan)]
 * Robust Trajectory Prediction against Adversarial Attacks, CoRL 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
 * Planning with Diffusion for Flexible Behavior Synthesis, ICML 2022. [[paper](https://arxiv.org/abs/2205.09991)] [[website](https://diffusion-planning.github.io/)]
+* Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation, ACCV 2022. [[paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Xie_Synchronous_Bi-Directional_Pedestrian_Trajectory_Prediction_with_Error_Compensation_ACCV_2022_paper.pdf)]
 
 ## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]
@@ -551,6 +552,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * DeepTrack: Lightweight Deep Learning for Vehicle Trajectory Prediction in Highways, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9770480)]
 * Interactive Trajectory Prediction Using a Driving Risk Map-Integrated Deep Learning Method for Surrounding Vehicles on Highways, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745461&tag=1)]
 * Vehicle Trajectory Prediction in Connected Environments via Heterogeneous Context-Aware Graph Convolutional Networks, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9781338)]
+* Trajectory Prediction Neural Network and Model Interpretation Based on Temporal Pattern Attention, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945660)]
 * Learning Sparse Interaction Graphs of Partially Detected Pedestrians for Trajectory Prediction, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9664278)] [[code](https://github.com/tedhuang96/gst)]
 * GAMMA: A General Agent Motion Prediction Model for Autonomous Driving, RAL. [[paper](https://arxiv.org/pdf/1906.01566.pdf)] [[code](https://github.com/AdaCompNUS/gamma)]
 * Stepwise Goal-Driven Networks for Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2103.14107v3.pdf)] [[code](https://github.com/ChuhuaW/SGNet.pytorch)]

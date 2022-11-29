@@ -534,6 +534,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Forecasting Human Trajectory from Scene History, NIPS 2022. [[paper](https://arxiv.org/pdf/2210.08732.pdf)] [[code](https://github.com/MaKaRuiNah/SHENet)]
 * Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline, NIPS 2022. [[paper](https://arxiv.org/pdf/2206.08129)] [[code](https://github.com/OpenPerceptionX/TCP)]
 * Motion Transformer with Global Intention Localization and Local Movement Refinement, NIPS 2022. [[paper](https://arxiv.org/pdf/2209.13508.pdf)] [[website](https://vas.mpi-inf.mpg.de/motion-transformer-with-global-intention-localization-and-local-movement-refinement/)]
+* Interaction Modeling with Multiplex Attention, NIPS 2022. [[paper](https://arxiv.org/pdf/2208.10660.pdf)] [[code](https://github.com/fanyun-sun/IMMA)]
 * Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models, Conference on Learning for Dynamics and Control (L4DC). [[paper](https://arxiv.org/pdf/2204.02392.pdf)] [[website](https://sites.google.com/view/deep-interactive-predict-plan)]
 * Robust Trajectory Prediction against Adversarial Attacks, CoRL 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
 * Planning with Diffusion for Flexible Behavior Synthesis, ICML 2022. [[paper](https://arxiv.org/abs/2205.09991)] [[website](https://diffusion-planning.github.io/)]

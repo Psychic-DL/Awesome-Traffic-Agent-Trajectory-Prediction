@@ -190,6 +190,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Convolutional Social Pooling for Vehicle Trajectory Prediction, CVPR Workshops 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)] [[code](https://github.com/nachiket92/conv-social-pooling)]
 * Convolutional Neural Network for Trajectory Prediction, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Nikhil_Convolutional_Neural_Network_for_Trajectory_Prediction_ECCVW_2018_paper.pdf)]
 * Group LSTM: Group Trajectory Prediction in Crowded Scenarios, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Bisagno_Group_LSTM_Group_Trajectory_Prediction_in_Crowded_Scenarios_ECCVW_2018_paper.pdf)]
+* Are they going to cross? a benchmark dataset and baseline for pedestrian crosswalk behavior, ICCV Workshops 2017. [[paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf)] [[website](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)]
 * Human Trajectory Prediction using Spatially aware Deep Attention Models, arXiv preprint arXiv:1705.09436, 2017. [[paper](https://arxiv.org/pdf/1705.09436.pdf)]
 * Modeling Spatial-Temporal Dynamics of Human Movements for Predicting Future Trajectories, AAAI Workshops 2015. [[paper](https://www.diva-portal.org/smash/get/diva2:808848/FULLTEXT01.pdf)]
 

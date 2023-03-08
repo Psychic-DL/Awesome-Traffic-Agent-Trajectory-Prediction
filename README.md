@@ -567,6 +567,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * CSR: Cascade Conditional Variational AutoEncoder with Social-aware Regression for Pedestrian Trajectory Prediction, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322005106)]
 * Step Attention: Sequential Pedestrian Trajectory Prediction, IEEE Sensors Journal. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732437)]
 * Vehicle Trajectory Prediction Method Coupled With Ego Vehicle Motion Trend Under Dual Attention Mechanism, IEEE Transactions on Instrumentation and Measurement. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749176)]
+* Spatio-temporal Interaction Aware and Trajectory Distribution Aware Graph Convolution Network for Pedestrian Multimodal Trajectory Prediction, IEEE Transactions on Instrumentation and Measurement. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9997233)]
 * Deep encoder–decoder-NN: A deep learning-based autonomous vehicle trajectory prediction and correction model, Physica A: Statistical Mechanics and its Applications. [[paper](https://www.sciencedirect.com/science/article/pii/S0378437122000139)]
 * PTPGC: Pedestrian trajectory prediction by graph attention network with ConvLSTM, Robotics and Autonomous Systems. [[paper](https://www.sciencedirect.com/science/article/pii/S0921889021002165)]
 * GCHGAT: pedestrian trajectory prediction using group constrained hierarchical graph attention networks, Applied Intelligence. [[paper](https://link.springer.com/article/10.1007/s10489-021-02997-w)]
@@ -602,7 +603,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Conference Papers 2023
 * Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction, AAAI 2023. [[paper](https://arxiv.org/pdf/2210.05976.pdf)]
 ## Journal Papers 2023
-
+* MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]
 ## Others 2023
 
 # Related Review Papers

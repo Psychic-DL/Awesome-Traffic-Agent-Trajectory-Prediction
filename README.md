@@ -602,6 +602,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 # 2023 Conference and Journal Papers
 ## Conference Papers 2023
 * Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction, AAAI 2023. [[paper](https://arxiv.org/pdf/2210.05976.pdf)]
+* Multi-stream Representation Learning for Pedestrian Trajectory Prediction, AAAI 2023.
+* Continuous Trajectory Generation Based on Two-Stage GAN, AAAI 2023.
+* A Set of Control Points Conditioned Pedestrian Trajectory Prediction, AAAI 2023.
 * IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction, CVPR 2023. [[paper](https://arxiv.org/pdf/2303.00575.pdf)]
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]

@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Trajectory-Prediction
-![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.10-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg)
+![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.04-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg)
 
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/8189c63cf7894232e1573be4c217653.png)
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/ef4e2adbba8af28f8850b5fa2eab76f.png)

@@ -617,6 +617,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction, CVPR 2023.
 * Stimulus Verification is a Universal and Effective Sampler in Multi-modal Human Trajectory Prediction, CVPR 2023.
 * Query-Centric Trajectory Prediction, CVPR 2023.
+* Weakly Supervised Class-agnostic Motion Prediction for Autonomous Driving, CVPR 2023.
+* Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction, CVPR 2023.
+* MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion, CVPR 2023.
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]

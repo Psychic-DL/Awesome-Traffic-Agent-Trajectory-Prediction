@@ -611,6 +611,12 @@ Please feel free to pull request to add new resources or send emails to us for q
 * FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction, CVPR 2023. [[paper](https://arxiv.org/pdf/2303.16574.pdf)]
 * Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion, CVPR 2023. [[paper](https://nv-tlabs.github.io/trace-pace/docs/trace_and_pace.pdf)] [[website](https://nv-tlabs.github.io/trace-pace/)]
 * FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned Directed Acyclic Interaction Graphs, CVPR 2023. [[paper](https://arxiv.org/pdf/2211.16197.pdf)] [[website](https://rluke22.github.io/FJMP/)]
+* Leapfrog Diffusion Model for Stochastic Trajectory Prediction, CVPR 2023. [[paper](https://arxiv.org/pdf/2303.10895.pdf)] [[code](https://github.com/MediaBrain-SJTU/LED)]
+* ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries, CVPR 2023. [[paper](http://xxx.itp.ac.cn/pdf/2208.01582.pdf)]
+* Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction, CVPR 2023. [[paper](http://xxx.itp.ac.cn/pdf/2303.16005.pdf)]
+* Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction, CVPR 2023.
+* Stimulus Verification is a Universal and Effective Sampler in Multi-modal Human Trajectory Prediction, CVPR 2023.
+* Query-Centric Trajectory Prediction, CVPR 2023.
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]

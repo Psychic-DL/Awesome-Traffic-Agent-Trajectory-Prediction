@@ -614,7 +614,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Leapfrog Diffusion Model for Stochastic Trajectory Prediction, CVPR 2023. [[paper](https://arxiv.org/pdf/2303.10895.pdf)] [[code](https://github.com/MediaBrain-SJTU/LED)]
 * ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries, CVPR 2023. [[paper](http://xxx.itp.ac.cn/pdf/2208.01582.pdf)]
 * Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction, CVPR 2023. [[paper](http://xxx.itp.ac.cn/pdf/2303.16005.pdf)]
-* Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction, CVPR 2023.
+* Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction, CVPR 2023. [[paper](https://chengy12.github.io/files/Bosampler.pdf)]
 * Stimulus Verification is a Universal and Effective Sampler in Multi-modal Human Trajectory Prediction, CVPR 2023.
 * Query-Centric Trajectory Prediction, CVPR 2023.
 * Weakly Supervised Class-agnostic Motion Prediction for Autonomous Driving, CVPR 2023.

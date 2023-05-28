@@ -616,7 +616,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * EqMotion: Equivariant Multi-Agent Motion Prediction with Invariant Interaction Reasoning, CVPR 2023. [[paper](https://arxiv.org/pdf/2303.10876.pdf)] [[code](https://github.com/MediaBrain-SJTU/EqMotion)]
 * Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction, CVPR 2023. [[paper](http://xxx.itp.ac.cn/pdf/2303.16005.pdf)]
 * Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction, CVPR 2023. [[paper](https://chengy12.github.io/files/Bosampler.pdf)]
-* Stimulus Verification is a Universal and Effective Sampler in Multi-modal Human Trajectory Prediction, CVPR 2023.
+* Stimulus Verification is a Universal and Effective Sampler in Multi-modal Human Trajectory Prediction, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Stimulus_Verification_Is_a_Universal_and_Effective_Sampler_in_Multi-Modal_CVPR_2023_paper.pdf)]
 * Query-Centric Trajectory Prediction, CVPR 2023.
 * Weakly Supervised Class-agnostic Motion Prediction for Autonomous Driving, CVPR 2023.
 * Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction, CVPR 2023.

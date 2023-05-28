@@ -627,6 +627,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Disentangling Crowd Interactions for Pedestrians Trajectory Prediction, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10083225)]
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
+* Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion, arXiv preprint arXiv:2303.08367, 2023. [[paper](https://arxiv.org/pdf/2303.08367.pdf)]
+* Diffusion Model for GPS Trajectory Generation, arXiv preprint arXiv:2304.11582, 2023. [[paper](https://arxiv.org/pdf/2304.11582.pdf)]
 
 # Related Review Papers
 * Incorporating Driving Knowledge in Deep Learning Based Vehicle Trajectory Prediction: A Survey, IEEE Transactions on Intelligent Vehicles 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100881)]

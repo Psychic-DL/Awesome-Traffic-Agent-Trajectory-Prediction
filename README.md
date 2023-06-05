@@ -462,7 +462,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajectory Prediction using Generative Adversarial Network in Multi-Class Scenarios, arXiv preprint arXiv:2110.11401, 2021. [[paper](https://arxiv.org/pdf/2110.11401.pdf)]
 * Spatial-Channel Transformer Network for Trajectory Prediction on the Traffic Scenes, arXiv preprint arXiv:2101.11472, 2021. [[paper](https://arxiv.org/ftp/arxiv/papers/2101/2101.11472.pdf)]
 * Physically Feasible Vehicle Trajectory Prediction, arXiv preprint arXiv:2104.14679, 2021. [[paper](https://arxiv.org/pdf/2104.14679.pdf)]
-* MSN: Multi-Style Network for Trajectory Prediction, arXiv preprint arXiv:2107.00932, 2021. [[paper](https://arxiv.org/pdf/2107.00932.pdf)] [[code](https://github.com/JunweiLiang/Multiverse)]
+* MSN: Multi-Style Network for Trajectory Prediction, arXiv preprint arXiv:2107.00932, 2021. [[paper](https://arxiv.org/pdf/2107.00932.pdf)] [[code](https://github.com/NorthOcean/MSN)]
 * Rethinking Trajectory Forecasting Evaluation, arXiv preprint arXiv:2107.10297, 2021. [[paper](https://arxiv.org/pdf/2107.10297)]
 * Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network, IEEE Intelligent Vehicles Symposium Workshops (IV Workshops 2021). [[paper](https://arxiv.org/pdf/2112.06624)]
 * Deep Social Force, arXiv preprint arXiv:2109.12081, 2021. [[paper](https://arxiv.org/pdf/2109.12081)] [[code](https://github.com/svenkreiss/socialforce)]

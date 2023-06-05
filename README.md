@@ -462,7 +462,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajectory Prediction using Generative Adversarial Network in Multi-Class Scenarios, arXiv preprint arXiv:2110.11401, 2021. [[paper](https://arxiv.org/pdf/2110.11401.pdf)]
 * Spatial-Channel Transformer Network for Trajectory Prediction on the Traffic Scenes, arXiv preprint arXiv:2101.11472, 2021. [[paper](https://arxiv.org/ftp/arxiv/papers/2101/2101.11472.pdf)]
 * Physically Feasible Vehicle Trajectory Prediction, arXiv preprint arXiv:2104.14679, 2021. [[paper](https://arxiv.org/pdf/2104.14679.pdf)]
-* SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction, arXiv preprint arXiv:2112.02459, 2021. [[paper](https://arxiv.org/pdf/2112.02459)]
 * MSN: Multi-Style Network for Trajectory Prediction, arXiv preprint arXiv:2107.00932, 2021. [[paper](https://arxiv.org/pdf/2107.00932.pdf)] [[code](https://github.com/JunweiLiang/Multiverse)]
 * Rethinking Trajectory Forecasting Evaluation, arXiv preprint arXiv:2107.10297, 2021. [[paper](https://arxiv.org/pdf/2107.10297)]
 * Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network, IEEE Intelligent Vehicles Symposium Workshops (IV Workshops 2021). [[paper](https://arxiv.org/pdf/2112.06624)]
@@ -624,6 +623,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]
+* SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction, arXiv preprint arXiv:2112.02459, 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10063206)] [[code](https://github.com/WW-Tong/ssagcn_for_path_prediction)]
 * Disentangling Crowd Interactions for Pedestrians Trajectory Prediction, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10083225)]
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]

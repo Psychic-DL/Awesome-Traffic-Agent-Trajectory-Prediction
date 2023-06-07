@@ -318,6 +318,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Probabilistic Multi-modal Trajectory Prediction with Lane Attention for Autonomous Vehicles, IROS 2020. [[paper](https://ieeexplore.ieee.org/abstract/document/9341034/)]
 * Lane-Attention: Predicting Vehicles’ Moving Trajectories by Learning Their Attention Over Lanes, IROS 2020. [[paper](https://arxiv.org/pdf/1909.13377.pdf)]
 * Interaction-aware Kalman Neural Networks for Trajectory Prediction, IEEE Intelligent Vehicles Symposium (IV 2020). [[paper](https://arxiv.org/pdf/1902.10928.pdf)]
+* Multi-Head Attention for Multi-Modal Joint Vehicle Motion Forecasting, ICRA 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197340)]
 
 ## Journal Papers 2020
 * TrajVAE: A Variational AutoEncoder model for trajectory generation, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)]

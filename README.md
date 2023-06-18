@@ -624,9 +624,11 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]
+* Adaptive and Simultaneous Trajectory Prediction for Heterogeneous Agents via Transferable Hierarchical Transformer Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149109)]
 * SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10063206)] [[code](https://github.com/WW-Tong/ssagcn_for_path_prediction)]
 * Disentangling Crowd Interactions for Pedestrians Trajectory Prediction, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10083225)]
 * VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction, IEEE Transactions on Vehicular Technology. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10121688)]
+* Spatial-Temporal-Spectral LSTM: A Transferable Model for Pedestrian Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149368)]
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
 * Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion, arXiv preprint arXiv:2303.08367, 2023. [[paper](https://arxiv.org/pdf/2303.08367.pdf)]

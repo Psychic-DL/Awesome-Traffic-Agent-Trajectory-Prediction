@@ -577,6 +577,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajectory distributions: A new description of movement for trajectory prediction, Computational Visual Media. [[paper](https://link.springer.com/content/pdf/10.1007/s41095-021-0236-6.pdf)]
 * Trajectory prediction for autonomous driving based on multiscale spatial-temporal graph, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12265)]
 * Continual learning-based trajectory prediction with memory augmented networks, Knowledge-Based Systems. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705122011157)]
+* Atten-GAN: Pedestrian Trajectory Prediction with GAN Based on Attention Mechanism, Cognitive Computation. [[paper](https://link.springer.com/article/10.1007/s12559-022-10029-z#Abs1)]
+* EvoSTGAT: Evolving spatiotemporal graph attention networks for pedestrian trajectory prediction, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222003460?ref=pdf_download&fr=RR-2&rr=7da0ead45e800fcc)]
 
 ## Others 2022
 * Raising context awareness in motion forecasting, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2109.08048.pdf)] [[code](https://github.com/valeoai/CAB)]

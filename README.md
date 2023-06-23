@@ -589,7 +589,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Wayformer: Motion Forecasting via Simple & Efficient Attention Networks, arXiv preprint arXiv:2207.05844, 2022. [[paper](https://arxiv.org/pdf/2207.05844.pdf)]
 * PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, arXiv preprint arXiv:2203.09293, 2022. [[paper](https://arxiv.org/pdf/2203.09293.pdf)]
 * LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction, arXiv preprint arXiv:2203.01880, 2022. [[paper](https://arxiv.org/pdf/2203.01880.pdf)]
-* SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving, arXiv preprint arXiv:2206.14116, 2022. [[paper](https://arxiv.org/pdf/2206.14116.pdf)] [[code](https://github.com/AutoVision-cloud/SSL-Lanes)]
 * ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries, arXiv preprint arXiv:2208.01582, 2022. [[paper](https://arxiv.org/pdf/2208.01582)] [[website](https://tsinghua-mars-lab.github.io/ViP3D/)]
 * Improving Diversity of Multiple Trajectory Prediction based on Map-adaptive Lane Loss, arXiv preprint arXiv:2206.08641, 2022. [[paper](https://arxiv.org/pdf/2206.08641.pdf)]
 * Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction, arXiv preprint arXiv:2205.14230, 2022. [[paper](https://arxiv.org/pdf/2205.14230.pdf)]
@@ -625,6 +624,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf)]
 * Planning-oriented Autonomous Driving, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf)] [[code](https://github.com/OpenDriveLab/UniAD)]
 * TrafficGen: Learning to Generate Diverse and Realistic Traffic Scenarios, ICRA 2023. [[paper](https://arxiv.org/pdf/2210.06609.pdf)] [[code](https://github.com/metadriverse/trafficgen)]
+* SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving, CoRL 2023. [[paper](https://arxiv.org/pdf/2206.14116.pdf)] [[code](https://github.com/AutoVision-cloud/SSL-Lanes)]
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]

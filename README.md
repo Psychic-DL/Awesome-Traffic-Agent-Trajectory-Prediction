@@ -684,7 +684,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [uniD](https://www.unid-dataset.com/)
 * [exiD](https://www.exid-dataset.com/)
 * [Mirror-Traffic](http://www.scenarios.cn/html/dataset.html)
-* [Argoverse](https://www.argoverse.org/)
+* [Argoverse](https://www.argoverse.org/), [Argoverse 1](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf), [Argoverse 2](https://arxiv.org/pdf/2301.00493.pdf)
 * [ApolloScape](http://apolloscape.auto/trajectory.html)
 * [INTERACTION](https://interaction-dataset.com/)
 * [Waymo Open Dataset](https://waymo.com/open/)

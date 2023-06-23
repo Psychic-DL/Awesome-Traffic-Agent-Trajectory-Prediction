@@ -409,6 +409,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Social-IWSTCNN: A Social Interaction-Weighted Spatio-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction in Urban Traffic Scenarios, IV 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9575958)]
 * Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing, Conference on Robot Learning (CoRL 2021). [[paper](https://openreview.net/pdf?id=HTfApPeT4DZ)] [[code](https://github.com/MariaPriisalu/spl)]
 * Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversals, CoRL 2021. [[paper](https://proceedings.mlr.press/v164/deo22a.html)] [[code](https://github.com/nachiket92/PGP)]
+* Learning to Predict Vehicle Trajectories with Model-based Planning, CoRL 2021. [[paper](https://arxiv.org/pdf/2103.04027.pdf)]
 * Pose Based Trajectory Forecast of Vulnerable Road Users Using Recurrent Neural Networks, International Conference on Pattern Recognition (ICPR 2021). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-68763-2_5.pdf)]
 * GraphTCN: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction, WACV 2021. [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_GraphTCN_Spatio-Temporal_Interaction_Modeling_for_Human_Trajectory_Prediction_WACV_2021_paper.pdf)]
 * Goal-driven Long-Term Trajectory Prediction, WACV 2021. [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Tran_Goal-Driven_Long-Term_Trajectory_Prediction_WACV_2021_paper.pdf)]

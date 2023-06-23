@@ -589,7 +589,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Wayformer: Motion Forecasting via Simple & Efficient Attention Networks, arXiv preprint arXiv:2207.05844, 2022. [[paper](https://arxiv.org/pdf/2207.05844.pdf)]
 * PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, arXiv preprint arXiv:2203.09293, 2022. [[paper](https://arxiv.org/pdf/2203.09293.pdf)]
 * LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction, arXiv preprint arXiv:2203.01880, 2022. [[paper](https://arxiv.org/pdf/2203.01880.pdf)]
-* Improving Diversity of Multiple Trajectory Prediction based on Map-adaptive Lane Loss, arXiv preprint arXiv:2206.08641, 2022. [[paper](https://arxiv.org/pdf/2206.08641.pdf)]
+* Diverse Multiple Trajectory Prediction Using a Two-stage Prediction Network Trained with Lane Loss, arXiv preprint arXiv:2206.08641, 2022. [[paper](https://arxiv.org/pdf/2206.08641.pdf)]
 * Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction, arXiv preprint arXiv:2205.14230, 2022. [[paper](https://arxiv.org/pdf/2205.14230.pdf)]
 * GANet: Goal Area Network for Motion Forecasting, arXiv preprint arXiv:2209.09723, 2022. [[paper](https://arxiv.org/pdf/2209.09723.pdf)]
 * Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning, arXiv preprint arXiv:2211.00848, 2022. [[paper](https://arxiv.org/pdf/2211.00848.pdf)]

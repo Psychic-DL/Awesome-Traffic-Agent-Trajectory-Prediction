@@ -637,6 +637,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion, arXiv preprint arXiv:2303.08367, 2023. [[paper](https://arxiv.org/pdf/2303.08367.pdf)]
 * Diffusion Model for GPS Trajectory Generation, arXiv preprint arXiv:2304.11582, 2023. [[paper](https://arxiv.org/pdf/2304.11582.pdf)]
 * Multiverse Transformer: 1st Place Solution for Waymo Open Sim Agents Challenge 2023, CVPR 2023 Workshop on Autonomous Driving. [[paper](https://arxiv.org/pdf/2306.11868.pdf)]
+* Joint-Multipath++ for Simulation Agents: 2nd Place Solution for Waymo Open Sim Agents Challenge 2023, CVPR 2023 Workshop on Autonomous Driving. [[paper](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/SA_hm_jointMP.pdf)] [[code](https://github.com/wangwenxi-handsome/Joint-Multipathpp)]
 
 # Related Review Papers
 * Incorporating Driving Knowledge in Deep Learning Based Vehicle Trajectory Prediction: A Survey, IEEE Transactions on Intelligent Vehicles 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100881)]

@@ -593,7 +593,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Diverse Multiple Trajectory Prediction Using a Two-stage Prediction Network Trained with Lane Loss, arXiv preprint arXiv:2206.08641, 2022. [[paper](https://arxiv.org/pdf/2206.08641.pdf)]
 * Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction, arXiv preprint arXiv:2205.14230, 2022. [[paper](https://arxiv.org/pdf/2205.14230.pdf)]
 * Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning, arXiv preprint arXiv:2211.00848, 2022. [[paper](https://arxiv.org/pdf/2211.00848.pdf)]
-* Holistic Transformer: A Joint Neural Network for Trajectory Prediction and Decision-Making of Autonomous Vehicles, arXiv preprint arXiv:2206.08809, 2022. [[paper](https://arxiv.org/ftp/arxiv/papers/2206/2206.08809.pdf)]
 * GATraj: A Graph- and Attention-based Multi-Agent Trajectory Prediction Model, arXiv preprint arXiv:2209.07857, 2022. [[paper](https://arxiv.org/pdf/2209.07857.pdf)] [[code](https://github.com/mengmengliu1998/GATraj)]
 * Dynamic-Group-Aware Networks for Multi-Agent Trajectory Prediction with Relational Reasoning, arXiv preprint arXiv:2206.13114, 2022. [[paper](https://arxiv.org/pdf/2206.13114.pdf)]
 * Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting, arXiv preprint arXiv:2207.05195, 2022. [[paper](https://arxiv.org/abs/2207.05195)] [[code](https://github.com/MediaBrain-SJTU/Collaborative-Uncertainty)]
@@ -633,6 +632,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Disentangling Crowd Interactions for Pedestrians Trajectory Prediction, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10083225)]
 * VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction, IEEE Transactions on Vehicular Technology. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10121688)]
 * Spatial-Temporal-Spectral LSTM: A Transferable Model for Pedestrian Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149368)]
+* Holistic Transformer: A Joint Neural Network for Trajectory Prediction and Decision-Making of Autonomous Vehicles, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002935)]
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
 * Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion, arXiv preprint arXiv:2303.08367, 2023. [[paper](https://arxiv.org/pdf/2303.08367.pdf)]

@@ -592,7 +592,6 @@ Please feel free to pull request to add new resources or send emails to us for q
 * LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction, arXiv preprint arXiv:2203.01880, 2022. [[paper](https://arxiv.org/pdf/2203.01880.pdf)]
 * Diverse Multiple Trajectory Prediction Using a Two-stage Prediction Network Trained with Lane Loss, arXiv preprint arXiv:2206.08641, 2022. [[paper](https://arxiv.org/pdf/2206.08641.pdf)]
 * Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction, arXiv preprint arXiv:2205.14230, 2022. [[paper](https://arxiv.org/pdf/2205.14230.pdf)]
-* GANet: Goal Area Network for Motion Forecasting, arXiv preprint arXiv:2209.09723, 2022. [[paper](https://arxiv.org/pdf/2209.09723.pdf)]
 * Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning, arXiv preprint arXiv:2211.00848, 2022. [[paper](https://arxiv.org/pdf/2211.00848.pdf)]
 * Holistic Transformer: A Joint Neural Network for Trajectory Prediction and Decision-Making of Autonomous Vehicles, arXiv preprint arXiv:2206.08809, 2022. [[paper](https://arxiv.org/ftp/arxiv/papers/2206/2206.08809.pdf)]
 * GATraj: A Graph- and Attention-based Multi-Agent Trajectory Prediction Model, arXiv preprint arXiv:2209.07857, 2022. [[paper](https://arxiv.org/pdf/2209.07857.pdf)] [[code](https://github.com/mengmengliu1998/GATraj)]
@@ -624,6 +623,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf)]
 * Planning-oriented Autonomous Driving, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf)] [[code](https://github.com/OpenDriveLab/UniAD)]
 * TrafficGen: Learning to Generate Diverse and Realistic Traffic Scenarios, ICRA 2023. [[paper](https://arxiv.org/pdf/2210.06609.pdf)] [[code](https://github.com/metadriverse/trafficgen)]
+* GANet: Goal Area Network for Motion Forecasting, ICRA 2023. [[paper](https://arxiv.org/pdf/2209.09723.pdf)] [[code](https://github.com/kingwmk/GANet)]
 * SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving, CoRL 2023. [[paper](https://arxiv.org/pdf/2206.14116.pdf)] [[code](https://github.com/AutoVision-cloud/SSL-Lanes)]
 
 ## Journal Papers 2023

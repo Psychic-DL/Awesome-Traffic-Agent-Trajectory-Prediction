@@ -617,7 +617,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction, CVPR 2023. [[paper](http://xxx.itp.ac.cn/pdf/2303.16005.pdf)]
 * Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction, CVPR 2023. [[paper](https://chengy12.github.io/files/Bosampler.pdf)]
 * Stimulus Verification is a Universal and Effective Sampler in Multi-modal Human Trajectory Prediction, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Stimulus_Verification_Is_a_Universal_and_Effective_Sampler_in_Multi-Modal_CVPR_2023_paper.pdf)]
-* Query-Centric Trajectory Prediction, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf)] [[QCNeXt](https://arxiv.org/pdf/2306.10508.pdf)]
+* Query-Centric Trajectory Prediction, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf)] [[code](https://github.com/ZikangZhou/QCNet)] [[QCNeXt](https://arxiv.org/pdf/2306.10508.pdf)]
 * Weakly Supervised Class-agnostic Motion Prediction for Autonomous Driving, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Weakly_Supervised_Class-Agnostic_Motion_Prediction_for_Autonomous_Driving_CVPR_2023_paper.pdf)]
 * Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Decompose_More_and_Aggregate_Better_Two_Closer_Looks_at_Frequency_CVPR_2023_paper.pdf)]
 * MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf)]
@@ -636,6 +636,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
 * Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion, arXiv preprint arXiv:2303.08367, 2023. [[paper](https://arxiv.org/pdf/2303.08367.pdf)]
 * Diffusion Model for GPS Trajectory Generation, arXiv preprint arXiv:2304.11582, 2023. [[paper](https://arxiv.org/pdf/2304.11582.pdf)]
+* Multiverse Transformer: 1st Place Solution for Waymo Open Sim Agents Challenge 2023, CVPR 2023 Workshop on Autonomous Driving. [[paper](https://arxiv.org/pdf/2306.11868.pdf)]
 
 # Related Review Papers
 * Incorporating Driving Knowledge in Deep Learning Based Vehicle Trajectory Prediction: A Survey, IEEE Transactions on Intelligent Vehicles 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100881)]

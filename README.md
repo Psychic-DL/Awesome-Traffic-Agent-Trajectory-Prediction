@@ -624,6 +624,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Planning-oriented Autonomous Driving, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf)] [[code](https://github.com/OpenDriveLab/UniAD)]
 * TrafficGen: Learning to Generate Diverse and Realistic Traffic Scenarios, ICRA 2023. [[paper](https://arxiv.org/pdf/2210.06609.pdf)] [[code](https://github.com/metadriverse/trafficgen)]
 * GANet: Goal Area Network for Motion Forecasting, ICRA 2023. [[paper](https://arxiv.org/pdf/2209.09723.pdf)] [[code](https://github.com/kingwmk/GANet)]
+* TOFG: A Unified and Fine-Grained Environment Representation in Autonomous Driving, ICRA 2023. [[paper](https://arxiv.org/pdf/2305.20068.pdf)]
 * SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving, CoRL 2023. [[paper](https://arxiv.org/pdf/2206.14116.pdf)] [[code](https://github.com/AutoVision-cloud/SSL-Lanes)]
 * PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird’s-Eye View, IJCAI 2023. [[paper](https://arxiv.org/pdf/2306.10761.pdf)] [[code](https://github.com/EdwardLeeLPZ/PowerBEV)]
 

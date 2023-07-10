@@ -638,6 +638,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Holistic Transformer: A Joint Neural Network for Trajectory Prediction and Decision-Making of Autonomous Vehicles, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002935)]
 * Tri-HGNN: Learning triple policies fused hierarchical graph neural networks for pedestrian trajectory prediction, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323004703)]
 * Multimodal Vehicular Trajectory Prediction With Inverse Reinforcement Learning and Risk Aversion at Urban Unsignalized Intersections, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10164651)]
+* Trajectory prediction for autonomous driving based on multiscale spatial‐temporal graph, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12265)]
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
 * Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion, arXiv preprint arXiv:2303.08367, 2023. [[paper](https://arxiv.org/pdf/2303.08367.pdf)]

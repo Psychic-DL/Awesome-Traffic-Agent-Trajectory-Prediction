@@ -21,7 +21,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 # Table of Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-- [**Traditional Methods**](#Traditional-Methods)
+- [**Traditional Methods**](#traditional-Methods)
 - [**2018 and Before Conference and Journal Papers**](#2018-and-Before-Conference-and-Journal-Papers)
 	- [Conference Papers](#Conference-Papers)
 	- [Journal Papers](#Journal-Papers)

@@ -652,6 +652,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 
 # Related Review Papers
+* Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]
+* Machine Learning for Autonomous Vehicle’s Trajectory Prediction: A comprehensive survey, Challenges, and Future Research Directions, arXiv preprint arXiv:2307.07527, 2023. [[paper](https://arxiv.org/pdf/2307.07527.pdf)]
 * Incorporating Driving Knowledge in Deep Learning Based Vehicle Trajectory Prediction: A Survey, IEEE Transactions on Intelligent Vehicles 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100881)]
 * A Survey of Vehicle Trajectory Prediction Based on Deep Learning Models, International Conference on Sustainable Expert Systems: ICSES 2022. [[paper](https://link.springer.com/chapter/10.1007/978-981-19-7874-6_48)]
 * A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]

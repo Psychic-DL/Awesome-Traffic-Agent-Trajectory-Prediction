@@ -628,6 +628,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving, CoRL 2023. [[paper](https://arxiv.org/pdf/2206.14116.pdf)] [[code](https://github.com/AutoVision-cloud/SSL-Lanes)]
 * PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird’s-Eye View, IJCAI 2023. [[paper](https://arxiv.org/pdf/2306.10761.pdf)] [[code](https://github.com/EdwardLeeLPZ/PowerBEV)]
 * HumanMAC: Masked Motion Completion for Human Motion Prediction, ICCV 2023. [[paper](https://arxiv.org/abs/2302.03665)] [[code](https://github.com/LinghaoChan/HumanMAC)]
+* BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction, ICCV 2023. [[paper](https://arxiv.org/abs/2211.14304)] [[code](https://github.com/BarqueroGerman/BeLFusion)]
+* EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting, ICCV 2023. [[paper](https://arxiv.org/abs/2307.09306)] [[code](https://github.com/InhwanBae/EigenTrajectory)]
 * LimSim: A Long-term Interactive Multi-scenario Traffic Simulator, ITSC 2023. [[paper](https://arxiv.org/pdf/2307.06648.pdf)] [[code](https://github.com/PJLab-ADG/LimSim)]
 
 ## Journal Papers 2023

@@ -630,6 +630,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * HumanMAC: Masked Motion Completion for Human Motion Prediction, ICCV 2023. [[paper](https://arxiv.org/abs/2302.03665)] [[code](https://github.com/LinghaoChan/HumanMAC)]
 * BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction, ICCV 2023. [[paper](https://arxiv.org/abs/2211.14304)] [[code](https://github.com/BarqueroGerman/BeLFusion)]
 * EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting, ICCV 2023. [[paper](https://arxiv.org/abs/2307.09306)] [[code](https://github.com/InhwanBae/EigenTrajectory)]
+* ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation, ICCV 2023. [[paper](https://arxiv.org/pdf/2307.14187.pdf)] [[code](https://kuis-ai.github.io/adapt/)]
 * LimSim: A Long-term Interactive Multi-scenario Traffic Simulator, ITSC 2023. [[paper](https://arxiv.org/pdf/2307.06648.pdf)] [[code](https://github.com/PJLab-ADG/LimSim)]
 
 ## Journal Papers 2023
@@ -652,6 +653,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying, 1st Place Solution for Waymo Open Motion Prediction Challenge 2023, CVPR 2023 Workshop on Autonomous Driving. [[paper](https://arxiv.org/pdf/2306.17770.pdf)] [[code](https://github.com/sshaoshuai/MTR)]
 * GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving, arXiv preprint arXiv:2303.05760, 2023. [[paper](https://arxiv.org/pdf/2303.05760.pdf)] [[code](https://github.com/MCZhi/GameFormer)] [[website](https://mczhi.github.io/GameFormer/)]
 * GameFormer Planner: A Learning-enabled Interactive Prediction and Planning Framework for Autonomous Vehicles, the nuPlan Planning Challenge at the CVPR 2023 End-to-End Autonomous Driving Workshop. [[paper](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf)] [[code](https://github.com/MCZhi/GameFormer-Planner/)]
+* trajdata: A Unified Interface to Multiple Human Trajectory Datasets, arXiv preprint arXiv:2307.13924, 2023. [[paper](https://arxiv.org/pdf/2307.13924.pdf)] [[code](https://github.com/NVlabs/trajdata)]
+
 
 
 # Related Review Papers

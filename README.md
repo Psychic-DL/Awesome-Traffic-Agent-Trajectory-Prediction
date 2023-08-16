@@ -726,6 +726,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * [VMT](https://ieeexplore.ieee.org/document/6482546)
 * [TRAFFIC](https://ieeexplore.ieee.org/document/7565640), [website](https://min.sjtu.edu.cn/lwydemo/Trajectory%20analysis.htm)
 * [CROSS](https://cvrr-nas.ucsd.edu/publications/2011/Morris_PAMI2011.pdf), [website](http://cvrr.ucsd.edu/bmorris/datasets/)
+* [Ubiquitous Traffic Eyes (UTE)](http://seutraffic.com/#/home)
 ## Pedestrians Publicly Available Datasets
 * [GeoLife](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
 * [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)

@@ -646,6 +646,9 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajectory prediction for autonomous driving based on multiscale spatial‐temporal graph, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12265)]
 * Social Self-Attention Generative Adversarial Networks for Human Trajectory Prediction, IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10197467)]
 * CSIR: Cascaded Sliding CVAEs With Iterative Socially-Aware Rethinking for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215313)]
+* Multimodal Manoeuvre and Trajectory Prediction for Automated Driving on Highways Using Transformer Networks, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207845)]
+* A physics-informed Transformer model for vehicle trajectory prediction on highways, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X23002619)] [[code](https://github.com/Gengmaosi/PIT-IDM)]
+
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
 * Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion, arXiv preprint arXiv:2303.08367, 2023. [[paper](https://arxiv.org/pdf/2303.08367.pdf)]

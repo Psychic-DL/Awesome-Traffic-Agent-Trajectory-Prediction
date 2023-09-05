@@ -650,6 +650,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A physics-informed Transformer model for vehicle trajectory prediction on highways, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X23002619)] [[code](https://github.com/Gengmaosi/PIT-IDM)]
 * MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2308.10280.pdf)]
 * MRGTraj: A Novel Non-Autoregressive Approach for Human Trajectory Prediction, TCSVT. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10226250)] [[code](https://github.com/wisionpeng/MRGTraj)]
+* Planning-inspired Hierarchical Trajectory Prediction via Lateral-Longitudinal Decomposition for Autonomous Driving, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10226224)]
 
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]

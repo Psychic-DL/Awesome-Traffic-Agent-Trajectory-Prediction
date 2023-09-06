@@ -632,6 +632,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting, ICCV 2023. [[paper](https://arxiv.org/abs/2307.09306)] [[code](https://github.com/InhwanBae/EigenTrajectory)]
 * ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation, ICCV 2023. [[paper](https://arxiv.org/pdf/2307.14187.pdf)] [[code](https://kuis-ai.github.io/adapt/)]
 * LimSim: A Long-term Interactive Multi-scenario Traffic Simulator, ITSC 2023. [[paper](https://arxiv.org/pdf/2307.06648.pdf)] [[code](https://github.com/PJLab-ADG/LimSim)]
+* V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_V2X-Seq_A_Large-Scale_Sequential_Dataset_for_Vehicle-Infrastructure_Cooperative_Perception_and_CVPR_2023_paper.pdf)] [[code](https://github.com/AIR-THU/DAIR-V2X-Seq)]
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]

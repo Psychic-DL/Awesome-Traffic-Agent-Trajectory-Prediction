@@ -663,6 +663,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving, arXiv preprint arXiv:2303.05760, 2023. [[paper](https://arxiv.org/pdf/2303.05760.pdf)] [[code](https://github.com/MCZhi/GameFormer)] [[website](https://mczhi.github.io/GameFormer/)]
 * GameFormer Planner: A Learning-enabled Interactive Prediction and Planning Framework for Autonomous Vehicles, the nuPlan Planning Challenge at the CVPR 2023 End-to-End Autonomous Driving Workshop. [[paper](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf)] [[code](https://github.com/MCZhi/GameFormer-Planner/)]
 * trajdata: A Unified Interface to Multiple Human Trajectory Datasets, arXiv preprint arXiv:2307.13924, 2023. [[paper](https://arxiv.org/pdf/2307.13924.pdf)] [[code](https://github.com/NVlabs/trajdata)]
+* Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks, arXiv preprint arXiv:2309.01981, 2023. [[paper](https://arxiv.org/pdf/2309.01981.pdf)]
 
 
 

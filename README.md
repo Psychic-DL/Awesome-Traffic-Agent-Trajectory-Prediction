@@ -665,6 +665,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * trajdata: A Unified Interface to Multiple Human Trajectory Datasets, arXiv preprint arXiv:2307.13924, 2023. [[paper](https://arxiv.org/pdf/2307.13924.pdf)] [[code](https://github.com/NVlabs/trajdata)]
 * Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks, arXiv preprint arXiv:2309.01981, 2023. [[paper](https://arxiv.org/pdf/2309.01981.pdf)]
 * DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving, arXiv preprint arXiv:2309.09777, 2023. [[paper](https://arxiv.org/pdf/2309.09777.pdf)] [[website](https://drivedreamer.github.io/)]
+* EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction, arXiv preprint arXiv:2308.06564, 2023. [[paper](https://arxiv.org/pdf/2308.06564.pdf)]
+* Language Prompt for Autonomous Driving, arXiv preprint arXiv:2309.04379, 2023. [[paper](https://arxiv.org/pdf/2309.04379.pdf)] [[code](https://github.com/wudongming97/Prompt4Driving)]
 
 
 

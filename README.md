@@ -673,6 +673,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving, arXiv preprint arXiv:2309.09777, 2023. [[paper](https://arxiv.org/pdf/2309.09777.pdf)] [[website](https://drivedreamer.github.io/)]
 * EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction, arXiv preprint arXiv:2308.06564, 2023. [[paper](https://arxiv.org/pdf/2308.06564.pdf)]
 * Language Prompt for Autonomous Driving, arXiv preprint arXiv:2309.04379, 2023. [[paper](https://arxiv.org/pdf/2309.04379.pdf)] [[code](https://github.com/wudongming97/Prompt4Driving)]
+* GAIA-1: A Generative World Model for Autonomous Driving, arXiv preprint arXiv:2309.17080, 2023. [[paper](https://browse.arxiv.org/pdf/2309.17080.pdf)] [[website](https://wayve.ai/thinking/scaling-gaia-1/)] 
 
 
 

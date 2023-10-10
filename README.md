@@ -678,6 +678,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Language Prompt for Autonomous Driving, arXiv preprint arXiv:2309.04379, 2023. [[paper](https://arxiv.org/pdf/2309.04379.pdf)] [[code](https://github.com/wudongming97/Prompt4Driving)]
 * GAIA-1: A Generative World Model for Autonomous Driving, arXiv preprint arXiv:2309.17080, 2023. [[paper](https://browse.arxiv.org/pdf/2309.17080.pdf)] [[website](https://wayve.ai/thinking/scaling-gaia-1/)]
 * Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning, arXiv preprint arXiv:2309.09021, 2023. [[paper](https://browse.arxiv.org/pdf/2309.09021.pdf)] [[code](https://github.com/sydney-machine-learning/pedestrianpathprediction)]
+* LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving, arXiv preprint arXiv:2310.03026, 2023. [[paper](https://arxiv.org/pdf/2310.03026.pdf)] [[website](https://sites.google.com/view/llm-mpc)]
 
 
 

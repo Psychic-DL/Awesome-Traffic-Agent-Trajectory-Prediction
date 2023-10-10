@@ -637,6 +637,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Trajectory Unified Transformer for Pedestrian Trajectory Prediction, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Trajectory_Unified_Transformer_for_Pedestrian_Trajectory_Prediction_ICCV_2023_paper.pdf)]
 * Sparse Instance Conditioned Multimodal Trajectory Prediction, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Sparse_Instance_Conditioned_Multimodal_Trajectory_Prediction_ICCV_2023_paper.pdf)]
 * MotionLM: Multi-Agent Motion Forecasting as Language Modeling, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Seff_MotionLM_Multi-Agent_Motion_Forecasting_as_Language_Modeling_ICCV_2023_paper.pdf)]
+* ADAPT: Action-aware Driving Caption Transformer, ICRA 2023. [[paper](https://browse.arxiv.org/pdf/2302.00673.pdf)] [[code](https://github.com/jxbbb/ADAPT)]
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]

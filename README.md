@@ -543,6 +543,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Robust Trajectory Prediction against Adversarial Attacks, CoRL 2022. [[paper](https://arxiv.org/pdf/2208.00094.pdf)] [[code](https://robustav.github.io/RobustTraj/)]
 * Planning with Diffusion for Flexible Behavior Synthesis, ICML 2022. [[paper](https://arxiv.org/abs/2205.09991)] [[website](https://diffusion-planning.github.io/)]
 * Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation, ACCV 2022. [[paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Xie_Synchronous_Bi-Directional_Pedestrian_Trajectory_Prediction_with_Error_Compensation_ACCV_2022_paper.pdf)]
+* Model-Based Imitation Learning for Urban Driving, NIPS 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/827cb489449ea216e4a257c47e407d18-Paper-Conference.pdf)] [[code](https://github.com/wayveai/mile)]
 
 ## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]

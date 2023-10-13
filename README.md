@@ -681,7 +681,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving, arXiv preprint arXiv:2310.03026, 2023. [[paper](https://arxiv.org/pdf/2310.03026.pdf)] [[website](https://sites.google.com/view/llm-mpc)]
 * DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model, arXiv preprint arXiv:2310.01412, 2023. [[paper](https://browse.arxiv.org/pdf/2310.01412.pdf)] [[website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
 * Drive Like a Human: Rethinking Autonomous Driving with Large Language Models, arXiv preprint arXiv:2307.07162, 2023. [[paper](https://arxiv.org/pdf/2307.07162.pdf)] [[code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
-* DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models, arXiv preprint arXiv:2309.16292, 2023. [[paper](https://browse.arxiv.org/pdf/2309.16292.pdf)] [[website](https://pjlab-adg.github.io/DiLu/)]
+* DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models, arXiv preprint arXiv:2309.16292, 2023. [[paper](https://browse.arxiv.org/pdf/2309.16292.pdf)] [[website](https://pjlab-adg.github.io/DiLu/)]
 
 # Related Review Papers
 * Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]

@@ -686,6 +686,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving, arXiv preprint arXiv:2310.01957, 2023. [[paper](https://browse.arxiv.org/pdf/2310.01957.pdf)] [[code](https://github.com/wayveai/Driving-with-LLMs)]
 * WEDGE: A Multi-Weather Autonomous Driving Dataset Built From Generative Vision-Language Models, CVPR Workshops 2023. [[paper](https://arxiv.org/pdf/2305.07528.pdf)] [[website](https://infernolia.github.io/WEDGE)]
 * BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning, arXiv preprint arXiv:2310.10357, 2023. [[paper](https://arxiv.org/pdf/2310.10357.pdf)]
+* Diffusion World Models, ICLR 2024 Conference Submission, 2023. [[paper](https://openreview.net/pdf?id=bAXmvOLtjA)]
 
 # Related Review Papers
 * Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]

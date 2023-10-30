@@ -665,7 +665,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
 * Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion, arXiv preprint arXiv:2303.08367, 2023. [[paper](https://arxiv.org/pdf/2303.08367.pdf)]
-* Diffusion Model for GPS Trajectory Generation, arXiv preprint arXiv:2304.11582, 2023. [[paper](https://arxiv.org/pdf/2304.11582.pdf)]
+* DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model, arXiv preprint arXiv:2304.11582, 2023. [[paper](https://arxiv.org/pdf/2304.11582.pdf)] [[code](https://github.com/Yasoz/DiffTraj)]
 * Multiverse Transformer: 1st Place Solution for Waymo Open Sim Agents Challenge 2023, CVPR 2023 Workshop on Autonomous Driving. [[paper](https://arxiv.org/pdf/2306.11868.pdf)] [[website](https://multiverse-transformer.github.io/sim-agents/)]
 * Joint-Multipath++ for Simulation Agents: 2nd Place Solution for Waymo Open Sim Agents Challenge 2023, CVPR 2023 Workshop on Autonomous Driving. [[paper](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/SA_hm_jointMP.pdf)] [[code](https://github.com/wangwenxi-handsome/Joint-Multipathpp)]
 * MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying, 1st Place Solution for Waymo Open Motion Prediction Challenge 2023, CVPR 2023 Workshop on Autonomous Driving. [[paper](https://arxiv.org/pdf/2306.17770.pdf)] [[code](https://github.com/sshaoshuai/MTR)]

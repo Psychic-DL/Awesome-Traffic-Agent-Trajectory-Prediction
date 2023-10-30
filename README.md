@@ -1,4 +1,4 @@
-# Awesome-Traffic-Agent-Trajectory-Prediction
+![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/assets/30741409/78ef6e0e-f588-4714-bb0c-897444c64e1d)# Awesome-Traffic-Agent-Trajectory-Prediction
 ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.08-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg)
 
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/8189c63cf7894232e1573be4c217653.png)
@@ -674,10 +674,10 @@ Please feel free to pull request to add new resources or send emails to us for q
 * trajdata: A Unified Interface to Multiple Human Trajectory Datasets, arXiv preprint arXiv:2307.13924, 2023. [[paper](https://arxiv.org/pdf/2307.13924.pdf)] [[code](https://github.com/NVlabs/trajdata)]
 * Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks, arXiv preprint arXiv:2309.01981, 2023. [[paper](https://arxiv.org/pdf/2309.01981.pdf)]
 * EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction, arXiv preprint arXiv:2308.06564, 2023. [[paper](https://arxiv.org/pdf/2308.06564.pdf)]
+* Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning, arXiv preprint arXiv:2309.09021, 2023. [[paper](https://browse.arxiv.org/pdf/2309.09021.pdf)] [[code](https://github.com/sydney-machine-learning/pedestrianpathprediction)]
 * DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving, arXiv preprint arXiv:2309.09777, 2023. [[paper](https://arxiv.org/pdf/2309.09777.pdf)] [[website](https://drivedreamer.github.io/)]
 * Language Prompt for Autonomous Driving, arXiv preprint arXiv:2309.04379, 2023. [[paper](https://arxiv.org/pdf/2309.04379.pdf)] [[code](https://github.com/wudongming97/Prompt4Driving)]
 * GAIA-1: A Generative World Model for Autonomous Driving, arXiv preprint arXiv:2309.17080, 2023. [[paper](https://browse.arxiv.org/pdf/2309.17080.pdf)] [[website](https://wayve.ai/thinking/scaling-gaia-1/)]
-* Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning, arXiv preprint arXiv:2309.09021, 2023. [[paper](https://browse.arxiv.org/pdf/2309.09021.pdf)] [[code](https://github.com/sydney-machine-learning/pedestrianpathprediction)]
 * LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving, arXiv preprint arXiv:2310.03026, 2023. [[paper](https://arxiv.org/pdf/2310.03026.pdf)] [[website](https://sites.google.com/view/llm-mpc)]
 * DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model, arXiv preprint arXiv:2310.01412, 2023. [[paper](https://browse.arxiv.org/pdf/2310.01412.pdf)] [[website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
 * Drive Like a Human: Rethinking Autonomous Driving with Large Language Models, arXiv preprint arXiv:2307.07162, 2023. [[paper](https://arxiv.org/pdf/2307.07162.pdf)] [[code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
@@ -685,6 +685,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model, arXiv preprint arXiv:2310.07771, 2023. [[paper](https://arxiv.org/pdf/2310.07771.pdf)] [[website](https://drivingdiffusion.github.io/)]
 * Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving, arXiv preprint arXiv:2310.01957, 2023. [[paper](https://browse.arxiv.org/pdf/2310.01957.pdf)] [[code](https://github.com/wayveai/Driving-with-LLMs)]
 * WEDGE: A Multi-Weather Autonomous Driving Dataset Built From Generative Vision-Language Models, CVPR Workshops 2023. [[paper](https://arxiv.org/pdf/2305.07528.pdf)] [[website](https://infernolia.github.io/WEDGE)]
+* BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning, arXiv preprint arXiv:2310.10357, 2023. [[paper](https://arxiv.org/pdf/2310.10357.pdf)]
 
 # Related Review Papers
 * Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]

@@ -661,6 +661,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * A multi-modal vehicle trajectory prediction framework via conditional diffusion model: A coarse-to-fine approach, KBS. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705123007402)]
 * Modality Exploration, Retrieval and Adaptation for Trajectory Prediction, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10254381)]
 * MFAN: Mixing Feature Attention Network for Trajectory Prediction, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323006957#abs0001)]
+* IE-GAN: a data-driven crowd simulation method via generative adversarial networks, Multimedia Tools and Applications. [[paper](https://link.springer.com/article/10.1007/s11042-023-17346-x)]
 
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]

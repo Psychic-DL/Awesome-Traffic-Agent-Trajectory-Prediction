@@ -691,6 +691,8 @@ Please feel free to pull request to add new resources or send emails to us for q
 * MagicDrive: Street View Generation with Diverse 3D Geometry Control, arXiv preprint arXiv:2310.02601, 2023. [[paper](https://arxiv.org/pdf/2310.02601.pdf)] [[website](https://gaoruiyuan.com/magicdrive/)]
 
 # Related Review Papers
+* Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review, Expert Systems With Applications 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423024855)]
+* Data-driven Traffic Simulation: A Comprehensive Review, arXiv preprint arXiv:2310.15975, 2023. [[paper](https://arxiv.org/ftp/arxiv/papers/2310/2310.15975.pdf)]
 * Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]
 * Machine Learning for Autonomous Vehicle’s Trajectory Prediction: A comprehensive survey, Challenges, and Future Research Directions, arXiv preprint arXiv:2307.07527, 2023. [[paper](https://arxiv.org/pdf/2307.07527.pdf)]
 * Incorporating Driving Knowledge in Deep Learning Based Vehicle Trajectory Prediction: A Survey, IEEE Transactions on Intelligent Vehicles 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100881)]

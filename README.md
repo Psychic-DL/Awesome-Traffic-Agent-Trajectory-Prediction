@@ -600,6 +600,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting, arXiv preprint arXiv:2207.05195, 2022. [[paper](https://arxiv.org/abs/2207.05195)] [[code](https://github.com/MediaBrain-SJTU/Collaborative-Uncertainty)]
 * Guided Conditional Diffusion for Controllable Traffic Simulation, arXiv preprint arXiv:2210.17366, 2022. [[paper](https://arxiv.org/pdf/2210.17366.pdf)] [[website](https://aiasd.github.io/ctg.github.io/)]
 * PhysDiff: Physics-Guided Human Motion Diffusion Model, arXiv preprint arXiv:2212.02500, 2022. [[paper](http://xxx.itp.ac.cn/pdf/2212.02500.pdf)]
+* Trajectory Forecasting on Temporal Graphs, arXiv preprint arXiv:2207.00255, 2022. [[paper](https://arxiv.org/pdf/2207.00255.pdf)] [[website](https://kuis-ai.github.io/ftgn/)]
 
 # 2023 Conference and Journal Papers
 ## Conference Papers 2023

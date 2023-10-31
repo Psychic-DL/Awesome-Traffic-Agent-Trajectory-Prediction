@@ -688,6 +688,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 * BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning, arXiv preprint arXiv:2310.10357, 2023. [[paper](https://arxiv.org/pdf/2310.10357.pdf)]
 * Diffusion World Models, ICLR 2024 Conference Submission, 2023. [[paper](https://openreview.net/pdf?id=bAXmvOLtjA)]
 * Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research, arXiv preprint arXiv:2310.08710, 2023. [[paper](https://arxiv.org/pdf/2310.08710.pdf)] [[code](https://github.com/waymo-research/waymax)] [[website](https://waymo.com/intl/zh-cn/research/waymax/)]
+* MagicDrive: Street View Generation with Diverse 3D Geometry Control, arXiv preprint arXiv:2310.02601, 2023. [[paper](https://arxiv.org/pdf/2310.02601.pdf)] [[website](https://gaoruiyuan.com/magicdrive/)]
 
 # Related Review Papers
 * Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]

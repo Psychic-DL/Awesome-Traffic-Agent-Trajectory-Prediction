@@ -14,7 +14,7 @@ This is a list of the latest research materials (datasets, papers and codes) rel
 
 **Emails: xdchaonengli@163.com**
 
-Please feel free to pull request to add new resources or send emails to us for questions, discussions and collaborations.
+Please feel free to pull request to add new resources or send emails to us for questions, discussions and collaborations. We would like to connect more students, teachers, and bigwigs in the field of multi-agent trajectory prediction, and if you would like to do the same, you can add me on WeChat (CN15691969157). Let's create the Trajectory Prediction Community Group together!
 
 ******
 

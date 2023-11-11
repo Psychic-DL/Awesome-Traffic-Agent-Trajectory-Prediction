@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Trajectory-Prediction
-![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.11-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF)
+![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.11-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=pytorch&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF)
 
 
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/8189c63cf7894232e1573be4c217653.png)
@@ -15,7 +15,7 @@ This is a list of the latest research materials (datasets, papers and codes) rel
 
 **Emails: xdchaonengli@163.com**
 
-Please feel free to pull request to add new resources or send emails to us for questions, discussions and collaborations. We would like to connect more students, teachers, and bigwigs in the field of multi-agent trajectory prediction, and if you would like to do the same, you can add me on WeChat (CN15691969157). Let's create the Trajectory Prediction Community Group together!
+Please feel free to pull requests to add new resources or send emails to us for questions, discussions, and collaborations. **We would like to connect more students, teachers, and bigwigs in the field of multi-agent trajectory prediction, and if you would like to do the same, you can add me on WeChat (CN15691969157). Let's create the Trajectory Prediction Community Group together!**
 
 ******
 

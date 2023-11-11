@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Trajectory-Prediction
-![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.11-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF)
+![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.11-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF)
 
 
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/8189c63cf7894232e1573be4c217653.png)

@@ -682,6 +682,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction, arXiv preprint arXiv:2310.14570, 2023. [[paper](https://arxiv.org/pdf/2310.14570.pdf)]
 * Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning, arXiv preprint arXiv:2309.09021, 2023. [[paper](https://browse.arxiv.org/pdf/2309.09021.pdf)] [[code](https://github.com/sydney-machine-learning/pedestrianpathprediction)]
 * VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems, arXiv preprint arXiv:2311.06623, 2023. [[paper](https://arxiv.org/pdf/2311.06623.pdf)]
+* Learning Cooperative Trajectory Representations for Motion Forecasting, arXiv preprint arXiv:2311.00371, 2023. [[paper](https://arxiv.org/pdf/2311.00371.pdf)] [[code](https://github.com/AIR-THU/V2X-Graph)]
 * DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving, arXiv preprint arXiv:2309.09777, 2023. [[paper](https://arxiv.org/pdf/2309.09777.pdf)] [[website](https://drivedreamer.github.io/)]
 * Language Prompt for Autonomous Driving, arXiv preprint arXiv:2309.04379, 2023. [[paper](https://arxiv.org/pdf/2309.04379.pdf)] [[code](https://github.com/wudongming97/Prompt4Driving)]
 * GAIA-1: A Generative World Model for Autonomous Driving, arXiv preprint arXiv:2309.17080, 2023. [[paper](https://browse.arxiv.org/pdf/2309.17080.pdf)] [[website](https://wayve.ai/thinking/scaling-gaia-1/)]

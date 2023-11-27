@@ -792,3 +792,5 @@ Please feel free to pull requests to add new resources or send emails to us for 
 ### Hurricane and Animal
 * [HURDAT2](https://www.nhc.noaa.gov/data/)
 * [Movebank](https://www.movebank.org/cms/movebank-main)
+
+![Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)

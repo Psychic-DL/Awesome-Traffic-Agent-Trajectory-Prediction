@@ -793,4 +793,4 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * [HURDAT2](https://www.nhc.noaa.gov/data/)
 * [Movebank](https://www.movebank.org/cms/movebank-main)
 
-![Star History Chart](https://api.star-history.com/svg?repos=https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/star-history&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=Awesome-Traffic-Agent-Trajectory-Prediction/star-history&type=Date)

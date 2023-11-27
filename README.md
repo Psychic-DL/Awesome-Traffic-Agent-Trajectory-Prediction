@@ -640,6 +640,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * MotionLM: Multi-Agent Motion Forecasting as Language Modeling, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Seff_MotionLM_Multi-Agent_Motion_Forecasting_as_Language_Modeling_ICCV_2023_paper.pdf)]
 * ADAPT: Action-aware Driving Caption Transformer, ICRA 2023. [[paper](https://browse.arxiv.org/pdf/2302.00673.pdf)] [[code](https://github.com/jxbbb/ADAPT)]
 * Scenario Diffusion: Controllable Driving Scenario Generation With Diffusion, NIPS 2023. [[paper](https://openreview.net/pdf?id=99MHSB98yZ)]
+* BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Prediction, NIPS 2023. [[paper](https://openreview.net/pdf?id=FOFJmR1oxt)]
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]

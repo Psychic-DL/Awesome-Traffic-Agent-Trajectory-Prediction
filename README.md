@@ -804,6 +804,19 @@ Please feel free to pull requests to add new resources or send emails to us for 
 # 🌹 Acknowledgments
 We are grateful to the authors and developers who provided the papers, the open-source code, and the project website! Thank you for your positive contributions to the agent trajectory prediction community. Your thoughts and contributions are a green signal for us. If you have suggestions or additional insights, feel free to open an issue or submit a pull request.
 
+# 🧐 Citation
+Please consider citing our papers if this repository accelerates your research:
+```
+@inproceedings{li2022fidelity,
+  title={Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection},
+  author={Li, Chaoneng and Chao, Qianwen and Feng, Guanwen and Wang, Qiongyan and Liu, Pengfei and Li, Yunan and Miao, Qiguang},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8157--8164},
+  year={2022},
+  organization={IEEE}
+}
+```
+
 # 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction&type=Date)](https://star-history.com/#Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction&Date)

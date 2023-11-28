@@ -55,8 +55,8 @@ Please feel free to pull requests to add new resources or send emails to us for 
 		- [Aircraft](#aircraft)
 		- [Ship](#ship)
 		- [Hurricane and Animal](#hurricane-and-animal)
-  - [**🌹 Acknowledgments**](#-acknowledgments)
-  - [**🌟 Star History**](#-star-history)
+- [**🌹 Acknowledgments**](#-acknowledgments)
+- [**🌟 Star History**](#-star-history)
 	<!-- /TOC -->
 
 ******

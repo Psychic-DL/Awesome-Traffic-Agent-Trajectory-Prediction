@@ -22,7 +22,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 # 📜 Table of Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-- [**Traditional Methods**](#📚 traditional-methods)
+- [**Traditional Methods**](#traditional-methods)
 - [**2018 and Before Conference and Journal Papers**](#2018-and-before-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers)
 	- [Journal Papers](#journal-papers)

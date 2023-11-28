@@ -702,6 +702,9 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving, arXiv preprint arXiv:2309.05186, 2023. [[paper](https://arxiv.org/pdf/2309.05186.pdf)]
 * A Language Agent for Autonomous Driving, arXiv preprint arXiv:2311.10813, 2023. [[paper](https://arxiv.org/pdf/2311.10813.pdf)] [[website](https://usc-gvl.github.io/Agent-Driver/)]
 * ADriver-I: A General World Model for Autonomous Driving, arXiv preprint arXiv:2311.13549, 2023. [[paper](https://arxiv.org/pdf/2311.13549.pdf)]
+* LLM4Drive: A Survey of Large Language Models for Autonomous Driving, arXiv preprint arXiv:2311.01043, 2023. [[paper](https://arxiv.org/pdf/2311.01043.pdf)] [[code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)]
+* Vision Language Models in Autonomous Driving and Intelligent Transportation Systems, arXiv preprint arXiv:2310.14414, 2023. [[paper](https://arxiv.org/pdf/2310.14414.pdf)]
+* On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving, arXiv preprint arXiv:2311.05332, 2023. [[paper](https://arxiv.org/pdf/2311.05332.pdf)] [[code](https://github.com/PJLab-ADG/GPT4V-AD-Exploration)]
 
 # Related Review Papers
 * Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review, Expert Systems With Applications 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423024855)]

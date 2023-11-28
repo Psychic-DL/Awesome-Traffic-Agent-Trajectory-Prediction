@@ -799,6 +799,9 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * [HURDAT2](https://www.nhc.noaa.gov/data/)
 * [Movebank](https://www.movebank.org/cms/movebank-main)
 
+# 🌹 Acknowledgments
+We are grateful to the authors and developers who provided the papers, the open-source code, and the project website!
+
 # 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction&type=Date)](https://star-history.com/#Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction&Date)

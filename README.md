@@ -800,7 +800,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * [Movebank](https://www.movebank.org/cms/movebank-main)
 
 # 🌹 Acknowledgments
-We are grateful to the authors and developers who provided the papers, the open-source code, and the project website!
+We are grateful to the authors and developers who provided the papers, the open-source code, and the project website! Thank you for your positive contributions to the agent trajectory prediction community. Your thoughts and contributions are a green signal for us. If you have suggestions or additional insights, feel free to open an issue or submit a pull request.
 
 # 🌟 Star History
 

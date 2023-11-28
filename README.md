@@ -23,38 +23,40 @@ Please feel free to pull requests to add new resources or send emails to us for 
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 - [**📚 Traditional Methods**](#-traditional-methods)
-- [**2018 and Before Conference and Journal Papers**](#2018-and-before-conference-and-journal-papers)
+- [**📚 2018 and Before Conference and Journal Papers**](#-2018-and-before-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers)
 	- [Journal Papers](#journal-papers)
 	- [Others](#others)
-- [**2019 Conference and Journal Papers**](#2019-conference-and-journal-papers)
+- [**📚2019 Conference and Journal Papers**](#-2019-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers-2019)
 	- [Journal Papers](#journal-papers-2019)
 	- [Others](#others-2019)
-- [**2020 Conference and Journal Papers**](#2020-conference-and-journal-papers)
+- [**📚2020 Conference and Journal Papers**](#-2020-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers-2020)
 	- [Journal Papers](#journal-papers-2020)
 	- [Others](#others-2020)
-- [**2021 Conference and Journal Papers**](#2021-conference-and-journal-papers)
+- [**📚2021 Conference and Journal Papers**](#-2021-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers-2021)
 	- [Journal Papers](#journal-papers-2021)
 	- [Others](#others-2021)
-- [**2022 Conference and Journal Papers**](#2022-conference-and-journal-papers)
+- [**📚2022 Conference and Journal Papers**](#-2022-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers-2022)
 	- [Journal Papers](#journal-papers-2022)
 	- [Others](#others-2022)
-- [**2023 Conference and Journal Papers**](#2023-conference-and-journal-papers)
+- [**📚2023 Conference and Journal Papers**](#-2023-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers-2023)
 	- [Journal Papers](#journal-papers-2023)
 	- [Others](#others-2023)
-- [**Related Review Papers**](#related-review-papers)
-- [**Datasets**](#datasets)
+- [**📚 Related Review Papers**](#-related-review-papers)
+- [**🗂️ Datasets**](#-datasets)
 	- [Vehicles Publicly Available Datasets](#vehicles-publicly-available-datasets)
 	- [Pedestrians Publicly Available Datasets](#pedestrians-publicly-available-datasets)
 	- [Others Agents Datasets](#others-agents-datasets)
 		- [Aircraft](#aircraft)
 		- [Ship](#ship)
 		- [Hurricane and Animal](#hurricane-and-animal)
+  - [**🌹 Acknowledgments**](#-acknowledgments)
+  - [**🌟 Star History**](#-star-history)
 	<!-- /TOC -->
 
 ******
@@ -80,7 +82,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
 
 
-# 2018 and Before Conference and Journal Papers
+# 📚 2018 and Before Conference and Journal Papers
 ## Conference Papers
 * Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf)] [[code](https://github.com/agrimgupta92/sgan)]
 * Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf)] [[code](https://github.com/svip-lab/CIDNN)]
@@ -195,7 +197,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Human Trajectory Prediction using Spatially aware Deep Attention Models, arXiv preprint arXiv:1705.09436, 2017. [[paper](https://arxiv.org/pdf/1705.09436.pdf)]
 * Modeling Spatial-Temporal Dynamics of Human Movements for Predicting Future Trajectories, AAAI Workshops 2015. [[paper](https://www.diva-portal.org/smash/get/diva2:808848/FULLTEXT01.pdf)]
 
-# 2019 Conference and Journal Papers
+# 📚 2019 Conference and Journal Papers
 ## Conference Papers 2019
 * MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction, Conference on Robot Learning (CoRL 2019). [[paper](https://arxiv.org/pdf/1910.05449.pdf)]
 * Generating Multi-Agent Trajectories using Programmatic Weak Supervision, ICLR 2019. [[paper](https://arxiv.org/pdf/1803.07612.pdf)] [[code](https://github.com/ezhan94/multiagent-programmatic-supervision)]
@@ -265,7 +267,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Probabilistic Trajectory Prediction for Autonomous Vehicles with Attentive Recurrent Neural Process, arXiv preprint arXiv:1910.08102, 2019. [[paper](https://arxiv.org/pdf/1910.08102.pdf)]
 * Stochastic Trajectory Prediction with Social Graph Network, arXiv preprint arXiv:1907.10233, 2019. [[paper](https://arxiv.org/pdf/1907.10233.pdf)]
 
-# 2020 Conference and Journal Papers
+# 📚 2020 Conference and Journal Papers
 ## Conference Papers 2020
 * Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/pdf/2005.08514.pdf)] [[code](https://github.com/Majiker/STAR)]
 * AutoTrajectory: Label-Free Trajectory Extraction and Prediction from Videos Using Dynamic Points, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58601-0_38.pdf)]
@@ -357,7 +359,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507v1.pdf)]
 * PathGAN: Local Path Planning with Attentive Generative Adversarial Networks, arXiv preprint arXiv:2007.03877, 2020. [[paper](https://arxiv.org/pdf/2007.03877.pdf)] [[code](https://github.com/d1024choi/pathgan_pytorch)]
 
-# 2021 Conference and Journal Papers
+# 📚 2021 Conference and Journal Papers
 ## Conference Papers 2021
 * Collaborative Uncertainty in Multi-Agent Trajectory Forecasting, NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf)]
 * GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction, NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/e3670ce0c315396e4836d7024abcf3dd-Paper.pdf)] [[code](https://github.com/longyuanli/GRIN_NeurIPS21)]
@@ -471,7 +473,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network, IEEE Intelligent Vehicles Symposium Workshops (IV Workshops 2021). [[paper](https://arxiv.org/pdf/2112.06624)]
 * Deep Social Force, arXiv preprint arXiv:2109.12081, 2021. [[paper](https://arxiv.org/pdf/2109.12081)] [[code](https://github.com/svenkreiss/socialforce)]
 
-# 2022 Conference and Journal Papers
+# 📚 2022 Conference and Journal Papers
 ## Conference Papers 2022
 * Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://arxiv.org/pdf/2205.13296.pdf)] [[code](https://github.com/lssiair/SIT)]
 * Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]
@@ -603,7 +605,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * PhysDiff: Physics-Guided Human Motion Diffusion Model, arXiv preprint arXiv:2212.02500, 2022. [[paper](http://xxx.itp.ac.cn/pdf/2212.02500.pdf)]
 * Trajectory Forecasting on Temporal Graphs, arXiv preprint arXiv:2207.00255, 2022. [[paper](https://arxiv.org/pdf/2207.00255.pdf)] [[website](https://kuis-ai.github.io/ftgn/)]
 
-# 2023 Conference and Journal Papers
+# 📚 2023 Conference and Journal Papers
 ## Conference Papers 2023
 * Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction, AAAI 2023. [[paper](https://arxiv.org/pdf/2210.05976.pdf)]
 * Multi-stream Representation Learning for Pedestrian Trajectory Prediction, AAAI 2023. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389)]
@@ -709,7 +711,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Vision Language Models in Autonomous Driving and Intelligent Transportation Systems, arXiv preprint arXiv:2310.14414, 2023. [[paper](https://arxiv.org/pdf/2310.14414.pdf)]
 * On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving, arXiv preprint arXiv:2311.05332, 2023. [[paper](https://arxiv.org/pdf/2311.05332.pdf)] [[code](https://github.com/PJLab-ADG/GPT4V-AD-Exploration)]
 
-# Related Review Papers
+# 📚 Related Review Papers
 * Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review, Expert Systems With Applications 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423024855)]
 * Data-driven Traffic Simulation: A Comprehensive Review, arXiv preprint arXiv:2310.15975, 2023. [[paper](https://arxiv.org/ftp/arxiv/papers/2310/2310.15975.pdf)]
 * Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]
@@ -746,7 +748,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Trajectory Data Mining: An Overview, ACM Transactions on Intelligent Systems and Technology 2015. [[paper](http://urban-computing.com/pdf/TrajectoryDataMining-tist-yuzheng.pdf)]
 * A survey on motion prediction and risk assessment for intelligent vehicles, ROBOMECH Journal 2014. [[paper](https://robomechjournal.springeropen.com/track/pdf/10.1186/s40648-014-0001-z.pdf)]
 
-# Datasets
+# 🗂️ Datasets
 ## Vehicles Publicly Available Datasets
 * [Porto](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data), [website](https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge,+ECML+PKDD+2015)
 * [NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj)

@@ -9,6 +9,8 @@
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/5a250b453aca04ab3402b4d6279b215.png)
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/172b1087122e79c8a744c7acc9bea62.png)
 
+## 🤝 Contributions
+
 This is a list of the latest research materials (datasets, papers, and codes) related to traffic agent trajectory prediction. Continuously updated, welcome to pay attention!
 
 **Maintainers: Chaoneng Li (Xidian University)           Emails: xdchaonengli@163.com**
@@ -17,7 +19,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 
 ******
 
-# Table of Contents
+# 📜 Table of Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 - [**Traditional Methods**](#traditional-methods)

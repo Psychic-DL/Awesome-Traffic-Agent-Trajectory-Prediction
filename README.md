@@ -642,6 +642,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Scenario Diffusion: Controllable Driving Scenario Generation With Diffusion, NIPS 2023. [[paper](https://openreview.net/pdf?id=99MHSB98yZ)]
 * BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Prediction, NIPS 2023. [[paper](https://openreview.net/pdf?id=FOFJmR1oxt)]
 * Conditional Variational Inference for Multi-modal Trajectory Prediction with Latent Diffusion Prior, Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023). [[paper](https://link.springer.com/chapter/10.1007/978-981-99-7019-3_2)]
+* Language-Guided Traffic Simulation via Scene-Level Diffusion, CoRL 2023. [[paper](https://arxiv.org/pdf/2306.06344.pdf)]
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]

@@ -22,7 +22,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 # 📜 Table of Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-- [**Traditional Methods**](#traditional-methods)
+- [**📚 Traditional Methods**](#-traditional-methods)
 - [**2018 and Before Conference and Journal Papers**](#2018-and-before-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers)
 	- [Journal Papers](#journal-papers)
@@ -59,7 +59,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 
 ******
 
-# Traditional Methods
+# 📚 Traditional Methods
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
 * Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
 * Congested traffic states in empirical observations and microscopic simulations, Physical review E 2000. [[paper](https://arxiv.org/pdf/cond-mat/0002177.pdf)]

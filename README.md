@@ -689,6 +689,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning, arXiv preprint arXiv:2309.09021, 2023. [[paper](https://browse.arxiv.org/pdf/2309.09021.pdf)] [[code](https://github.com/sydney-machine-learning/pedestrianpathprediction)]
 * VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems, arXiv preprint arXiv:2311.06623, 2023. [[paper](https://arxiv.org/pdf/2311.06623.pdf)]
 * Learning Cooperative Trajectory Representations for Motion Forecasting, arXiv preprint arXiv:2311.00371, 2023. [[paper](https://arxiv.org/pdf/2311.00371.pdf)] [[code](https://github.com/AIR-THU/V2X-Graph)]
+* SceneDM: Scene-level Multi-agent Trajectory Generation with Consistent Diffusion Models, arXiv preprint arXiv:2311.15736, 2023. [[paper](https://arxiv.org/pdf/2311.15736.pdf)] [[website](https://alperen-hub.github.io/SceneDM/)]
 * DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving, arXiv preprint arXiv:2309.09777, 2023. [[paper](https://arxiv.org/pdf/2309.09777.pdf)] [[website](https://drivedreamer.github.io/)]
 * Language Prompt for Autonomous Driving, arXiv preprint arXiv:2309.04379, 2023. [[paper](https://arxiv.org/pdf/2309.04379.pdf)] [[code](https://github.com/wudongming97/Prompt4Driving)]
 * GAIA-1: A Generative World Model for Autonomous Driving, arXiv preprint arXiv:2309.17080, 2023. [[paper](https://browse.arxiv.org/pdf/2309.17080.pdf)] [[website](https://wayve.ai/thinking/scaling-gaia-1/)]
@@ -711,6 +712,8 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * LLM4Drive: A Survey of Large Language Models for Autonomous Driving, arXiv preprint arXiv:2311.01043, 2023. [[paper](https://arxiv.org/pdf/2311.01043.pdf)] [[code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)]
 * Vision Language Models in Autonomous Driving and Intelligent Transportation Systems, arXiv preprint arXiv:2310.14414, 2023. [[paper](https://arxiv.org/pdf/2310.14414.pdf)]
 * On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving, arXiv preprint arXiv:2311.05332, 2023. [[paper](https://arxiv.org/pdf/2311.05332.pdf)] [[code](https://github.com/PJLab-ADG/GPT4V-AD-Exploration)]
+* Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving, arXiv preprint arXiv:2311.17918, 2023. [[paper](https://arxiv.org/pdf/2311.17918.pdf)] [[code](https://github.com/BraveGroup/Drive-WM)] [[website](https://drive-wm.github.io/)]
+* A Survey on Multimodal Large Language Models for Autonomous Driving, arXiv preprint arXiv:2311.12320, 2023. [[paper](https://arxiv.org/pdf/2311.12320.pdf)] [[code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 
 # 📚 Related Review Papers
 * Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review, Expert Systems With Applications 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423024855)]

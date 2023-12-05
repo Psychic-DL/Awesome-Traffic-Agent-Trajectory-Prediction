@@ -49,7 +49,6 @@ Please feel free to pull requests to add new resources or send emails to us for 
 	- [Others](#others-2023)
 - [**📚 Related Review Papers**](#-related-review-papers)
 - [**🗂️ Datasets**](#-datasets)
-- [**🗂️ Datasets**](#-datasets)
 	- [Vehicles Publicly Available Datasets](#vehicles-publicly-available-datasets)
 	- [Pedestrians Publicly Available Datasets](#pedestrians-publicly-available-datasets)
 	- [Others Agents Datasets](#others-agents-datasets)

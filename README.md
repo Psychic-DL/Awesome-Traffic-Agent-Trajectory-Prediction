@@ -721,6 +721,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 
 # 📚 2024 Conference and Journal Papers
 ## Conference Papers 2024
+* NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
 ## Journal Papers 2024
 ## Others 2024
 

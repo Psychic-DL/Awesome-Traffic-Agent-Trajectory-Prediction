@@ -718,6 +718,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving, arXiv preprint arXiv:2311.05332, 2023. [[paper](https://arxiv.org/pdf/2311.05332.pdf)] [[code](https://github.com/PJLab-ADG/GPT4V-AD-Exploration)]
 * Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving, arXiv preprint arXiv:2311.17918, 2023. [[paper](https://arxiv.org/pdf/2311.17918.pdf)] [[code](https://github.com/BraveGroup/Drive-WM)] [[website](https://drive-wm.github.io/)]
 * A Survey on Multimodal Large Language Models for Autonomous Driving, arXiv preprint arXiv:2311.12320, 2023. [[paper](https://arxiv.org/pdf/2311.12320.pdf)] [[code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* Panacea: Panoramic and Controllable Video Generation for Autonomous Driving, arXiv preprint arXiv:2311.16813, 2023. [[paper](https://arxiv.org/pdf/2311.16813.pdf)] [[website](https://panacea-ad.github.io/)] [[code](https://github.com/wenyuqing/panacea)]
 
 # 📚 2024 Conference and Journal Papers
 ## Conference Papers 2024

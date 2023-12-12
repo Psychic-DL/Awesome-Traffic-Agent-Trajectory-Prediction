@@ -47,6 +47,10 @@ Please feel free to pull requests to add new resources or send emails to us for 
 	- [Conference Papers](#conference-papers-2023)
 	- [Journal Papers](#journal-papers-2023)
 	- [Others](#others-2023)
+- [**📚 2024 Conference and Journal Papers**](#-2024-conference-and-journal-papers)
+	- [Conference Papers](#conference-papers-2024)
+	- [Journal Papers](#journal-papers-2024)
+	- [Others](#others-2024)
 - [**📚 Related Review Papers**](#-related-review-papers)
 - [**📚 Datasets**](#-datasets)
 	- [Vehicles Publicly Available Datasets](#vehicles-publicly-available-datasets)
@@ -714,6 +718,11 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving, arXiv preprint arXiv:2311.05332, 2023. [[paper](https://arxiv.org/pdf/2311.05332.pdf)] [[code](https://github.com/PJLab-ADG/GPT4V-AD-Exploration)]
 * Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving, arXiv preprint arXiv:2311.17918, 2023. [[paper](https://arxiv.org/pdf/2311.17918.pdf)] [[code](https://github.com/BraveGroup/Drive-WM)] [[website](https://drive-wm.github.io/)]
 * A Survey on Multimodal Large Language Models for Autonomous Driving, arXiv preprint arXiv:2311.12320, 2023. [[paper](https://arxiv.org/pdf/2311.12320.pdf)] [[code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+
+# 📚 2024 Conference and Journal Papers
+## Conference Papers 2024
+## Journal Papers 2024
+## Others 2024
 
 # 📚 Related Review Papers
 * Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review, Expert Systems With Applications 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423024855)]

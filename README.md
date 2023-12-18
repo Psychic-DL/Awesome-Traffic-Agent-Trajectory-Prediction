@@ -731,6 +731,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 ## Others 2024
 
 # 📚 Related Review Papers
+* A Survey of Generative AI for Intelligent Transportation Systems, arXiv preprint arXiv:2312.08248, 2023. [[paper](https://arxiv.org/pdf/2312.08248.pdf)]
 * Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review, Expert Systems With Applications 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423024855)]
 * Data-driven Traffic Simulation: A Comprehensive Review, arXiv preprint arXiv:2310.15975, 2023. [[paper](https://arxiv.org/ftp/arxiv/papers/2310/2310.15975.pdf)]
 * Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]

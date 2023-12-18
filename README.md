@@ -652,6 +652,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Prediction, NIPS 2023. [[paper](https://openreview.net/pdf?id=FOFJmR1oxt)]
 * Conditional Variational Inference for Multi-modal Trajectory Prediction with Latent Diffusion Prior, Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023). [[paper](https://link.springer.com/chapter/10.1007/978-981-99-7019-3_2)]
 * Language-Guided Traffic Simulation via Scene-Level Diffusion, CoRL 2023. [[paper](https://arxiv.org/pdf/2306.06344.pdf)]
+* LightSim: Neural Lighting Simulation for Urban Scenes, NIPS 2023. [[paper](https://openreview.net/pdf?id=mcx8IGneYw)] [[website](https://waabi.ai/lightsim/)]
 
 ## Journal Papers 2023
 * MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]
@@ -719,6 +720,8 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving, arXiv preprint arXiv:2311.17918, 2023. [[paper](https://arxiv.org/pdf/2311.17918.pdf)] [[code](https://github.com/BraveGroup/Drive-WM)] [[website](https://drive-wm.github.io/)]
 * A Survey on Multimodal Large Language Models for Autonomous Driving, arXiv preprint arXiv:2311.12320, 2023. [[paper](https://arxiv.org/pdf/2311.12320.pdf)] [[code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 * Panacea: Panoramic and Controllable Video Generation for Autonomous Driving, arXiv preprint arXiv:2311.16813, 2023. [[paper](https://arxiv.org/pdf/2311.16813.pdf)] [[website](https://panacea-ad.github.io/)] [[code](https://github.com/wenyuqing/panacea)]
+* LMDrive: Closed-Loop End-to-End Driving with Large Language Models, arXiv preprint arXiv:2312.07488, 2023. [[paper](https://arxiv.org/pdf/2312.07488.pdf)] [[code](https://github.com/opendilab/LMDrive)]
+* BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, arXiv preprint arXiv:2312.06371, 2023. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
 
 # 📚 2024 Conference and Journal Papers
 ## Conference Papers 2024

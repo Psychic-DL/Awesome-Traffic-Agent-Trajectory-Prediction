@@ -723,6 +723,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * LMDrive: Closed-Loop End-to-End Driving with Large Language Models, arXiv preprint arXiv:2312.07488, 2023. [[paper](https://arxiv.org/pdf/2312.07488.pdf)] [[code](https://github.com/opendilab/LMDrive)]
 * DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving, arXiv preprint arXiv:2312.09245, 2023. [[paper](https://arxiv.org/pdf/2312.09245.pdf)] [[code](https://github.com/OpenGVLab/DriveMLM)]
 * Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning, arXiv preprint arXiv:2312.05230, NIPS Tutorial 2023. [[paper](https://arxiv.org/pdf/2312.05230.pdf)] [[website](https://sites.google.com/view/neurips2023law)]
+* Dolphins: Multimodal Language Model for Driving, arXiv preprint arXiv:2312.00438, 2023. [[paper](https://arxiv.org/pdf/2312.00438.pdf)] [[website](https://vlm-driver.github.io/)]
 
 # 📚 2024 Conference and Journal Papers
 ## Conference Papers 2024

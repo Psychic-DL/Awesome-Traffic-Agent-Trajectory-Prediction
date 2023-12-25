@@ -677,6 +677,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * MFAN: Mixing Feature Attention Network for Trajectory Prediction, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323006957#abs0001)]
 * IE-GAN: a data-driven crowd simulation method via generative adversarial networks, Multimedia Tools and Applications. [[paper](https://link.springer.com/article/10.1007/s11042-023-17346-x)]
 * Trajectory Distribution Aware Graph Convolutional Network for Trajectory Prediction Considering Spatio-temporal Interactions and Scene Information, TKDE. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309163)]
+* Map-free Trajectory Prediction in Traffic with Multi-level Spatial-temporal Modeling, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10356823)]
 
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
@@ -724,6 +725,8 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving, arXiv preprint arXiv:2312.09245, 2023. [[paper](https://arxiv.org/pdf/2312.09245.pdf)] [[code](https://github.com/OpenGVLab/DriveMLM)]
 * Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning, arXiv preprint arXiv:2312.05230, NIPS Tutorial 2023. [[paper](https://arxiv.org/pdf/2312.05230.pdf)] [[website](https://sites.google.com/view/neurips2023law)]
 * Dolphins: Multimodal Language Model for Driving, arXiv preprint arXiv:2312.00438, 2023. [[paper](https://arxiv.org/pdf/2312.00438.pdf)] [[website](https://vlm-driver.github.io/)]
+* DriveLM: Driving with Graph Visual Question Answering, arXiv preprint arXiv:2312.14150, 2023. [[paper](https://arxiv.org/pdf/2312.14150.pdf)] [[code](https://github.com/OpenDriveLab/DriveLM)]
+* LingoQA: Video Question Answering for Autonomous Driving, arXiv preprint arXiv:2312.14115, 2023. [[paper](https://arxiv.org/pdf/2312.14115.pdf)] [[code](https://github.com/wayveai/LingoQA)]
 
 # 📚 2024 Conference and Journal Papers
 ## Conference Papers 2024

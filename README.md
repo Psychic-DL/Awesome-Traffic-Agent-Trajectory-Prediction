@@ -725,7 +725,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving, arXiv preprint arXiv:2312.09245, 2023. [[paper](https://arxiv.org/pdf/2312.09245.pdf)] [[code](https://github.com/OpenGVLab/DriveMLM)]
 * Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning, arXiv preprint arXiv:2312.05230, NIPS Tutorial 2023. [[paper](https://arxiv.org/pdf/2312.05230.pdf)] [[website](https://sites.google.com/view/neurips2023law)]
 * Dolphins: Multimodal Language Model for Driving, arXiv preprint arXiv:2312.00438, 2023. [[paper](https://arxiv.org/pdf/2312.00438.pdf)] [[website](https://vlm-driver.github.io/)]
-* DriveLM: Driving with Graph Visual Question Answering, arXiv preprint arXiv:2312.14150, 2023. [[paper](https://arxiv.org/pdf/2312.14150.pdf)] [[code](https://github.com/OpenDriveLab/DriveLM)]
+* DriveLM: Driving with Graph Visual Question Answering, arXiv preprint arXiv:2312.14150, 2023. [[paper](https://arxiv.org/pdf/2312.14150.pdf)] [[code](https://github.com/OpenDriveLab/DriveLM)] [[website](https://opendrivelab.github.io/DriveLM)]
 * LingoQA: Video Question Answering for Autonomous Driving, arXiv preprint arXiv:2312.14115, 2023. [[paper](https://arxiv.org/pdf/2312.14115.pdf)] [[code](https://github.com/wayveai/LingoQA)]
 
 # 📚 2024 Conference and Journal Papers

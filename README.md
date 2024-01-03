@@ -680,6 +680,8 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * Trajectory Distribution Aware Graph Convolutional Network for Trajectory Prediction Considering Spatio-temporal Interactions and Scene Information, TKDE. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309163)]
 * Map-free Trajectory Prediction in Traffic with Multi-level Spatial-temporal Modeling, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10356823)]
 * STIGCN: Spatial-Temporal Interaction-aware Graph Convolution Network for Pedestrian Trajectory Prediction, The Journal of Supercomputing. [[paper](https://link.springer.com/article/10.1007/s11227-023-05850-8)] [[code](https://github.com/Chenwangxing/STIGCN_master)]
+* Stochastic Non-Autoregressive Transformer-Based Multi-Modal Pedestrian Trajectory Prediction for Intelligent Vehicles, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10367756)] [[code](https://github.com/xbchen82/SNARTF)]
+* Trajectory Prediction for Autonomous Driving Based on Structural Informer Method, IEEE Transactions on Automation Science and Engineering. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10364872)]
 
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]

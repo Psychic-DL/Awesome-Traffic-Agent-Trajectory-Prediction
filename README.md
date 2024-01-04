@@ -53,7 +53,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 	- [Others](#others-2024)
 - [**📚 Related Review Papers**](#-related-review-papers)
 - [**📚 Datasets**](#-datasets)
-  	- [Review about Datasets](#review-about-datasets)
+  	- [Reviews about Datasets](#reviews-about-datasets)
 	- [Vehicles Publicly Available Datasets](#vehicles-publicly-available-datasets)
 	- [Pedestrians Publicly Available Datasets](#pedestrians-publicly-available-datasets)
 	- [Others Agents Datasets](#others-agents-datasets)
@@ -782,7 +782,10 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * A survey on motion prediction and risk assessment for intelligent vehicles, ROBOMECH Journal 2014. [[paper](https://robomechjournal.springeropen.com/track/pdf/10.1186/s40648-014-0001-z.pdf)]
 
 # 📚 Datasets
-## Review about Datasets
+## Reviews about Datasets
+* A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook, arXiv preprint arXiv:2401.01454, 2024. [[paper](https://arxiv.org/pdf/2401.01454.pdf)]
+* Open-sourced Data Ecosystem in Autonomous Driving: the Present and Future, arXiv preprint arXiv:2312.03408, 2023. [[paper](https://arxiv.org/pdf/2312.03408.pdf)] [[Chinese](https://opendrivelab.com/Dataset_Survey_Chinese.pdf)] [[code](https://github.com/OpenDriveLab/DriveAGI)]
+
 ## Vehicles Publicly Available Datasets
 * [Porto](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data), [website](https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge,+ECML+PKDD+2015)
 * [NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj)

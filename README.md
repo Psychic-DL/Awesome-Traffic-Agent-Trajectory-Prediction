@@ -741,6 +741,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
 ## Journal Papers 2024
 ## Others 2024
+* Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
 
 # 📚 Related Review Papers
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]

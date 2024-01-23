@@ -742,6 +742,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 ## Journal Papers 2024
 ## Others 2024
 * Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
+* Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]
 
 # 📚 Related Review Papers
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]

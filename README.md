@@ -740,6 +740,7 @@ Please feel free to pull requests to add new resources or send emails to us for 
 * BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
 * NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
 ## Journal Papers 2024
+* SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 ## Others 2024
 * Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
 * Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]

@@ -855,6 +855,15 @@ Please consider citing our papers if this repository accelerates your research:
   year={2022},
   organization={IEEE}
 }
+@article{li2024difftad,
+  title={DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection},
+  author={Li, Chaoneng and Feng, Guanwen and Li, Yunan and Liu, Ruyi and Miao, Qiguang and Chang, Liang},
+  journal={Knowledge-Based Systems},
+  volume={286},
+  pages={111387},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 
 # 🌟 Star History

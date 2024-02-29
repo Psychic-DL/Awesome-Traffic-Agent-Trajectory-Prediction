@@ -17,6 +17,27 @@ This is a list of the latest research materials (datasets, papers, and codes) re
 
 Please feel free to pull requests to add new resources or send emails to us for questions, discussions, and collaborations. **We would like to connect more students, teachers, and bigwigs in the field of multi-agent trajectory prediction, and if you would like to do the same, you can add me on WeChat (CN15691969157). Let's create the Trajectory Prediction Community Group together!**
 
+# 🧐 Citation
+Please consider citing our papers if this repository accelerates your research:
+```
+@inproceedings{li2022fidelity,
+  title={Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection},
+  author={Li, Chaoneng and Chao, Qianwen and Feng, Guanwen and Wang, Qiongyan and Liu, Pengfei and Li, Yunan and Miao, Qiguang},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8157--8164},
+  year={2022},
+  organization={IEEE}
+}
+@article{li2024difftad,
+  title={DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection},
+  author={Li, Chaoneng and Feng, Guanwen and Li, Yunan and Liu, Ruyi and Miao, Qiguang and Chang, Liang},
+  journal={Knowledge-Based Systems},
+  volume={286},
+  pages={111387},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 ******
 
 # 📜 Table of Contents
@@ -843,28 +864,6 @@ Please feel free to pull requests to add new resources or send emails to us for 
 
 # 🌹 Acknowledgments
 We are grateful to the authors and developers who provided the papers, the open-source code, and the project website! Thank you for your positive contributions to the agent trajectory prediction community. Your thoughts and contributions are a green signal for us. If you have suggestions or additional insights, feel free to open an issue or submit a pull request.
-
-# 🧐 Citation
-Please consider citing our papers if this repository accelerates your research:
-```
-@inproceedings{li2022fidelity,
-  title={Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection},
-  author={Li, Chaoneng and Chao, Qianwen and Feng, Guanwen and Wang, Qiongyan and Liu, Pengfei and Li, Yunan and Miao, Qiguang},
-  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={8157--8164},
-  year={2022},
-  organization={IEEE}
-}
-@article{li2024difftad,
-  title={DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection},
-  author={Li, Chaoneng and Feng, Guanwen and Li, Yunan and Liu, Ruyi and Miao, Qiguang and Chang, Liang},
-  journal={Knowledge-Based Systems},
-  volume={286},
-  pages={111387},
-  year={2024},
-  publisher={Elsevier}
-}
-```
 
 # 🌟 Star History
 

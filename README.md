@@ -82,7 +82,6 @@ Please consider citing our papers if this repository accelerates your research:
 		- [Ship](#ship)
 		- [Hurricane and Animal](#hurricane-and-animal)
 - [**🌹 Acknowledgments**](#-acknowledgments)
-- [**🧐 Citation**](#-citation)
 - [**🌟 Star History**](#-star-history)
 	<!-- /TOC -->
 

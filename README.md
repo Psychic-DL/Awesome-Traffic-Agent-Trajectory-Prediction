@@ -760,6 +760,8 @@ Please consider citing our papers if this repository accelerates your research:
 * BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
 * NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
 * Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA 2024. [[paper](https://arxiv.org/abs/2402.04318)]
+* Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction, CVPR 2024. [[code](https://github.com/InhwanBae/LMTrajectory)]
+* SingularTrajectory: Universal Trajectory Predictor using Diffusion Model, CVPR 2024. [[code](https://github.com/InhwanBae/SingularTrajectory)]
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]

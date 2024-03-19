@@ -767,6 +767,7 @@ Please consider citing our papers if this repository accelerates your research:
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
 * EMSIN: Enhanced Multi-Stream Interaction Network for Vehicle Trajectory Prediction, IEEE Transactions on Fuzzy Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10418557)]
 * Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415371)]
+* Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873.pdf)] [[code](https://github.com/xupei0610/ContextVAE)]
 ## Others 2024
 * Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
 * Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]

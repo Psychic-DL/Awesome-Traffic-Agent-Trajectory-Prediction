@@ -762,6 +762,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA 2024. [[paper](https://arxiv.org/abs/2402.04318)]
 * Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction, CVPR 2024. [[code](https://github.com/InhwanBae/LMTrajectory)]
 * SingularTrajectory: Universal Trajectory Predictor using Diffusion Model, CVPR 2024. [[code](https://github.com/InhwanBae/SingularTrajectory)]
+* Exploring Large Language Models for Trajectory Prediction: A Technical Perspective, ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024). [[paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3640625)]
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
@@ -772,6 +773,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
 * Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, arXiv preprint arXiv:2403.09190, 2024. [[paper](https://arxiv.org/pdf/2403.09190.pdf)]
+* LG-Traj: LLM Guided Pedestrian Trajectory Prediction, arXiv preprint arXiv:2403.08032, 2024. [[paper](https://arxiv.org/pdf/2403.08032.pdf)]
 
 # 📚 Related Review Papers
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]

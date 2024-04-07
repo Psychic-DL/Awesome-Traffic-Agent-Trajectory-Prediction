@@ -764,6 +764,8 @@ Please consider citing our papers if this repository accelerates your research:
 * SingularTrajectory: Universal Trajectory Predictor using Diffusion Model, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18452)] [[code](https://github.com/InhwanBae/SingularTrajectory)]
 * Producing and Leveraging Online Map Uncertainty in Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.16439.pdf)] [[code](https://github.com/alfredgu001324/MapUncertaintyPrediction)]
 * Exploring Large Language Models for Trajectory Prediction: A Technical Perspective, ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024). [[paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3640625)]
+* SpectrumNet: Spectrum-Based Trajectory Encode Neural Network for Pedestrian Trajectory Prediction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). [[paper](https://ieeexplore.ieee.org/abstract/document/10446706)]
+* MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow, ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10448062)]
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]

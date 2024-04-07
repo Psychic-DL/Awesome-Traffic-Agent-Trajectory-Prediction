@@ -768,6 +768,9 @@ Please consider citing our papers if this repository accelerates your research:
 * T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.10052.pdf)] [[code](https://github.com/daeheepark/T4P)]
 * SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2310.05370.pdf)] [[code](https://github.com/cocoon2wong/SocialCircle)]
 * Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving, CVPR 2024. [[paper](https://arxiv.org/pdf/2306.15755.pdf)]
+* CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving, CVPR 2024.
+* Higher-order Relational Reasoning for Pedestrian Trajectory Prediction, CVPR 2024.
+* Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction, CVPR 2024.
 * OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.02227.pdf)] [[code](https://github.com/Hai-chao-Zhang/OOSTraj)]
 * Exploring Large Language Models for Trajectory Prediction: A Technical Perspective, ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024). [[paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3640625)]
 * SpectrumNet: Spectrum-Based Trajectory Encode Neural Network for Pedestrian Trajectory Prediction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). [[paper](https://ieeexplore.ieee.org/abstract/document/10446706)]

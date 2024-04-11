@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Trajectory-Prediction
-![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.03-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF) ![](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
+![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.04-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF) ![](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
 
 
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/8189c63cf7894232e1573be4c217653.png)
@@ -763,7 +763,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18447)] [[code](https://github.com/InhwanBae/LMTrajectory)]
 * SingularTrajectory: Universal Trajectory Predictor using Diffusion Model, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18452)] [[code](https://github.com/InhwanBae/SingularTrajectory)]
 * Producing and Leveraging Online Map Uncertainty in Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.16439.pdf)] [[code](https://github.com/alfredgu001324/MapUncertaintyPrediction)]
-* HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention, CVPR 2024. [[code](https://github.com/XiaolongTang23/HPNet)]
+* HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.06351.pdf)] [[code](https://github.com/XiaolongTang23/HPNet)]
 * Adapting to Length Shift: FlexiLength Network for Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.00742.pdf)]
 * T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.10052.pdf)] [[code](https://github.com/daeheepark/T4P)]
 * SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2310.05370.pdf)] [[code](https://github.com/cocoon2wong/SocialCircle)]

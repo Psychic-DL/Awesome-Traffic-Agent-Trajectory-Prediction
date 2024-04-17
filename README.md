@@ -878,6 +878,7 @@ Please consider citing our papers if this repository accelerates your research:
 * [JAAD](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
 * [DS4C-PPP](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset)
 * [BDBC COVID-19](https://github.com/BDBC-KG-NLP/COVID-19-tracker)
+* [Vi-Fi](https://sites.google.com/winlab.rutgers.edu/vi-fidataset/home)
 ## Others Agents Datasets
 ### Aircraft
 * [LocaRDS](https://atmdata.github.io/)

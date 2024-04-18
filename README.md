@@ -754,6 +754,8 @@ Please consider citing our papers if this repository accelerates your research:
 * Dolphins: Multimodal Language Model for Driving, arXiv preprint arXiv:2312.00438, 2023. [[paper](https://arxiv.org/pdf/2312.00438.pdf)] [[website](https://vlm-driver.github.io/)]
 * DriveLM: Driving with Graph Visual Question Answering, arXiv preprint arXiv:2312.14150, 2023. [[paper](https://arxiv.org/pdf/2312.14150.pdf)] [[code](https://github.com/OpenDriveLab/DriveLM)] [[website](https://opendrivelab.github.io/DriveLM)]
 * LingoQA: Video Question Answering for Autonomous Driving, arXiv preprint arXiv:2312.14115, 2023. [[paper](https://arxiv.org/pdf/2312.14115.pdf)] [[code](https://github.com/wayveai/LingoQA)]
+* ViFiT: Reconstructing Vision Trajectories from IMU and Wi-Fi Fine Time Measurements, arXiv preprint arXiv:2310.03140, MobiCom ISACom Workshop 2023. [[paper](https://dl.acm.org/doi/10.1145/3615984.3616503)] [[code](https://github.com/bryanbocao/vifit)]
+
 
 # 📚 2024 Conference and Journal Papers
 ## Conference Papers 2024
@@ -876,6 +878,7 @@ Please consider citing our papers if this repository accelerates your research:
 * [JAAD](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
 * [DS4C-PPP](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset)
 * [BDBC COVID-19](https://github.com/BDBC-KG-NLP/COVID-19-tracker)
+* [Vi-Fi](https://sites.google.com/winlab.rutgers.edu/vi-fidataset/home)
 ## Others Agents Datasets
 ### Aircraft
 * [LocaRDS](https://atmdata.github.io/)

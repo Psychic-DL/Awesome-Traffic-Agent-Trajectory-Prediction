@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Trajectory-Prediction
-![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.04-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF) ![](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
+![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.05-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF) ![](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
 
 
 ![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/8189c63cf7894232e1573be4c217653.png)
@@ -792,6 +792,7 @@ Please consider citing our papers if this repository accelerates your research:
 * LG-Traj: LLM Guided Pedestrian Trajectory Prediction, arXiv preprint arXiv:2403.08032, 2024. [[paper](https://arxiv.org/pdf/2403.08032.pdf)]
 * UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction, arXiv preprint arXiv:2403.15098, 2024. [[paper](https://arxiv.org/pdf/2403.15098.pdf)] [[code](https://github.com/vita-epfl/UniTraj)]
 * Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion, arXiv preprint arXiv:2404.02524, 2024. [[paper](https://arxiv.org/pdf/2404.02524.pdf)] [[code](https://sites.google.com/view/versatile-behavior-diffusion)]
+* ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, arXiv preprint arXiv:2404.15380, 2024. [[paper](https://arxiv.org/pdf/2404.15380)]
 
 # 📚 Related Review Papers
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]

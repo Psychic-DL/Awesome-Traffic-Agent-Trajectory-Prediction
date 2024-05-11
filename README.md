@@ -775,6 +775,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction, CVPR 2024.
 * OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.02227.pdf)] [[code](https://github.com/Hai-chao-Zhang/OOSTraj)]
 * MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving, IJCAI 2024. [[paper](https://arxiv.org/pdf/2405.01266)]
+* Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving, IJCAI 2024. [[paper](https://arxiv.org/pdf/2405.02145)]
 * Exploring Large Language Models for Trajectory Prediction: A Technical Perspective, ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024). [[paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3640625)]
 * SpectrumNet: Spectrum-Based Trajectory Encode Neural Network for Pedestrian Trajectory Prediction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). [[paper](https://ieeexplore.ieee.org/abstract/document/10446706)]
 * MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow, ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10448062)]

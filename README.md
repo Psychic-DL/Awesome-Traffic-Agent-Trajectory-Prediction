@@ -792,6 +792,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, arXiv preprint arXiv:2403.09190, 2024. [[paper](https://arxiv.org/pdf/2403.09190.pdf)]
 * LG-Traj: LLM Guided Pedestrian Trajectory Prediction, arXiv preprint arXiv:2403.08032, 2024. [[paper](https://arxiv.org/pdf/2403.08032.pdf)]
+* Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models, arXiv preprint arXiv:2405.04909, 2024. [[paper](https://arxiv.org/pdf/2405.04909)]
 * UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction, arXiv preprint arXiv:2403.15098, 2024. [[paper](https://arxiv.org/pdf/2403.15098.pdf)] [[code](https://github.com/vita-epfl/UniTraj)]
 * Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion, arXiv preprint arXiv:2404.02524, 2024. [[paper](https://arxiv.org/pdf/2404.02524.pdf)] [[code](https://sites.google.com/view/versatile-behavior-diffusion)]
 * ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, arXiv preprint arXiv:2404.15380, 2024. [[paper](https://arxiv.org/pdf/2404.15380)]

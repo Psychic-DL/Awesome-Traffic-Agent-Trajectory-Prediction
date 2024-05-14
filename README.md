@@ -662,6 +662,7 @@ Please consider citing our papers if this repository accelerates your research:
 * BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction, ICCV 2023. [[paper](https://arxiv.org/abs/2211.14304)] [[code](https://github.com/BarqueroGerman/BeLFusion)]
 * EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting, ICCV 2023. [[paper](https://arxiv.org/abs/2307.09306)] [[code](https://github.com/InhwanBae/EigenTrajectory)]
 * ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation, ICCV 2023. [[paper](https://arxiv.org/pdf/2307.14187.pdf)] [[code](https://kuis-ai.github.io/adapt/)]
+* Evaluation of Differentially Constrained Motion Models for Graph-Based Trajectory Prediction, IV 2023. [[paper](https://arxiv.org/abs/2304.05116)] [[code](https://github.com/westny/mtp-go)]
 * LimSim: A Long-term Interactive Multi-scenario Traffic Simulator, ITSC 2023. [[paper](https://arxiv.org/pdf/2307.06648.pdf)] [[code](https://github.com/PJLab-ADG/LimSim)]
 * V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_V2X-Seq_A_Large-Scale_Sequential_Dataset_for_Vehicle-Infrastructure_Cooperative_Perception_and_CVPR_2023_paper.pdf)] [[code](https://github.com/AIR-THU/DAIR-V2X-Seq)]
 * INT2: Interactive Trajectory Prediction at Intersections, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_INT2_Interactive_Trajectory_Prediction_at_Intersections_ICCV_2023_paper.pdf)] [[code](https://github.com/AIR-DISCOVER/INT2)]
@@ -703,6 +704,7 @@ Please consider citing our papers if this repository accelerates your research:
 * STIGCN: Spatial-Temporal Interaction-aware Graph Convolution Network for Pedestrian Trajectory Prediction, The Journal of Supercomputing. [[paper](https://link.springer.com/article/10.1007/s11227-023-05850-8)] [[code](https://github.com/Chenwangxing/STIGCN_master)]
 * Stochastic Non-Autoregressive Transformer-Based Multi-Modal Pedestrian Trajectory Prediction for Intelligent Vehicles, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10367756)] [[code](https://github.com/xbchen82/SNARTF)]
 * Trajectory Prediction for Autonomous Driving Based on Structural Informer Method, IEEE Transactions on Automation Science and Engineering. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10364872)]
+* MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with Neural ODEs, IEEE Transactions on Intelligent Vehicles. [[paper](https://arxiv.org/abs/2302.00735)] [[code](https://github.com/westny/mtp-go)]
 
 ## Others 2023
 * Traj-MAE: Masked Autoencoders for Trajectory Prediction, arXiv preprint arXiv:2303.06697, 2023. [[paper](https://arxiv.org/pdf/2303.06697.pdf)]
@@ -796,6 +798,8 @@ Please consider citing our papers if this repository accelerates your research:
 * UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction, arXiv preprint arXiv:2403.15098, 2024. [[paper](https://arxiv.org/pdf/2403.15098.pdf)] [[code](https://github.com/vita-epfl/UniTraj)]
 * Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion, arXiv preprint arXiv:2404.02524, 2024. [[paper](https://arxiv.org/pdf/2404.02524.pdf)] [[code](https://sites.google.com/view/versatile-behavior-diffusion)]
 * ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, arXiv preprint arXiv:2404.15380, 2024. [[paper](https://arxiv.org/pdf/2404.15380)]
+* Diffusion-Based Environment-Aware Trajectory Prediction, arXiv preprint arXiv:2403.11643, 2024. [[paper](https://arxiv.org/abs/2403.11643)]
+* A Preprocessing and Evaluation Toolbox for Trajectory Prediction Research on the Drone Datasets, arXiv preprint arXiv:2405.00604, 2024. [[paper](https://arxiv.org/abs/2405.00604)] [[code](https://github.com/westny/dronalize)]
 
 # 📚 Related Review Papers
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]
@@ -852,6 +856,7 @@ Please consider citing our papers if this repository accelerates your research:
 * [rounD](https://www.round-dataset.com/)
 * [uniD](https://www.unid-dataset.com/)
 * [exiD](https://www.exid-dataset.com/)
+* [Dronalize](https://github.com/westny/dronalize)
 * [Mirror-Traffic](http://www.scenarios.cn/html/dataset.html)
 * [Argoverse Website](https://www.argoverse.org/), [Argoverse 1](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf), [Argoverse 2](https://arxiv.org/pdf/2301.00493.pdf)
 * [ApolloScape](http://apolloscape.auto/trajectory.html)

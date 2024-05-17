@@ -802,6 +802,7 @@ Please consider citing our papers if this repository accelerates your research:
 * A Preprocessing and Evaluation Toolbox for Trajectory Prediction Research on the Drone Datasets, arXiv preprint arXiv:2405.00604, 2024. [[paper](https://arxiv.org/abs/2405.00604)] [[code](https://github.com/westny/dronalize)]
 
 # 📚 Related Review Papers
+* Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving, TIV 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528911)]
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]
 * A Survey of Generative AI for Intelligent Transportation Systems, arXiv preprint arXiv:2312.08248, 2023. [[paper](https://arxiv.org/pdf/2312.08248.pdf)]
 * Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review, Expert Systems With Applications 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423024855)]

@@ -802,6 +802,8 @@ Please consider citing our papers if this repository accelerates your research:
 * ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, arXiv preprint arXiv:2404.15380, 2024. [[paper](https://arxiv.org/pdf/2404.15380)]
 * Diffusion-Based Environment-Aware Trajectory Prediction, arXiv preprint arXiv:2403.11643, 2024. [[paper](https://arxiv.org/abs/2403.11643)]
 * A Preprocessing and Evaluation Toolbox for Trajectory Prediction Research on the Drone Datasets, arXiv preprint arXiv:2405.00604, 2024. [[paper](https://arxiv.org/abs/2405.00604)] [[code](https://github.com/westny/dronalize)]
+* BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction, arXiv preprint arXiv:2405.17372, 2024. [[paper](https://arxiv.org/pdf/2405.17372)]
+
 
 # 📚 Related Review Papers
 * Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving, TIV 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528911)]

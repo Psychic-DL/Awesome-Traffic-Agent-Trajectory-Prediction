@@ -776,6 +776,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Higher-order Relational Reasoning for Pedestrian Trajectory Prediction, CVPR 2024.
 * Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction, CVPR 2024.
 * OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.02227.pdf)] [[code](https://github.com/Hai-chao-Zhang/OOSTraj)]
+* SmartRefine: A Scenario-Adaptive Refinement Framework for Efficient Motion Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.11492)] [[code](https://github.com/opendilab/SmartRefine)]
 * MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving, IJCAI 2024. [[paper](https://arxiv.org/pdf/2405.01266)]
 * Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving, IJCAI 2024. [[paper](https://arxiv.org/pdf/2405.02145)]
 * A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environment, IJCAI 2024. [[paper](https://arxiv.org/pdf/2404.17520)]

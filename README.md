@@ -804,6 +804,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Diffusion-Based Environment-Aware Trajectory Prediction, arXiv preprint arXiv:2403.11643, 2024. [[paper](https://arxiv.org/abs/2403.11643)]
 * A Preprocessing and Evaluation Toolbox for Trajectory Prediction Research on the Drone Datasets, arXiv preprint arXiv:2405.00604, 2024. [[paper](https://arxiv.org/abs/2405.00604)] [[code](https://github.com/westny/dronalize)]
 * BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction, arXiv preprint arXiv:2405.17372, 2024. [[paper](https://arxiv.org/pdf/2405.17372)]
+* Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability, arXiv preprint arXiv:2405.17398, 2024. [[paper](https://arxiv.org/pdf/2405.17398)] [[code](https://github.com/OpenDriveLab/Vista)]
 
 
 # 📚 Related Review Papers

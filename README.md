@@ -674,6 +674,7 @@ Please consider citing our papers if this repository accelerates your research:
 * BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Prediction, NIPS 2023. [[paper](https://openreview.net/pdf?id=FOFJmR1oxt)]
 * Conditional Variational Inference for Multi-modal Trajectory Prediction with Latent Diffusion Prior, Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023). [[paper](https://link.springer.com/chapter/10.1007/978-981-99-7019-3_2)]
 * Language-Guided Traffic Simulation via Scene-Level Diffusion, CoRL 2023. [[paper](https://arxiv.org/pdf/2306.06344.pdf)]
+* Language Conditioned Traffic Generation, CoRL 2023. [[paper](https://arxiv.org/pdf/2307.07947)] [[code](https://ariostgx.github.io/lctgen/)]
 * LightSim: Neural Lighting Simulation for Urban Scenes, NIPS 2023. [[paper](https://openreview.net/pdf?id=mcx8IGneYw)] [[website](https://waabi.ai/lightsim/)]
 * What Truly Matters in Trajectory Prediction for Autonomous Driving? NIPS 2023. [[paper](https://arxiv.org/pdf/2306.15136.pdf)] [[code](https://whatmatters23.github.io/)]
 

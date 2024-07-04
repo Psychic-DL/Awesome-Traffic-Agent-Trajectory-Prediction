@@ -810,6 +810,7 @@ Please consider citing our papers if this repository accelerates your research:
 * UrbanGPT: Spatio-Temporal Large Language Models, arXiv preprint arXiv:2403.00813, 2024. [[paper](https://arxiv.org/pdf/2403.00813)] [[code](https://github.com/HKUDS/UrbanGPT)]
 * Continuously Learning, Adapting, and, Improving: A Dual-Process Approach to Autonomous Driving, arXiv preprint arXiv:2405.15324, 2024. [[paper](https://arxiv.org/pdf/2405.15324)] [[code](https://github.com/PJLab-ADG/LeapAD)]
 * DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models, arXiv preprint arXiv:2402.12289, 2024. [[paper](https://arxiv.org/pdf/2402.12289)] [[website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
+* NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking, arXiv preprint arXiv:2406.15349, 2024. [[paper](https://arxiv.org/pdf/2406.15349)] [[code](https://github.com/autonomousvision/navsim)]
 
 
 # 📚 Related Review Papers

@@ -811,6 +811,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Continuously Learning, Adapting, and, Improving: A Dual-Process Approach to Autonomous Driving, arXiv preprint arXiv:2405.15324, 2024. [[paper](https://arxiv.org/pdf/2405.15324)] [[code](https://github.com/PJLab-ADG/LeapAD)]
 * DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models, arXiv preprint arXiv:2402.12289, 2024. [[paper](https://arxiv.org/pdf/2402.12289)] [[website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
 * NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking, arXiv preprint arXiv:2406.15349, 2024. [[paper](https://arxiv.org/pdf/2406.15349)] [[code](https://github.com/autonomousvision/navsim)]
+* SimGen: Simulator-conditioned Driving Scene Generation, arXiv preprint arXiv:2406.09386, 2024. [[paper](https://arxiv.org/pdf/2406.09386)] [[code](https://metadriverse.github.io/simgen/)]
 
 
 # 📚 Related Review Papers

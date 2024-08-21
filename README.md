@@ -13,7 +13,7 @@
 
 This is a list of the latest research materials (datasets, papers, and codes) related to traffic agent trajectory prediction. Continuously updated, welcome to pay attention!
 
-**Maintainers: Chaoneng Li (Xidian University)           Emails: xdchaonengli@163.com**
+**Maintainers: Chaoneng Li (Lanzhou Jiaotong University)           Emails: xdchaonengli@163.com**
 
 Please feel free to pull requests to add new resources or send emails to us for questions, discussions, and collaborations. **We would like to connect more students, teachers, and bigwigs in the field of multi-agent trajectory prediction, and if you would like to do the same, you can add me on WeChat (CN15691969157). Let's create the Trajectory Prediction Community Group together!**
 

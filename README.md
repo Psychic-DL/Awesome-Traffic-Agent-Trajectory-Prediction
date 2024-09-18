@@ -814,6 +814,7 @@ Please consider citing our papers if this repository accelerates your research:
 * NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking, arXiv preprint arXiv:2406.15349, 2024. [[paper](https://arxiv.org/pdf/2406.15349)] [[code](https://github.com/autonomousvision/navsim)]
 * SimGen: Simulator-conditioned Driving Scene Generation, arXiv preprint arXiv:2406.09386, 2024. [[paper](https://arxiv.org/pdf/2406.09386)] [[code](https://metadriverse.github.io/simgen/)]
 * GenAD: Generative End-to-End Autonomous Driving, arXiv preprint arXiv:2402.11502, 2024. [[paper](https://arxiv.org/pdf/2402.11502)] [[code](https://github.com/wzzheng/GenAD)]
+* LCSim: A Large-Scale Controllable Traffic Simulator, arXiv preprint arXiv:2406.19781, 2024. [[paper](https://arxiv.org/pdf/2406.19781)] [[code](https://github.com/tsinghua-fib-lab/LCSim)]
 
 
 # 📚 Related Review Papers

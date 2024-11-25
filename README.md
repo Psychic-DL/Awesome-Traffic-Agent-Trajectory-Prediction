@@ -820,6 +820,7 @@ Please consider citing our papers if this repository accelerates your research:
 * LCSim: A Large-Scale Controllable Traffic Simulator, arXiv preprint arXiv:2406.19781, 2024. [[paper](https://arxiv.org/pdf/2406.19781)] [[code](https://github.com/tsinghua-fib-lab/LCSim)]
 * Strada-LLM: Graph LLM for traffic prediction, arXiv preprint arXiv:2410.20856, 2024. [[paper](https://arxiv.org/pdf/2410.20856)]
 * MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos, arXiv preprint arXiv:2409.02638, 2024. [[paper](https://arxiv.org/pdf/2409.02638)] [[code](https://irmvlab.github.io/madiff.github.io/)]
+* Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning, arXiv preprint arXiv:2410.05582, 2024. [[paper](https://arxiv.org/pdf/2410.05582)] [[code](https://mczhi.github.io/GenDrive)]
 
 
 # 📚 Related Review Papers

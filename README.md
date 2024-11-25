@@ -788,6 +788,7 @@ Please consider citing our papers if this repository accelerates your research:
 * SpectrumNet: Spectrum-Based Trajectory Encode Neural Network for Pedestrian Trajectory Prediction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). [[paper](https://ieeexplore.ieee.org/abstract/document/10446706)]
 * MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow, ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10448062)]
 * Promptable Closed-loop Traffic Simulation, CoRL 2024. [[paper](https://arxiv.org/pdf/2409.05863)] [[code](https://ariostgx.github.io/ProSim/)]
+* TrajCLIP: Pedestrian Trajectory Prediction Method Using Contrastive Learning and Idempotent Networks, NIPS 2024. [[paper](https://openreview.net/pdf?id=fUBFy8tb3z)]
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]

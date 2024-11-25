@@ -789,6 +789,10 @@ Please consider citing our papers if this repository accelerates your research:
 * MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow, ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10448062)]
 * Promptable Closed-loop Traffic Simulation, CoRL 2024. [[paper](https://arxiv.org/pdf/2409.05863)] [[code](https://ariostgx.github.io/ProSim/)]
 * TrajCLIP: Pedestrian Trajectory Prediction Method Using Contrastive Learning and Idempotent Networks, NIPS 2024. [[paper](https://openreview.net/pdf?id=fUBFy8tb3z)]
+* Pedestrian Trajectory Prediction with Missing Data: Datasets, Imputation, and Benchmarking, NIPS 2024. [[paper](https://arxiv.org/pdf/2411.00174)] [[code](https://github.com/Pranav-chib/TrajImpute)]
+* LaKD: Length-agnostic Knowledge Distillation for Trajectory Prediction with Any Length Observations, NIPS 2024. [[paper](https://openreview.net/pdf/7cf0348cc3747c46278bb98d27d152a16c5722d3.pdf)]
+* Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond, NIPS 2024. [[paper](https://arxiv.org/pdf/2405.14674)] [[code](https://github.com/WangzcBruce/DHD)]
+
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]

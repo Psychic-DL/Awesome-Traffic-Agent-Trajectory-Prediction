@@ -792,6 +792,8 @@ Please consider citing our papers if this repository accelerates your research:
 * Pedestrian Trajectory Prediction with Missing Data: Datasets, Imputation, and Benchmarking, NIPS 2024. [[paper](https://arxiv.org/pdf/2411.00174)] [[code](https://github.com/Pranav-chib/TrajImpute)]
 * LaKD: Length-agnostic Knowledge Distillation for Trajectory Prediction with Any Length Observations, NIPS 2024. [[paper](https://openreview.net/pdf/7cf0348cc3747c46278bb98d27d152a16c5722d3.pdf)]
 * Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond, NIPS 2024. [[paper](https://arxiv.org/pdf/2405.14674)] [[code](https://github.com/WangzcBruce/DHD)]
+* MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction, NIPS 2024. [[paper](https://openreview.net/pdf?id=muYhNDlxWc)] [[code](https://github.com/mulplue/MGF)]
+* Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving, NIPS 2024. [[paper](https://arxiv.org/pdf/2409.18031)] [[code](https://github.com/OpenDriveLab/BeTop)]
 
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]

@@ -766,7 +766,7 @@ Please consider citing our papers if this repository accelerates your research:
 * BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
 * NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
 * SocialCVAE: Predicting Pedestrian Trajectory via Interaction Conditioned Latents, AAAI 2024. [[paper](http://www.cad.zju.edu.cn/home/jin/AAAI20242/SocialCVAE.pdf)] [[code](http://www.cad.zju.edu.cn/home/jin/AAAI20242/SocialCVAE.htm)]
-* Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA 2024. [[paper](https://arxiv.org/abs/2402.04318)]
+* Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.15906)] [[code](https://github.com/daeheepark/TrajSDE)]
 * Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18447)] [[code](https://github.com/InhwanBae/LMTrajectory)]
 * SingularTrajectory: Universal Trajectory Predictor using Diffusion Model, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18452)] [[code](https://github.com/InhwanBae/SingularTrajectory)]
 * Producing and Leveraging Online Map Uncertainty in Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.16439.pdf)] [[code](https://github.com/alfredgu001324/MapUncertaintyPrediction)]
@@ -805,6 +805,7 @@ Please consider citing our papers if this repository accelerates your research:
 * FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction, ICRA 2024. [[paper](https://arxiv.org/pdf/2401.16189)]
 * Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning, ICRA 2024. [[paper](https://arxiv.org/pdf/2309.09021)] [[code](https://github.com/sydney-machine-learning/pedestrianpathprediction)]
 * Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments, ICRA 2024. [[paper](https://arxiv.org/pdf/2309.13893)] [[code](https://github.com/sisl/SceneInformer)]
+* Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA 2024. [[paper](https://arxiv.org/abs/2402.04318)]
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]

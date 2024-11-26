@@ -795,6 +795,9 @@ Please consider citing our papers if this repository accelerates your research:
 * MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction, NIPS 2024. [[paper](https://openreview.net/pdf?id=muYhNDlxWc)] [[code](https://github.com/mulplue/MGF)]
 * Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving, NIPS 2024. [[paper](https://arxiv.org/pdf/2409.18031)] [[code](https://github.com/OpenDriveLab/BeTop)]
 * SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction, NIPS 2024. [[paper](https://arxiv.org/pdf/2405.15677)] [[code](https://github.com/rainmaker22/SMART)]
+* MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction, ECCV 2024. [[paper](https://arxiv.org/pdf/2407.21635)] [[code](https://github.com/gist-ailab/MART)]
+* Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation, ECCV 2024. [[paper](https://yixiaowang7.github.io/OptTrajDiff_Page/static/pdfs/paper.pdf)] [[code](https://yixiaowang7.github.io/OptTrajDiff_Page/)]
+* 
 
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]

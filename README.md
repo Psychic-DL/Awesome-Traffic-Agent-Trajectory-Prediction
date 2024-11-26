@@ -797,8 +797,8 @@ Please consider citing our papers if this repository accelerates your research:
 * SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction, NIPS 2024. [[paper](https://arxiv.org/pdf/2405.15677)] [[code](https://github.com/rainmaker22/SMART)]
 * MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction, ECCV 2024. [[paper](https://arxiv.org/pdf/2407.21635)] [[code](https://github.com/gist-ailab/MART)]
 * Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation, ECCV 2024. [[paper](https://yixiaowang7.github.io/OptTrajDiff_Page/static/pdfs/paper.pdf)] [[code](https://yixiaowang7.github.io/OptTrajDiff_Page/)]
-* 
-
+* Progressive Pretext Task Learning for Human Trajectory Prediction, ECCV 2024. [[paper](https://arxiv.org/pdf/2407.11588)] [[code](https://github.com/iSEE-Laboratory/PPT)]
+* Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications, ECCV 2024. [[paper](https://arxiv.org/pdf/2410.06905)] [[code](https://github.com/kav-institute/mdn_trajectory_forecasting)]
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
@@ -832,6 +832,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Strada-LLM: Graph LLM for traffic prediction, arXiv preprint arXiv:2410.20856, 2024. [[paper](https://arxiv.org/pdf/2410.20856)]
 * MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos, arXiv preprint arXiv:2409.02638, 2024. [[paper](https://arxiv.org/pdf/2409.02638)] [[code](https://irmvlab.github.io/madiff.github.io/)]
 * Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning, arXiv preprint arXiv:2410.05582, 2024. [[paper](https://arxiv.org/pdf/2410.05582)] [[code](https://mczhi.github.io/GenDrive)]
+* Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving, arXiv preprint arXiv:2408.00374, 2024. [[paper](https://arxiv.org/pdf/2408.00374)] [[code](https://github.com/xichennn/V2I_trajectory_prediction)]
 
 
 # 📚 Related Review Papers

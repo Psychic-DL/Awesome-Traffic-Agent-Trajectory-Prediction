@@ -801,6 +801,8 @@ Please consider citing our papers if this repository accelerates your research:
 * Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications, ECCV 2024. [[paper](https://arxiv.org/pdf/2410.06905)] [[code](https://github.com/kav-institute/mdn_trajectory_forecasting)]
 * DySeT: a Dynamic Masked Self-distillation Approach for Robust Trajectory Prediction, ECCV 2024. [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00414.pdf)]
 * Adaptive Human Trajectory Prediction via Latent Corridors, ECCV 2024. [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05542.pdf)]
+* CRITERIA: a New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving, ICRA 2024. [[paper](https://arxiv.org/pdf/2310.07794)] [[code](https://github.com/huawei-noah/SMARTS/tree/CRITERIA-latest/papers/CRITERIA)]
+* 
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
@@ -811,6 +813,7 @@ Please consider citing our papers if this repository accelerates your research:
 * DSTCNN: Deformable Spatial-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction, Information Sciences. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524003682)]
 * Heterogeneous graph social pooling for interaction-aware vehicle trajectory prediction, Transportation Research Part E: Logistics and Transportation Review. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1366554524003399)]
 * VTSIM: Attention-Based Recurrent Neural Network for Intersection Vehicle Trajectory Simulation, Computer Animation and Virtual Worlds. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cav.2298?saml_referrer)]
+* Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873)] [[code](https://github.com/xupei0610/ContextVAE)]
 ## Others 2024
 * Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
 * Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]

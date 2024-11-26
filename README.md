@@ -799,6 +799,8 @@ Please consider citing our papers if this repository accelerates your research:
 * Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation, ECCV 2024. [[paper](https://yixiaowang7.github.io/OptTrajDiff_Page/static/pdfs/paper.pdf)] [[code](https://yixiaowang7.github.io/OptTrajDiff_Page/)]
 * Progressive Pretext Task Learning for Human Trajectory Prediction, ECCV 2024. [[paper](https://arxiv.org/pdf/2407.11588)] [[code](https://github.com/iSEE-Laboratory/PPT)]
 * Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications, ECCV 2024. [[paper](https://arxiv.org/pdf/2410.06905)] [[code](https://github.com/kav-institute/mdn_trajectory_forecasting)]
+* DySeT: a Dynamic Masked Self-distillation Approach for Robust Trajectory Prediction, ECCV 2024. [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00414.pdf)]
+* Adaptive Human Trajectory Prediction via Latent Corridors, ECCV 2024. [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05542.pdf)]
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]

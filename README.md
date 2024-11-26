@@ -804,6 +804,7 @@ Please consider citing our papers if this repository accelerates your research:
 * CRITERIA: a New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving, ICRA 2024. [[paper](https://arxiv.org/pdf/2310.07794)] [[code](https://github.com/huawei-noah/SMARTS/tree/CRITERIA-latest/papers/CRITERIA)]
 * FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction, ICRA 2024. [[paper](https://arxiv.org/pdf/2401.16189)]
 * Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning, ICRA 2024. [[paper](https://arxiv.org/pdf/2309.09021)] [[code](https://github.com/sydney-machine-learning/pedestrianpathprediction)]
+* Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments, ICRA 2024. [[paper](https://arxiv.org/pdf/2309.13893)] [[code](https://github.com/sisl/SceneInformer)]
 ## Journal Papers 2024
 * SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]

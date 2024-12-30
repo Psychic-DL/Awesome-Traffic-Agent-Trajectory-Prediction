@@ -847,6 +847,7 @@ Please consider citing our papers if this repository accelerates your research:
 
 
 # 📚 Related Review Papers
+* Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner, AAAI 2025. [[paper](https://ezharjan.github.io/AutoSceneGen/)] 
 * Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving, TIV 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528911)]
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]
 * A Survey of Generative AI for Intelligent Transportation Systems, arXiv preprint arXiv:2312.08248, 2023. [[paper](https://arxiv.org/pdf/2312.08248.pdf)]

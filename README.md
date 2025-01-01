@@ -72,6 +72,10 @@ Please consider citing our papers if this repository accelerates your research:
 	- [Conference Papers](#conference-papers-2024)
 	- [Journal Papers](#journal-papers-2024)
 	- [Others](#others-2024)
+- [**📚 2025 Conference and Journal Papers**](#-2025-conference-and-journal-papers)
+	- [Conference Papers](#conference-papers-2025)
+	- [Journal Papers](#journal-papers-2025)
+	- [Others](#others-2025)
 - [**📚 Related Review Papers**](#-related-review-papers)
 - [**📚 Datasets**](#-datasets)
   	- [Reviews about Datasets](#reviews-about-datasets)
@@ -845,6 +849,11 @@ Please consider citing our papers if this repository accelerates your research:
 * Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning, arXiv preprint arXiv:2410.05582, 2024. [[paper](https://arxiv.org/pdf/2410.05582)] [[code](https://mczhi.github.io/GenDrive)]
 * Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving, arXiv preprint arXiv:2408.00374, 2024. [[paper](https://arxiv.org/pdf/2408.00374)] [[code](https://github.com/xichennn/V2I_trajectory_prediction)]
 
+# 📚 2025 Conference and Journal Papers
+## Conference Papers 2025
+* Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.18086)] [[code](https://ezharjan.github.io/AutoSceneGen/)]
+## Journal Papers 2025
+## Others 2025
 
 # 📚 Related Review Papers
 * Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving, TIV 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528911)]

@@ -930,6 +930,12 @@ Please consider citing our papers if this repository accelerates your research:
 * [TRAFFIC](https://ieeexplore.ieee.org/document/7565640), [website](https://min.sjtu.edu.cn/lwydemo/Trajectory%20analysis.htm)
 * [CROSS](https://cvrr-nas.ucsd.edu/publications/2011/Morris_PAMI2011.pdf), [website](http://cvrr.ucsd.edu/bmorris/datasets/)
 * [Ubiquitous Traffic Eyes (UTE)](http://seutraffic.com/#/home)
+* [CitySim](https://github.com/UCF-SST-Lab/UCF-SST-CitySim1-Dataset)
+* [pNEUMA](https://open-traffic.epfl.ch/)
+* [I-24 MOTION](https://i24motion.org/data)
+* [Zen Traffic Data](https://zen-traffic-data.net/english/)
+* [DLR Urban Traffic](https://doi.org/10.5281/zenodo.11396371)
+* [DLR Highway Traffic](https://doi.org/10.5281/zenodo.14012005)
 ## Pedestrians Publicly Available Datasets
 * [GeoLife](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
 * [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)

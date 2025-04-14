@@ -849,6 +849,7 @@ Please consider citing our papers if this repository accelerates your research:
 * MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos, arXiv preprint arXiv:2409.02638, 2024. [[paper](https://arxiv.org/pdf/2409.02638)] [[code](https://irmvlab.github.io/madiff.github.io/)]
 * Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning, arXiv preprint arXiv:2410.05582, 2024. [[paper](https://arxiv.org/pdf/2410.05582)] [[code](https://mczhi.github.io/GenDrive)]
 * Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving, arXiv preprint arXiv:2408.00374, 2024. [[paper](https://arxiv.org/pdf/2408.00374)] [[code](https://github.com/xichennn/V2I_trajectory_prediction)]
+* LHPF: Look back the History and Plan for the Future in Autonomous Driving, arXiv preprint arXiv:2411.17253, 2024. [[paper](https://arxiv.org/pdf/2411.17253)] [[website](https://chantsss.github.io/LHPF/)]
 
 # 📚 2025 Conference and Journal Papers
 ## Conference Papers 2025

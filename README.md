@@ -675,6 +675,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Trajectory Unified Transformer for Pedestrian Trajectory Prediction, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Trajectory_Unified_Transformer_for_Pedestrian_Trajectory_Prediction_ICCV_2023_paper.pdf)]
 * Sparse Instance Conditioned Multimodal Trajectory Prediction, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Sparse_Instance_Conditioned_Multimodal_Trajectory_Prediction_ICCV_2023_paper.pdf)]
 * MotionLM: Multi-Agent Motion Forecasting as Language Modeling, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Seff_MotionLM_Multi-Agent_Motion_Forecasting_as_Language_Modeling_ICCV_2023_paper.pdf)]
+* Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction, ICCV 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Maeda_Fast_Inference_and_Update_of_Probabilistic_Density_Estimation_on_Trajectory_ICCV_2023_paper.pdf)] [[code](https://github.com/meaten/FlowChain-ICCV2023)]
 * ADAPT: Action-aware Driving Caption Transformer, ICRA 2023. [[paper](https://browse.arxiv.org/pdf/2302.00673.pdf)] [[code](https://github.com/jxbbb/ADAPT)]
 * Scenario Diffusion: Controllable Driving Scenario Generation With Diffusion, NIPS 2023. [[paper](https://openreview.net/pdf?id=99MHSB98yZ)]
 * BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Prediction, NIPS 2023. [[paper](https://openreview.net/pdf?id=FOFJmR1oxt)]

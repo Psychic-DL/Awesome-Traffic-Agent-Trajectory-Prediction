@@ -20,6 +20,13 @@ Please feel free to pull requests to add new resources or send emails to us for 
 # 🧐 Citation
 Please consider citing our papers if this repository accelerates your research:
 ```
+@article{11222824,
+  author={Li, Chaoneng and Wang, Xiaolong and Zhao, Shuxu and Wang, Xiaohu and Ye, Ze},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={DiffMATP: Interaction-Aware Multi-Agent Trajectory Prediction via Denoising Diffusion Models}, 
+  year={2025},
+  pages={1-14},
+  doi={10.1109/TVT.2025.3627215}}
 @inproceedings{li2022fidelity,
   title={Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection},
   author={Li, Chaoneng and Chao, Qianwen and Feng, Guanwen and Wang, Qiongyan and Liu, Pengfei and Li, Yunan and Miao, Qiguang},
@@ -859,7 +866,21 @@ Please consider citing our papers if this repository accelerates your research:
 ## Conference Papers 2025
 * Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.18086)] [[code](https://ezharjan.github.io/AutoSceneGen/)]
 * MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation, CVPR 2025. [[paper](https://arxiv.org/pdf/2503.09950)] [[code](https://github.com/DSL-Lab/MoFlow)]
+* NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.11682)]
+* C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.13231)] [[code](https://github.com/wangzc0422/C2F-TP)]
+* CUQDS: Conformal Uncertainty Quantification Under Distribution Shift for Trajectory Prediction, AAAI 2025. [[paper](https://arxiv.org/pdf/2406.12100)]
+* STraj: Self-training for Bridging the Cross-Geography Gap in Trajectory Prediction, AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/34432/36587)] [[code](https://github.com/Zhanwei-Z/STraj)]
+* Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning, AAAI 2025. [[paper](https://arxiv.org/pdf/2502.06870)] [[code](https://github.com/NickHan-cs/TRACK)]
+* GTG: Generalizable Trajectory Generation Model for Urban Mobility, AAAI 2025. [[paper](https://arxiv.org/pdf/2502.01107)] [[code](https://github.com/lyd1881310/GTG)]
+* 
 ## Journal Papers 2025
+* DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]
+* DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/document/10843981)] [[code](https://github.com/Chenwangxing/DSTIGCN_Master)]
+* PCHGCN: Physically Constrained Higher-Order Graph Convolutional Network for Pedestrian Trajectory Prediction, IEEE Internet of Things Journal. [[paper](https://ieeexplore.ieee.org/document/10948459)] [[code](https://github.com/Chenwangxing/PCHGCN-Master)]
+* DiffMATP: Interaction-Aware Multi-Agent Trajectory Prediction via Denoising Diffusion Models, TVT. [[paper](https://ieeexplore.ieee.org/document/11222824)]
+* HDSVT: High-Density Semantic Vehicle Trajectory Dataset Based on a Cosmopolitan City Bridge, Scientific Data. [[paper](https://www.nature.com/articles/s41597-025-05603-7)] [[DataSet](https://figshare.com/articles/dataset/HDSVT_High-Density_Semantic_Vehicle_Trajectory_Dataset_Based_on_a_Cosmopolitan_City_Bridge/27180387)]
+* 
+
 ## Others 2025
 
 # 📚 Related Review Papers

@@ -865,13 +865,13 @@ Please consider citing our papers if this repository accelerates your research:
 # 📚 2025 Conference and Journal Papers
 ## Conference Papers 2025
 * Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.18086)] [[code](https://ezharjan.github.io/AutoSceneGen/)]
-* MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation, CVPR 2025. [[paper](https://arxiv.org/pdf/2503.09950)] [[code](https://github.com/DSL-Lab/MoFlow)]
 * NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.11682)]
 * C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.13231)] [[code](https://github.com/wangzc0422/C2F-TP)]
 * CUQDS: Conformal Uncertainty Quantification Under Distribution Shift for Trajectory Prediction, AAAI 2025. [[paper](https://arxiv.org/pdf/2406.12100)]
 * STraj: Self-training for Bridging the Cross-Geography Gap in Trajectory Prediction, AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/34432/36587)] [[code](https://github.com/Zhanwei-Z/STraj)]
 * Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning, AAAI 2025. [[paper](https://arxiv.org/pdf/2502.06870)] [[code](https://github.com/NickHan-cs/TRACK)]
 * GTG: Generalizable Trajectory Generation Model for Urban Mobility, AAAI 2025. [[paper](https://arxiv.org/pdf/2502.01107)] [[code](https://github.com/lyd1881310/GTG)]
+* MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation, CVPR 2025. [[paper](https://arxiv.org/pdf/2503.09950)] [[code](https://github.com/DSL-Lab/MoFlow)]
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]

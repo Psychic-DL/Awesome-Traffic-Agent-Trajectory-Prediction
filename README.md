@@ -855,7 +855,10 @@ Please consider citing our papers if this repository accelerates your research:
 # 📚 2025 Conference and Journal Papers
 ## Conference Papers 2025
 * Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.18086)] [[code](https://ezharjan.github.io/AutoSceneGen/)]
+* NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving, AAAI 2025. [[paper](https://arxiv.org/pdf/2412.11682)]
 ## Journal Papers 2025
+* DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]
+
 ## Others 2025
 
 # 📚 Related Review Papers

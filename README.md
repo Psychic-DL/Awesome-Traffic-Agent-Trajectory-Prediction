@@ -915,7 +915,10 @@ Please consider citing our papers if this repository accelerates your research:
 * Diff-Refiner: Enhancing Multi-Agent Trajectory Prediction with a Plug-and-Play Diffusion Refiner, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127226)]
 * Scene-Aware Explainable Multimodal Trajectory Prediction, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128379)] [[code](https://github.com/ocean-luna/Explainable-Prediction)]
 * Stochastic Trajectory Prediction under Unstructured Constraints, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127647)]
-* 
+* DSFormer-RTP: Dynamic-stream Transformers for Real-time Deterministic Trajectory Prediction, IROS 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247611)] [[code](https://github.com/cxnaive/DSFormer-RTP)]
+* ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models, IROS 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246467)]
+* GDTS: Goal-Guided Diffusion Model with Tree Sampling for Multi-Modal Pedestrian Trajectory Prediction, IROS 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246846)]
+* TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction, IROS 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246714)] [[code](https://sites.google.com/view/trllm?usp=)]
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]

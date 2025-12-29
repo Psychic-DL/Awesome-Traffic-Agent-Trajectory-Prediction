@@ -874,6 +874,8 @@ Please consider citing our papers if this repository accelerates your research:
 * DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/document/10843981)] [[code](https://github.com/Chenwangxing/DSTIGCN_Master)]
 * PCHGCN: Physically Constrained Higher-Order Graph Convolutional Network for Pedestrian Trajectory Prediction, IEEE Internet of Things Journal. [[paper](https://ieeexplore.ieee.org/document/10948459)] [[code](https://github.com/Chenwangxing/PCHGCN-Master)]
 * DiffMATP: Interaction-Aware Multi-Agent Trajectory Prediction via Denoising Diffusion Models, TVT. [[paper](https://ieeexplore.ieee.org/document/11222824)]
+* HDSVT: High-Density Semantic Vehicle Trajectory Dataset Based on a Cosmopolitan City Bridge, Scientific Data. [[paper](https://www.nature.com/articles/s41597-025-05603-7)] [[DataSet](https://figshare.com/articles/dataset/HDSVT_High-Density_Semantic_Vehicle_Trajectory_Dataset_Based_on_a_Cosmopolitan_City_Bridge/27180387)]
+* 
 
 ## Others 2025
 

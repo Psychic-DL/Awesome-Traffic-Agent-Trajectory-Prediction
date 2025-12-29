@@ -872,6 +872,9 @@ Please consider citing our papers if this repository accelerates your research:
 * Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning, AAAI 2025. [[paper](https://arxiv.org/pdf/2502.06870)] [[code](https://github.com/NickHan-cs/TRACK)]
 * GTG: Generalizable Trajectory Generation Model for Urban Mobility, AAAI 2025. [[paper](https://arxiv.org/pdf/2502.01107)] [[code](https://github.com/lyd1881310/GTG)]
 * MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation, CVPR 2025. [[paper](https://arxiv.org/pdf/2503.09950)] [[code](https://github.com/DSL-Lab/MoFlow)]
+* Certified Human Trajectory Prediction, CVPR 2025. [[paper](https://arxiv.org/pdf/2403.13778)] [[website](https://s-attack.github.io/)] [[code](https://s-attack.github.io/certified/)]
+* Enduring, Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Enduring_Efficient_and_Robust_Trajectory_Prediction_Attack_in_Autonomous_Driving_CVPR_2025_paper.pdf)] [[code](https://github.com/y1y5/OMP-ATTACK)]
+* PerReg+: Towards Generalizable Trajectory Prediction using Dual-Level Representation Learning and Adaptive Prompting, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Messaoud_Towards_Generalizable_Trajectory_Prediction_using_Dual-Level_Representation_Learning_and_Adaptive_CVPR_2025_paper.pdf)]
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]

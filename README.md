@@ -875,6 +875,14 @@ Please consider citing our papers if this repository accelerates your research:
 * Certified Human Trajectory Prediction, CVPR 2025. [[paper](https://arxiv.org/pdf/2403.13778)] [[website](https://s-attack.github.io/)] [[code](https://s-attack.github.io/certified/)]
 * Enduring, Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Enduring_Efficient_and_Robust_Trajectory_Prediction_Attack_in_Autonomous_Driving_CVPR_2025_paper.pdf)] [[code](https://github.com/y1y5/OMP-ATTACK)]
 * PerReg+: Towards Generalizable Trajectory Prediction using Dual-Level Representation Learning and Adaptive Prompting, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Messaoud_Towards_Generalizable_Trajectory_Prediction_using_Dual-Level_Representation_Learning_and_Adaptive_CVPR_2025_paper.pdf)]
+* Leveraging SD Map to Augment HD Map-based Trajectory Prediction, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Leveraging_SD_Map_to_Augment_HD_Map-based_Trajectory_Prediction_CVPR_2025_paper.pdf)]
+* Adapting to Observation Length of Trajectory Prediction via Contrastive, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Qiu_Adapting_to_Observation_Length_of_Trajectory_Prediction_via_Contrastive_Learning_CVPR_2025_paper.pdf)]
+* Multi-modal Knowledge Distillation-based Human Trajectory Forecasting, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jeong_Multi-modal_Knowledge_Distillation-based_Human_Trajectory_Forecasting_CVPR_2025_paper.pdf)] [[code](https://github.com/Jaewoo97/KDTF)]
+* Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Taketsugu_Physical_Plausibility-aware_Trajectory_Prediction_via_Locomotion_Embodiment_CVPR_2025_paper.pdf)] [[code](https://github.com/ImIntheMiddle/EmLoco)]
+* Sim-to-Real Causal Transfer: A Metric Learning Approach to Causally-Aware Interaction Representations, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Rahimi_Sim-to-Real_Causal_Transfer_A_Metric_Learning_Approach_to_Causally-Aware_Interaction_CVPR_2025_paper.pdf)] [[code](https://github.com/vita-epfl/CausalSim2Real)]
+* SocialMOIF：Multi-Order Intention Fusion for Pedestrian Trajectory Prediction, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_SocialMOIF_Multi-Order_Intention_Fusion_for_Pedestrian_Trajectory_Prediction_CVPR_2025_paper.pdf)]
+* Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Trajectory_Mamba_Efficient_Attention-Mamba_Forecasting_Model_Based_on_Selective_SSM_CVPR_2025_paper.pdf)] [[code](https://github.com/YiZhou-H/Trajectory-Mamba-CVPR)]
+* Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Tra-MoE_Learning_Trajectory_Prediction_Model_from_Multiple_Domains_for_Adaptive_CVPR_2025_paper.pdf)] [[code](https://github.com/MCG-NJU/Tra-MoE)]
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]
@@ -887,6 +895,7 @@ Please consider citing our papers if this repository accelerates your research:
 ## Others 2025
 
 # 📚 Related Review Papers
+* Trajectory Prediction Meets Large Language Models: A Survey, arXiv preprint arXiv:2506.03408, 2025. [[paper](https://arxiv.org/pdf/2506.03408)] [[code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]
 * Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving, TIV 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528911)]
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]
 * A Survey of Generative AI for Intelligent Transportation Systems, arXiv preprint arXiv:2312.08248, 2023. [[paper](https://arxiv.org/pdf/2312.08248.pdf)]

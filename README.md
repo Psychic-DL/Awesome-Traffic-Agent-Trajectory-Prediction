@@ -883,6 +883,7 @@ Please consider citing our papers if this repository accelerates your research:
 * SocialMOIF：Multi-Order Intention Fusion for Pedestrian Trajectory Prediction, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_SocialMOIF_Multi-Order_Intention_Fusion_for_Pedestrian_Trajectory_Prediction_CVPR_2025_paper.pdf)]
 * Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Trajectory_Mamba_Efficient_Attention-Mamba_Forecasting_Model_Based_on_Selective_SSM_CVPR_2025_paper.pdf)] [[code](https://github.com/YiZhou-H/Trajectory-Mamba-CVPR)]
 * Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Tra-MoE_Learning_Trajectory_Prediction_Model_from_Multiple_Domains_for_Adaptive_CVPR_2025_paper.pdf)] [[code](https://github.com/MCG-NJU/Tra-MoE)]
+* Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Capellera_Unified_Uncertainty-Aware_Diffusion_for_Multi-Agent_Trajectory_Modeling_CVPR_2025_paper.pdf)]
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]

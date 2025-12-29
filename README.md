@@ -20,15 +20,12 @@ Please feel free to pull requests to add new resources or send emails to us for 
 # 🧐 Citation
 Please consider citing our papers if this repository accelerates your research:
 ```
-@ARTICLE{11222824,
+@article{11222824,
   author={Li, Chaoneng and Wang, Xiaolong and Zhao, Shuxu and Wang, Xiaohu and Ye, Ze},
   journal={IEEE Transactions on Vehicular Technology}, 
   title={DiffMATP: Interaction-Aware Multi-Agent Trajectory Prediction via Denoising Diffusion Models}, 
   year={2025},
-  volume={},
-  number={},
   pages={1-14},
-  keywords={Trajectory;Diffusion models;Noise reduction;Hidden Markov models;Predictive models;Diffusion processes;Training;Vehicle dynamics;Force;Adaptation models;Trajectory Prediction;Multi-Agent;Interaction-Aware;Denoising Diffusion Models},
   doi={10.1109/TVT.2025.3627215}}
 @inproceedings{li2022fidelity,
   title={Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection},

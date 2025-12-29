@@ -884,6 +884,26 @@ Please consider citing our papers if this repository accelerates your research:
 * Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Trajectory_Mamba_Efficient_Attention-Mamba_Forecasting_Model_Based_on_Selective_SSM_CVPR_2025_paper.pdf)] [[code](https://github.com/YiZhou-H/Trajectory-Mamba-CVPR)]
 * Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Tra-MoE_Learning_Trajectory_Prediction_Model_from_Multiple_Domains_for_Adaptive_CVPR_2025_paper.pdf)] [[code](https://github.com/MCG-NJU/Tra-MoE)]
 * Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling, CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Capellera_Unified_Uncertainty-Aware_Diffusion_for_Multi-Agent_Trajectory_Modeling_CVPR_2025_paper.pdf)]
+* AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Rao_AMD_Adaptive_Momentum_and_Decoupled_Contrastive_Learning_Framework_for_Robust_ICCV_2025_paper.pdf)]
+* DONUT: A Decoder-Only Model for Trajectory Prediction, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Knoche_DONUT_A_Decoder-Only_Model_for_Trajectory_Prediction_ICCV_2025_paper.pdf)] [[code](https://github.com/MKnoche/DONUT)]
+* Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Pei_Foresight_in_Motion_Reinforcing_Trajectory_Prediction_with_Reward_Heuristics_ICCV_2025_paper.pdf)]
+* ForeSight: Multi-View Streaming Joint Object Detection and Trajectory Forecasting, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Papais_ForeSight_Multi-View_Streaming_Joint_Object_Detection_and_Trajectory_Forecasting_ICCV_2025_paper.pdf)] [[code](https://foresight-iccv.github.io/)]
+* Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Park_Generative_Active_Learning_for_Long-tail_Trajectory_Prediction_via_Controllable_Diffusion_ICCV_2025_paper.pdf)]
+* NATRA: Noise-Agnostic Framework for Trajectory Prediction with Noisy Observations, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_NATRA_Noise-Agnostic_Framework_for_Trajectory_Prediction_with_Noisy_Observations_ICCV_2025_paper.pdf)]
+* SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Xiao_SRefiner_Soft-Braid_Attention_for_Multi-Agent_Trajectory_Refinement_ICCV_2025_paper.pdf)] [[code](https://github.com/Liwen-Xiao/SRefiner)]
+* TOTP: Transferable Online Pedestrian Trajectory Prediction with Temporal-Adaptive Mamba Latent Diffusion, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_TOTP_Transferable_Online_Pedestrian_Trajectory_Prediction_with_Temporal-Adaptive_Mamba_Latent_ICCV_2025_paper.pdf)]
+* Unified Multi-Agent Trajectory Modeling with Masked Trajectory Diffusion, ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Unified_Multi-Agent_Trajectory_Modeling_with_Masked_Trajectory_Diffusion_ICCV_2025_paper.pdf)]
+* A Driving-Style-Adaptive Framework for Vehicle Trajectory Prediction, NIPS 2025. [[paper](https://openreview.net/pdf/19a4046603d4ecb927c2708967c00e223725333a.pdf)]
+* Towards Predicting Any Human Trajectory In Context, NIPS 2025. [[paper](https://openreview.net/pdf/da08cd5bb2b08b484195bc720c3b833a7fd3bab6.pdf)]
+* Interactive Adjustment for Human Trajectory Prediction with Individual Feedback, ICLR 2025. [[paper](https://openreview.net/pdf?id=DCpukR83sw)]
+* Leveraging Driver Field-of-View for Multimodal Ego-Trajectory Prediction, ICLR 2025. [[paper](https://openreview.net/pdf?id=LLWj8on4Rv)] [[code](https://github.com/meakbiyik/routeformer)]
+* Neuralized Markov Random Field for Interaction-Aware Stochastic Human Trajectory Prediction, ICLR 2025. [[paper](https://openreview.net/pdf?id=r3cEOVj7Ze)] [[code](https://github.com/AdaCompNUS/NMRF_TrajectoryPrediction)]
+* Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports, ICLR 2025. [paper](https://openreview.net/pdf?id=9aTZf71uiD)] [[code](https://github.com/colorfulfuture/UniTraj-pytorch)]
+* Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving, ICLR 2025. [[paper](https://openreview.net/pdf?id=UapxTvxB3N)] [[code](https://github.com/TJU-IDVLab/Traj-LLM)]
+* TSC-Net: Prediction of Pedestrian Trajectories by Trajectory-Scene-Cell Classification, ICLR 2025. [[paper](https://openreview.net/pdf?id=Xmh5gdMfRJ)]
+* DriveGPT: Scaling Autoregressive Behavior Models for Driving, ICML 2025. [[paper](https://openreview.net/pdf?id=SBUxQakoJJ)]
+* SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation, ICML 2025. [[paper](https://openreview.net/pdf?id=OYbZWmNHwn)] [[code](https://github.com/richie-live/SAH-Drive)]
+* Three-Dimensional Trajectory Prediction with 3DMoTraj Dataset, ICML 2025. [[paper](https://openreview.net/pdf?id=jkVH7nLzUR)] [[code](https://github.com/zhouhao94/3DMoTraj)]
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]
@@ -894,6 +914,8 @@ Please consider citing our papers if this repository accelerates your research:
 * 
 
 ## Others 2025
+* V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models, arXiv preprint arXiv:2502.09980, 2025. [[paper](https://arxiv.org/abs/2502.09980)] [[code](https://eddyhkchiu.github.io/v2vllm.github.io/)]
+* V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts, arXiv preprint arXiv:2509.18053, 2025. [[paper](https://arxiv.org/pdf/2509.18053v3)] [[code](https://eddyhkchiu.github.io/v2vgot.github.io/)]
 
 # 📚 Related Review Papers
 * Trajectory Prediction Meets Large Language Models: A Survey, arXiv preprint arXiv:2506.03408, 2025. [[paper](https://arxiv.org/pdf/2506.03408)] [[code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]

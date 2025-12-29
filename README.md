@@ -904,6 +904,8 @@ Please consider citing our papers if this repository accelerates your research:
 * DriveGPT: Scaling Autoregressive Behavior Models for Driving, ICML 2025. [[paper](https://openreview.net/pdf?id=SBUxQakoJJ)]
 * SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation, ICML 2025. [[paper](https://openreview.net/pdf?id=OYbZWmNHwn)] [[code](https://github.com/richie-live/SAH-Drive)]
 * Three-Dimensional Trajectory Prediction with 3DMoTraj Dataset, ICML 2025. [[paper](https://openreview.net/pdf?id=jkVH7nLzUR)] [[code](https://github.com/zhouhao94/3DMoTraj)]
+* Cross Time Domain Intention Interaction for Conditional Trajectory Prediction, ACM MM 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3754709)]
+* ViTraj: Learning Dual-Side Representations for Vehicle-Infrastructure Cooperative Trajectory Prediction, ACM MM 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755295)]
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]
@@ -911,7 +913,7 @@ Please consider citing our papers if this repository accelerates your research:
 * PCHGCN: Physically Constrained Higher-Order Graph Convolutional Network for Pedestrian Trajectory Prediction, IEEE Internet of Things Journal. [[paper](https://ieeexplore.ieee.org/document/10948459)] [[code](https://github.com/Chenwangxing/PCHGCN-Master)]
 * DiffMATP: Interaction-Aware Multi-Agent Trajectory Prediction via Denoising Diffusion Models, TVT. [[paper](https://ieeexplore.ieee.org/document/11222824)]
 * HDSVT: High-Density Semantic Vehicle Trajectory Dataset Based on a Cosmopolitan City Bridge, Scientific Data. [[paper](https://www.nature.com/articles/s41597-025-05603-7)] [[DataSet](https://figshare.com/articles/dataset/HDSVT_High-Density_Semantic_Vehicle_Trajectory_Dataset_Based_on_a_Cosmopolitan_City_Bridge/27180387)]
-* 
+* CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting, IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/document/10980428)]
 
 ## Others 2025
 * V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models, arXiv preprint arXiv:2502.09980, 2025. [[paper](https://arxiv.org/abs/2502.09980)] [[code](https://eddyhkchiu.github.io/v2vllm.github.io/)]

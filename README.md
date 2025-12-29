@@ -906,6 +906,16 @@ Please consider citing our papers if this repository accelerates your research:
 * Three-Dimensional Trajectory Prediction with 3DMoTraj Dataset, ICML 2025. [[paper](https://openreview.net/pdf?id=jkVH7nLzUR)] [[code](https://github.com/zhouhao94/3DMoTraj)]
 * Cross Time Domain Intention Interaction for Conditional Trajectory Prediction, ACM MM 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3754709)]
 * ViTraj: Learning Dual-Side Representations for Vehicle-Infrastructure Cooperative Trajectory Prediction, ACM MM 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755295)]
+* Unified Human Localization and Trajectory Prediction with Monocular Vision, ICRA 2025. [[paper](https://arxiv.org/pdf/2503.03535)] [[code](https://github.com/vita-epfl/MonoTransmotion)]
+* Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128395)] [[code](https://cvit.iiit.ac.in/research/projects/cvit-projects/iddped)]
+* Visual-Linguistic Reasoning for Pedestrian Trajectory Prediction, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127538)]
+* Curb Your Attention: Causal Attention Gating for Robust Trajectory Prediction in Autonomous Driving, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128367)] [[code](https://ehsan-ami.github.io/critic/)]
+* Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127303)] [[code](https://xiaomiaozhang.github.io/Co-MTP/)]
+* WcDT: World-centric Diffusion Transformer for Traffic Scene Generation, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127600)] [[code](https://github.com/yangchen1997/WcDT)]
+* Diff-Refiner: Enhancing Multi-Agent Trajectory Prediction with a Plug-and-Play Diffusion Refiner, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127226)]
+* Scene-Aware Explainable Multimodal Trajectory Prediction, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128379)] [[code](https://github.com/ocean-luna/Explainable-Prediction)]
+* Stochastic Trajectory Prediction under Unstructured Constraints, ICRA 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127647)]
+* 
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]
@@ -964,6 +974,8 @@ Please consider citing our papers if this repository accelerates your research:
 ## Reviews about Datasets
 * A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook, arXiv preprint arXiv:2401.01454, 2024. [[paper](https://arxiv.org/pdf/2401.01454.pdf)]
 * Open-sourced Data Ecosystem in Autonomous Driving: the Present and Future, arXiv preprint arXiv:2312.03408, 2023. [[paper](https://arxiv.org/pdf/2312.03408.pdf)] [[Chinese](https://opendrivelab.com/Dataset_Survey_Chinese.pdf)] [[code](https://github.com/OpenDriveLab/DriveAGI)]
+* HDSVT: High-Density Semantic Vehicle Trajectory Dataset Based on a Cosmopolitan City Bridge, Scientific Data 2025. [[paper](https://www.nature.com/articles/s41597-025-05603-7)] [[DataSet](https://figshare.com/articles/dataset/HDSVT_High-Density_Semantic_Vehicle_Trajectory_Dataset_Based_on_a_Cosmopolitan_City_Bridge/27180387)]
+* The AD4CHE Dataset and Its Application in Typical Congestion Scenarios of Traffic Jam Pilot Systems, IEEE Transactions on Intelligent Vehicles 2023. [[paper](https://ieeexplore.ieee.org/document/10079130)] [[code](https://github.com/ADSafetyJointLab/AD4CHE)]
 
 ## Vehicles Publicly Available Datasets
 * [Porto](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data), [website](https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge,+ECML+PKDD+2015)

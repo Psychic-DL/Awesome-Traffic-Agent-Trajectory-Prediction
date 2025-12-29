@@ -864,6 +864,9 @@ Please consider citing our papers if this repository accelerates your research:
 * 
 ## Journal Papers 2025
 * DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles, Information Fusion. [[paper](https://arxiv.org/pdf/2412.20784)]
+* DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/document/10843981)] [[code](https://github.com/Chenwangxing/DSTIGCN_Master)]
+* PCHGCN: Physically Constrained Higher-Order Graph Convolutional Network for Pedestrian Trajectory Prediction, IEEE Internet of Things Journal. [[paper](https://ieeexplore.ieee.org/document/10948459)] [[code](https://github.com/Chenwangxing/PCHGCN-Master)]
+* DiffMATP: Interaction-Aware Multi-Agent Trajectory Prediction via Denoising Diffusion Models, TVT. [[paper](https://ieeexplore.ieee.org/document/11222824)]
 
 ## Others 2025
 

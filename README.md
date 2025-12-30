@@ -87,6 +87,10 @@ Please consider citing our papers if this repository accelerates your research:
   - [Conference Papers 2025](#conference-papers-2025)
   - [Journal Papers 2025](#journal-papers-2025)
   - [Others 2025](#others-2025)
+- [📚 2026 Conference and Journal Papers](#-2026-conference-and-journal-papers)
+  - [Conference Papers 2026](#conference-papers-2026)
+  - [Journal Papers 2026](#journal-papers-2026)
+  - [Others 2026](#others-2026)
 - [📚 Related Review Papers](#-related-review-papers)
 - [📚 Datasets](#-datasets)
   - [Reviews about Datasets](#reviews-about-datasets)
@@ -931,6 +935,14 @@ Please consider citing our papers if this repository accelerates your research:
 ## Others 2025
 * V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models, arXiv preprint arXiv:2502.09980, 2025. [[paper](https://arxiv.org/abs/2502.09980)] [[code](https://eddyhkchiu.github.io/v2vllm.github.io/)]
 * V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts, arXiv preprint arXiv:2509.18053, 2025. [[paper](https://arxiv.org/pdf/2509.18053v3)] [[code](https://eddyhkchiu.github.io/v2vgot.github.io/)]
+
+# 📚 2026 Conference and Journal Papers
+## Conference Papers 2026
+
+## Journal Papers 2026
+
+## Others 2026
+
 
 # 📚 Related Review Papers
 * Trajectory Prediction Meets Large Language Models: A Survey, arXiv preprint arXiv:2506.03408, 2025. [[paper](https://arxiv.org/pdf/2506.03408)] [[code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]

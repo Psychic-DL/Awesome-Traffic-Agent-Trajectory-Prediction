@@ -947,6 +947,7 @@ Please consider citing our papers if this repository accelerates your research:
 * 
 
 # 📚 Related Review Papers
+* Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey, arXiv preprint arXiv:2509.10570, 2025. [[paper](https://arxiv.org/pdf/2509.10570)]
 * Trajectory Prediction Meets Large Language Models: A Survey, arXiv preprint arXiv:2506.03408, 2025. [[paper](https://arxiv.org/pdf/2506.03408)] [[code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]
 * Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving, TIV 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528911)]
 * A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]

@@ -839,6 +839,7 @@ Please consider citing our papers if this repository accelerates your research:
 * VTSIM: Attention-Based Recurrent Neural Network for Intersection Vehicle Trajectory Simulation, Computer Animation and Virtual Worlds. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cav.2298?saml_referrer)]
 * Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873)] [[code](https://github.com/xupei0610/ContextVAE)]
 * MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2308.10280)]
+* Simulating human mobility with a trajectory generation framework based on diffusion model, International Journal of Geographical Information Science. [paper](https://www.researchgate.net/profile/Chen-Chu-17/publication/378022332_Simulating_human_mobility_with_a_trajectory_generation_framework_based_on_diffusion_model/links/65cc2e5c790074549783cbf7/Simulating-human-mobility-with-a-trajectory-generation-framework-based-on-diffusion-model.pdf)] [[code](https://github.com/chuchen2017/TrajGDM)]
 
 ## Others 2024
 * Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]

@@ -905,6 +905,7 @@ Please consider citing our papers if this repository accelerates your research:
 * Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports, ICLR 2025. [paper](https://openreview.net/pdf?id=9aTZf71uiD)] [[code](https://github.com/colorfulfuture/UniTraj-pytorch)]
 * Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving, ICLR 2025. [[paper](https://openreview.net/pdf?id=UapxTvxB3N)] [[code](https://github.com/TJU-IDVLab/Traj-LLM)]
 * TSC-Net: Prediction of Pedestrian Trajectories by Trajectory-Scene-Cell Classification, ICLR 2025. [[paper](https://openreview.net/pdf?id=Xmh5gdMfRJ)]
+* SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction, ICLR 2025. [[paper](https://arxiv.org/pdf/2410.08669)] [[code](https://github.com/youngzhou1999/SmartPretrain)]
 * DriveGPT: Scaling Autoregressive Behavior Models for Driving, ICML 2025. [[paper](https://openreview.net/pdf?id=SBUxQakoJJ)]
 * SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation, ICML 2025. [[paper](https://openreview.net/pdf?id=OYbZWmNHwn)] [[code](https://github.com/richie-live/SAH-Drive)]
 * Three-Dimensional Trajectory Prediction with 3DMoTraj Dataset, ICML 2025. [[paper](https://openreview.net/pdf?id=jkVH7nLzUR)] [[code](https://github.com/zhouhao94/3DMoTraj)]

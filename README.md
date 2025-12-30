@@ -938,11 +938,12 @@ Please consider citing our papers if this repository accelerates your research:
 
 # 📚 2026 Conference and Journal Papers
 ## Conference Papers 2026
-
+* ViTE: Virtual Graph Trajectory Expert Router for Pedestrian Trajectory Prediction, AAAI 2026. [[paper](https://arxiv.org/pdf/2511.12214)] [[code](https://github.com/Carrotsniper/ViTE)]
+* 
 ## Journal Papers 2026
-
+* 
 ## Others 2026
-
+* 
 
 # 📚 Related Review Papers
 * Trajectory Prediction Meets Large Language Models: A Survey, arXiv preprint arXiv:2506.03408, 2025. [[paper](https://arxiv.org/pdf/2506.03408)] [[code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]

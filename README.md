@@ -941,6 +941,7 @@ Please consider citing our papers if this repository accelerates your research:
 ## Conference Papers 2026
 * ViTE: Virtual Graph Trajectory Expert Router for Pedestrian Trajectory Prediction, AAAI 2026. [[paper](https://arxiv.org/pdf/2511.12214)] [[code](https://github.com/Carrotsniper/ViTE)]
 * DiffRefiner: Coarse to Fine Trajectory Planning via Diffusion Refinement with Semantic Interaction for End to End Autonomous Driving, AAAI 2026. [[paper](https://arxiv.org/pdf/2511.17150)] [[code](https://github.com/nullmax-vision/DiffRefiner)]
+* TRAJEVO: Trajectory Prediction Heuristics Design via LLM-driven Evolution, AAAI 2026. [[paper](https://www.arxiv.org/pdf/2508.05616)] [[code](https://github.com/ai4co/trajevo)]
 ## Journal Papers 2026
 * 
 ## Others 2026
